@@ -1,0 +1,3209 @@
+recovery_id,job_id,customer_id,recovery_status,recovery_duration_min
+1,2,1,Partially Successful,169.03
+2,12,1,Failed,155.29
+3,34,1,Failed,48.47
+4,35,1,Successful,48.29
+5,70,2,Successful,83.92
+6,155,4,Partially Successful,57.11
+7,227,5,Failed,84.37
+8,248,5,Partially Successful,168.09
+9,249,5,Failed,107.77
+10,262,6,Successful,29.66
+11,306,7,Partially Successful,103.59
+12,314,7,Successful,141.68
+13,391,8,Successful,148.79
+14,442,9,Partially Successful,25.46
+15,447,9,Successful,120.67
+16,476,10,Failed,166.87
+17,500,10,Successful,43.17
+18,519,11,Successful,141.0
+19,523,11,Partially Successful,106.31
+20,532,11,Partially Successful,145.78
+21,533,11,Partially Successful,142.77
+22,582,12,Successful,103.78
+23,616,13,Partially Successful,102.39
+24,632,13,Partially Successful,101.02
+25,646,13,Failed,161.78
+26,662,14,Failed,85.41
+27,676,14,Failed,22.48
+28,679,14,Successful,46.71
+29,706,15,Successful,110.01
+30,718,15,Successful,79.77
+31,752,16,Failed,94.74
+32,790,16,Failed,109.92
+33,797,16,Successful,54.44
+34,811,17,Failed,62.77
+35,844,17,Successful,68.7
+36,848,17,Successful,70.68
+37,906,19,Partially Successful,23.64
+38,918,19,Failed,79.92
+39,923,19,Successful,29.74
+40,933,19,Partially Successful,84.56
+41,938,19,Successful,74.9
+42,948,19,Failed,114.93
+43,972,20,Successful,84.7
+44,999,20,Successful,23.91
+45,1012,21,Partially Successful,152.8
+46,1013,21,Failed,167.27
+47,1024,21,Failed,127.29
+48,1025,21,Failed,132.09
+49,1055,22,Successful,132.46
+50,1062,22,Partially Successful,111.57
+51,1075,22,Partially Successful,51.93
+52,1089,22,Successful,75.57
+53,1105,23,Successful,56.96
+54,1158,24,Partially Successful,169.09
+55,1172,24,Successful,153.01
+56,1181,24,Partially Successful,156.98
+57,1184,24,Failed,79.33
+58,1186,24,Partially Successful,149.52
+59,1197,24,Failed,131.28
+60,1198,24,Successful,55.21
+61,1210,25,Partially Successful,140.51
+62,1221,25,Failed,94.72
+63,1224,25,Failed,149.32
+64,1229,25,Partially Successful,20.49
+65,1231,25,Partially Successful,177.98
+66,1239,25,Partially Successful,30.96
+67,1249,25,Successful,103.12
+68,1278,26,Failed,158.56
+69,1302,27,Partially Successful,68.87
+70,1325,27,Failed,110.25
+71,1334,27,Successful,118.8
+72,1335,27,Failed,127.58
+73,1349,27,Partially Successful,85.48
+74,1371,28,Successful,115.48
+75,1383,28,Successful,78.66
+76,1389,28,Partially Successful,108.59
+77,1416,29,Partially Successful,63.92
+78,1420,29,Partially Successful,134.58
+79,1425,29,Failed,70.68
+80,1426,29,Successful,89.04
+81,1428,29,Partially Successful,103.1
+82,1441,29,Partially Successful,149.92
+83,1449,29,Partially Successful,125.69
+84,1465,30,Successful,44.73
+85,1513,31,Failed,145.68
+86,1522,31,Failed,136.12
+87,1545,31,Partially Successful,170.66
+88,1585,32,Failed,166.86
+89,1592,32,Failed,93.12
+90,1617,33,Failed,160.25
+91,1639,33,Failed,83.45
+92,1665,34,Successful,111.64
+93,1682,34,Successful,160.8
+94,1699,34,Partially Successful,119.82
+95,1701,35,Partially Successful,26.63
+96,1716,35,Successful,28.51
+97,1719,35,Failed,68.97
+98,1728,35,Successful,147.73
+99,1755,36,Successful,21.68
+100,1757,36,Successful,152.3
+101,1774,36,Failed,169.34
+102,1816,37,Successful,36.95
+103,1828,37,Failed,51.36
+104,1831,37,Failed,37.64
+105,1865,38,Successful,59.08
+106,1890,38,Partially Successful,171.59
+107,1913,39,Successful,115.64
+108,1955,40,Failed,85.57
+109,2021,41,Partially Successful,114.72
+110,2028,41,Partially Successful,86.67
+111,2034,41,Partially Successful,97.22
+112,2079,42,Partially Successful,137.62
+113,2092,42,Successful,159.08
+114,2101,43,Failed,58.36
+115,2108,43,Failed,179.37
+116,2110,43,Successful,49.26
+117,2114,43,Successful,115.96
+118,2120,43,Partially Successful,50.82
+119,2123,43,Failed,164.73
+120,2125,43,Successful,165.77
+121,2129,43,Partially Successful,111.38
+122,2136,43,Partially Successful,141.42
+123,2201,45,Partially Successful,146.24
+124,2214,45,Failed,68.5
+125,2244,45,Failed,60.73
+126,2287,46,Failed,140.21
+127,2315,47,Failed,149.77
+128,2409,49,Failed,61.65
+129,2416,49,Successful,123.74
+130,2426,49,Failed,32.17
+131,2428,49,Partially Successful,90.88
+132,2430,49,Failed,117.67
+133,2433,49,Successful,172.21
+134,2435,49,Successful,121.32
+135,2461,50,Successful,56.69
+136,2486,50,Partially Successful,143.91
+137,2499,50,Failed,34.34
+138,2504,51,Partially Successful,35.02
+139,2528,51,Failed,93.77
+140,2530,51,Successful,61.16
+141,2554,52,Failed,152.92
+142,2556,52,Partially Successful,168.78
+143,2570,52,Partially Successful,141.59
+144,2572,52,Partially Successful,56.62
+145,2577,52,Failed,109.5
+146,2582,52,Successful,42.54
+147,2737,55,Partially Successful,26.16
+148,2783,56,Successful,172.01
+149,2790,56,Failed,61.08
+150,2792,56,Failed,118.58
+151,2799,56,Partially Successful,111.42
+152,2804,57,Failed,123.48
+153,2806,57,Failed,74.18
+154,2837,57,Partially Successful,172.96
+155,2863,58,Successful,72.17
+156,2872,58,Successful,73.18
+157,2886,58,Partially Successful,37.54
+158,2907,59,Successful,36.73
+159,2914,59,Failed,134.55
+160,2928,59,Partially Successful,167.85
+161,2939,59,Successful,142.25
+162,2950,59,Partially Successful,125.36
+163,2964,60,Failed,154.5
+164,2969,60,Successful,36.42
+165,2980,60,Successful,117.67
+166,2986,60,Successful,129.21
+167,3038,61,Successful,172.63
+168,3056,62,Successful,133.17
+169,3060,62,Failed,97.37
+170,3068,62,Failed,179.12
+171,3077,62,Failed,168.18
+172,3080,62,Failed,170.65
+173,3092,62,Successful,143.91
+174,3097,62,Partially Successful,118.25
+175,3129,63,Failed,133.46
+176,3133,63,Successful,52.26
+177,3157,64,Failed,57.49
+178,3193,64,Successful,160.67
+179,3197,64,Failed,57.6
+180,3295,66,Partially Successful,144.43
+181,3302,67,Failed,152.57
+182,3353,68,Failed,36.82
+183,3365,68,Successful,132.43
+184,3392,68,Failed,35.98
+185,3393,68,Successful,34.35
+186,3395,68,Successful,117.72
+187,3396,68,Failed,65.52
+188,3403,69,Failed,71.7
+189,3408,69,Partially Successful,31.2
+190,3432,69,Successful,53.06
+191,3439,69,Successful,29.8
+192,3440,69,Failed,24.34
+193,3444,69,Successful,163.82
+194,3445,69,Failed,35.75
+195,3477,70,Failed,106.94
+196,3503,71,Partially Successful,54.05
+197,3505,71,Successful,29.13
+198,3507,71,Partially Successful,24.53
+199,3513,71,Partially Successful,159.43
+200,3516,71,Partially Successful,96.96
+201,3527,71,Successful,49.62
+202,3529,71,Failed,104.62
+203,3574,72,Successful,155.58
+204,3610,73,Partially Successful,148.97
+205,3650,73,Partially Successful,97.02
+206,3697,74,Successful,83.66
+207,3699,74,Failed,72.33
+208,3710,75,Failed,99.09
+209,3715,75,Successful,29.66
+210,3732,75,Partially Successful,137.67
+211,3790,76,Failed,114.93
+212,3804,77,Successful,85.49
+213,3925,79,Failed,130.4
+214,3953,80,Partially Successful,147.63
+215,3971,80,Successful,179.77
+216,3986,80,Partially Successful,79.44
+217,4034,81,Failed,70.76
+218,4036,81,Partially Successful,80.61
+219,4037,81,Partially Successful,106.37
+220,4051,82,Failed,125.64
+221,4060,82,Successful,71.41
+222,4068,82,Failed,68.12
+223,4107,83,Successful,165.66
+224,4128,83,Partially Successful,126.54
+225,4159,84,Partially Successful,115.39
+226,4172,84,Successful,33.83
+227,4176,84,Partially Successful,53.18
+228,4204,85,Successful,174.11
+229,4246,85,Partially Successful,43.13
+230,4250,85,Partially Successful,42.21
+231,4257,86,Failed,142.96
+232,4328,87,Partially Successful,125.87
+233,4405,89,Failed,146.12
+234,4407,89,Failed,171.34
+235,4422,89,Partially Successful,85.79
+236,4439,89,Partially Successful,118.47
+237,4446,89,Failed,150.53
+238,4463,90,Successful,177.82
+239,4469,90,Failed,47.96
+240,4472,90,Successful,84.04
+241,4510,91,Successful,61.84
+242,4518,91,Successful,99.37
+243,4523,91,Failed,122.81
+244,4528,91,Partially Successful,127.27
+245,4551,92,Partially Successful,166.19
+246,4554,92,Partially Successful,26.82
+247,4559,92,Failed,57.59
+248,4560,92,Successful,20.45
+249,4566,92,Successful,160.1
+250,4579,92,Successful,79.14
+251,4581,92,Partially Successful,140.37
+252,4586,92,Partially Successful,28.68
+253,4609,93,Failed,55.57
+254,4625,93,Failed,125.33
+255,4636,93,Failed,68.91
+256,4641,93,Successful,100.64
+257,4678,94,Partially Successful,178.76
+258,4683,94,Partially Successful,22.19
+259,4690,94,Failed,119.37
+260,4700,94,Successful,167.32
+261,4718,95,Successful,39.09
+262,4744,95,Successful,176.8
+263,4760,96,Successful,146.27
+264,4762,96,Successful,51.48
+265,4766,96,Failed,59.96
+266,4851,98,Partially Successful,63.41
+267,4907,99,Successful,79.77
+268,4933,99,Successful,57.29
+269,4967,100,Successful,142.36
+270,4969,100,Partially Successful,174.35
+271,4972,100,Partially Successful,97.8
+272,4981,100,Failed,94.7
+273,4991,100,Successful,40.93
+274,4996,100,Successful,115.33
+275,5038,101,Failed,133.87
+276,5075,102,Partially Successful,177.62
+277,5110,103,Failed,96.84
+278,5111,103,Partially Successful,166.26
+279,5135,103,Partially Successful,125.11
+280,5166,104,Partially Successful,177.04
+281,5202,105,Partially Successful,27.7
+282,5205,105,Partially Successful,89.35
+283,5211,105,Partially Successful,132.68
+284,5241,105,Partially Successful,85.61
+285,5252,106,Partially Successful,34.43
+286,5265,106,Partially Successful,53.48
+287,5279,106,Failed,138.04
+288,5281,106,Failed,151.05
+289,5284,106,Failed,55.3
+290,5287,106,Failed,72.32
+291,5314,107,Failed,92.92
+292,5318,107,Successful,129.78
+293,5324,107,Partially Successful,115.38
+294,5335,107,Successful,23.98
+295,5336,107,Failed,57.12
+296,5342,107,Partially Successful,122.61
+297,5345,107,Partially Successful,121.79
+298,5352,108,Partially Successful,28.44
+299,5358,108,Successful,175.26
+300,5366,108,Successful,31.27
+301,5388,108,Failed,103.17
+302,5402,109,Successful,151.05
+303,5403,109,Successful,139.86
+304,5407,109,Failed,73.86
+305,5423,109,Successful,99.91
+306,5427,109,Successful,161.96
+307,5444,109,Failed,167.2
+308,5486,110,Successful,105.36
+309,5553,112,Failed,135.55
+310,5562,112,Partially Successful,151.86
+311,5565,112,Successful,162.94
+312,5570,112,Partially Successful,38.6
+313,5571,112,Partially Successful,155.23
+314,5578,112,Successful,131.4
+315,5594,112,Partially Successful,75.34
+316,5608,113,Partially Successful,124.65
+317,5622,113,Successful,102.43
+318,5659,114,Successful,46.38
+319,5675,114,Successful,118.37
+320,5683,114,Successful,80.63
+321,5688,114,Partially Successful,101.75
+322,5699,114,Successful,150.66
+323,5705,115,Failed,160.04
+324,5707,115,Failed,81.85
+325,5710,115,Successful,73.04
+326,5712,115,Successful,135.57
+327,5714,115,Partially Successful,107.49
+328,5730,115,Successful,162.07
+329,5741,115,Successful,80.81
+330,5744,115,Failed,94.68
+331,5748,115,Failed,32.21
+332,5749,115,Successful,148.32
+333,5789,116,Failed,79.86
+334,5793,116,Partially Successful,100.47
+335,5798,116,Failed,65.61
+336,5799,116,Successful,118.07
+337,5808,117,Failed,158.89
+338,5812,117,Partially Successful,161.42
+339,5819,117,Failed,104.96
+340,5831,117,Successful,115.24
+341,5837,117,Successful,121.58
+342,5852,118,Failed,20.95
+343,5884,118,Partially Successful,162.38
+344,5888,118,Partially Successful,35.83
+345,5897,118,Partially Successful,60.67
+346,5899,118,Failed,103.02
+347,5917,119,Successful,177.62
+348,5934,119,Failed,88.37
+349,6006,121,Failed,90.58
+350,6013,121,Successful,177.2
+351,6050,121,Successful,86.14
+352,6052,122,Successful,43.57
+353,6071,122,Successful,30.15
+354,6082,122,Successful,77.77
+355,6104,123,Partially Successful,116.49
+356,6110,123,Successful,84.78
+357,6111,123,Failed,91.33
+358,6113,123,Failed,149.54
+359,6118,123,Failed,107.65
+360,6124,123,Partially Successful,81.1
+361,6138,123,Partially Successful,48.29
+362,6150,123,Successful,134.97
+363,6168,124,Successful,101.93
+364,6184,124,Failed,104.74
+365,6194,124,Successful,142.57
+366,6206,125,Partially Successful,150.92
+367,6228,125,Partially Successful,59.17
+368,6267,126,Successful,122.16
+369,6348,127,Failed,60.07
+370,6395,128,Partially Successful,161.4
+371,6421,129,Partially Successful,166.18
+372,6447,129,Partially Successful,50.85
+373,6452,130,Successful,72.17
+374,6519,131,Successful,76.69
+375,6526,131,Successful,27.02
+376,6543,131,Failed,62.07
+377,6560,132,Successful,23.68
+378,6582,132,Successful,66.58
+379,6609,133,Successful,34.31
+380,6637,133,Successful,47.31
+381,6644,133,Failed,27.23
+382,6647,133,Partially Successful,79.53
+383,6648,133,Failed,146.81
+384,6707,135,Partially Successful,115.56
+385,6710,135,Partially Successful,37.46
+386,6729,135,Successful,75.18
+387,6733,135,Partially Successful,30.8
+388,6737,135,Failed,175.22
+389,6740,135,Partially Successful,151.98
+390,6746,135,Failed,36.51
+391,6749,135,Successful,101.37
+392,6759,136,Partially Successful,151.71
+393,6767,136,Successful,92.34
+394,6779,136,Failed,173.23
+395,6797,136,Successful,98.26
+396,6818,137,Partially Successful,33.75
+397,6823,137,Failed,132.54
+398,6824,137,Failed,154.9
+399,6831,137,Successful,57.43
+400,6840,137,Successful,87.75
+401,6852,138,Partially Successful,174.42
+402,6863,138,Failed,167.57
+403,6870,138,Partially Successful,143.37
+404,6885,138,Successful,58.71
+405,6886,138,Partially Successful,40.96
+406,6893,138,Successful,20.73
+407,6912,139,Successful,165.85
+408,6918,139,Partially Successful,119.27
+409,6921,139,Successful,125.4
+410,6935,139,Partially Successful,172.13
+411,6949,139,Successful,25.43
+412,6960,140,Successful,105.42
+413,6963,140,Failed,75.1
+414,6983,140,Failed,151.31
+415,6991,140,Partially Successful,130.55
+416,6995,140,Partially Successful,49.09
+417,6998,140,Failed,63.34
+418,7028,141,Failed,133.83
+419,7061,142,Failed,59.54
+420,7153,144,Failed,131.33
+421,7154,144,Successful,110.15
+422,7172,144,Failed,89.23
+423,7177,144,Successful,78.0
+424,7186,144,Successful,78.93
+425,7199,144,Failed,71.86
+426,7200,144,Partially Successful,145.76
+427,7205,145,Successful,138.67
+428,7219,145,Partially Successful,23.85
+429,7220,145,Partially Successful,83.42
+430,7221,145,Successful,165.8
+431,7225,145,Failed,21.73
+432,7226,145,Failed,107.92
+433,7229,145,Partially Successful,171.6
+434,7242,145,Failed,31.06
+435,7272,146,Partially Successful,129.43
+436,7289,146,Partially Successful,169.38
+437,7296,146,Successful,142.43
+438,7311,147,Partially Successful,132.48
+439,7316,147,Failed,86.08
+440,7320,147,Successful,116.53
+441,7333,147,Successful,158.45
+442,7341,147,Successful,72.59
+443,7350,147,Partially Successful,59.09
+444,7357,148,Partially Successful,71.17
+445,7358,148,Successful,34.94
+446,7370,148,Successful,70.58
+447,7383,148,Partially Successful,103.03
+448,7388,148,Partially Successful,44.61
+449,7398,148,Successful,111.47
+450,7408,149,Successful,103.78
+451,7456,150,Partially Successful,64.18
+452,7488,150,Partially Successful,133.89
+453,7512,151,Successful,176.59
+454,7544,151,Successful,62.84
+455,7551,152,Successful,69.24
+456,7596,152,Failed,99.92
+457,7599,152,Failed,94.93
+458,7619,153,Partially Successful,50.75
+459,7634,153,Successful,147.75
+460,7678,154,Failed,156.53
+461,7701,155,Successful,152.14
+462,7716,155,Successful,37.23
+463,7720,155,Failed,25.37
+464,7722,155,Failed,141.99
+465,7729,155,Successful,126.26
+466,7803,157,Successful,157.97
+467,7818,157,Failed,25.77
+468,7827,157,Partially Successful,54.3
+469,7906,159,Partially Successful,142.56
+470,7971,160,Failed,93.34
+471,8040,161,Successful,117.3
+472,8041,161,Successful,167.59
+473,8053,162,Successful,125.41
+474,8063,162,Partially Successful,160.42
+475,8065,162,Successful,171.52
+476,8087,162,Partially Successful,160.84
+477,8090,162,Partially Successful,122.47
+478,8094,162,Partially Successful,57.91
+479,8096,162,Successful,90.22
+480,8102,163,Successful,27.76
+481,8184,164,Successful,146.62
+482,8251,166,Partially Successful,125.47
+483,8252,166,Failed,159.91
+484,8258,166,Failed,97.55
+485,8282,166,Partially Successful,120.83
+486,8291,166,Failed,137.69
+487,8337,167,Partially Successful,57.61
+488,8345,167,Partially Successful,87.14
+489,8387,168,Partially Successful,126.13
+490,8412,169,Successful,75.92
+491,8428,169,Successful,130.81
+492,8435,169,Successful,115.73
+493,8461,170,Partially Successful,21.68
+494,8465,170,Partially Successful,101.77
+495,8496,170,Failed,176.12
+496,8497,170,Successful,83.42
+497,8504,171,Failed,158.45
+498,8509,171,Partially Successful,143.25
+499,8517,171,Partially Successful,143.22
+500,8518,171,Failed,43.71
+501,8531,171,Failed,168.01
+502,8538,171,Partially Successful,124.95
+503,8551,172,Partially Successful,123.84
+504,8562,172,Successful,80.05
+505,8564,172,Partially Successful,166.16
+506,8567,172,Partially Successful,110.82
+507,8568,172,Successful,173.86
+508,8583,172,Partially Successful,50.35
+509,8594,172,Successful,178.86
+510,8612,173,Failed,50.71
+511,8613,173,Successful,152.48
+512,8616,173,Successful,21.28
+513,8617,173,Failed,99.14
+514,8621,173,Successful,40.09
+515,8671,174,Successful,68.17
+516,8697,174,Failed,66.17
+517,8736,175,Failed,23.97
+518,8755,176,Partially Successful,76.85
+519,8764,176,Partially Successful,66.21
+520,8775,176,Partially Successful,150.15
+521,8777,176,Successful,151.26
+522,8791,176,Partially Successful,173.98
+523,8804,177,Failed,154.96
+524,8822,177,Failed,31.41
+525,8835,177,Successful,97.46
+526,8839,177,Partially Successful,143.71
+527,8847,177,Successful,61.98
+528,8851,178,Partially Successful,46.78
+529,8871,178,Successful,62.5
+530,8875,178,Failed,146.84
+531,8893,178,Partially Successful,65.89
+532,8900,178,Partially Successful,179.16
+533,8910,179,Successful,122.08
+534,8930,179,Successful,73.84
+535,8948,179,Partially Successful,111.4
+536,8988,180,Partially Successful,147.65
+537,8998,180,Partially Successful,109.42
+538,9000,180,Failed,146.3
+539,9029,181,Partially Successful,75.9
+540,9043,181,Partially Successful,78.32
+541,9049,181,Failed,108.21
+542,9111,183,Partially Successful,143.75
+543,9118,183,Failed,139.59
+544,9119,183,Failed,141.76
+545,9126,183,Partially Successful,172.71
+546,9130,183,Successful,169.8
+547,9143,183,Successful,101.03
+548,9165,184,Failed,147.07
+549,9201,185,Partially Successful,34.92
+550,9205,185,Partially Successful,43.49
+551,9211,185,Partially Successful,142.82
+552,9212,185,Failed,37.53
+553,9218,185,Failed,54.08
+554,9225,185,Successful,100.78
+555,9226,185,Failed,156.19
+556,9228,185,Failed,156.42
+557,9233,185,Partially Successful,153.73
+558,9246,185,Partially Successful,127.79
+559,9322,187,Failed,71.56
+560,9326,187,Partially Successful,161.18
+561,9338,187,Partially Successful,127.44
+562,9346,187,Partially Successful,84.31
+563,9392,188,Partially Successful,21.8
+564,9425,189,Failed,24.49
+565,9447,189,Partially Successful,123.53
+566,9466,190,Partially Successful,147.84
+567,9467,190,Partially Successful,32.72
+568,9468,190,Successful,136.84
+569,9473,190,Failed,85.31
+570,9475,190,Successful,93.66
+571,9477,190,Successful,66.81
+572,9478,190,Failed,153.79
+573,9485,190,Partially Successful,148.85
+574,9499,190,Failed,69.48
+575,9529,191,Failed,67.75
+576,9552,192,Failed,66.23
+577,9585,192,Partially Successful,46.53
+578,9613,193,Partially Successful,128.13
+579,9615,193,Failed,121.94
+580,9618,193,Successful,90.4
+581,9637,193,Successful,78.9
+582,9657,194,Partially Successful,63.48
+583,9677,194,Partially Successful,33.17
+584,9691,194,Failed,93.85
+585,9726,195,Partially Successful,115.42
+586,9750,195,Partially Successful,126.57
+587,9758,196,Successful,42.5
+588,9761,196,Failed,115.42
+589,9763,196,Successful,138.45
+590,9764,196,Failed,79.66
+591,9765,196,Failed,115.62
+592,9769,196,Partially Successful,102.38
+593,9778,196,Successful,80.8
+594,9784,196,Partially Successful,76.26
+595,9797,196,Failed,103.52
+596,9800,196,Successful,69.61
+597,9809,197,Successful,155.33
+598,9815,197,Partially Successful,87.52
+599,9832,197,Failed,38.8
+600,9834,197,Partially Successful,94.42
+601,9837,197,Failed,140.82
+602,9842,197,Successful,29.58
+603,9928,199,Failed,100.71
+604,10011,201,Partially Successful,169.97
+605,10013,201,Failed,27.02
+606,10023,201,Failed,22.11
+607,10027,201,Failed,44.82
+608,10028,201,Partially Successful,136.55
+609,10032,201,Successful,45.74
+610,10034,201,Failed,22.49
+611,10037,201,Failed,144.39
+612,10041,201,Successful,69.63
+613,10050,201,Partially Successful,63.05
+614,10053,202,Failed,91.95
+615,10070,202,Failed,67.3
+616,10071,202,Partially Successful,47.31
+617,10075,202,Failed,146.37
+618,10080,202,Partially Successful,74.0
+619,10101,203,Partially Successful,84.98
+620,10103,203,Failed,67.73
+621,10131,203,Failed,57.45
+622,10249,205,Partially Successful,42.35
+623,10273,206,Failed,70.5
+624,10296,206,Failed,169.16
+625,10304,207,Failed,154.46
+626,10375,208,Failed,41.7
+627,10388,208,Partially Successful,53.06
+628,10405,209,Successful,84.78
+629,10444,209,Partially Successful,42.28
+630,10450,209,Partially Successful,157.2
+631,10452,210,Failed,157.91
+632,10454,210,Partially Successful,119.85
+633,10463,210,Failed,142.43
+634,10464,210,Partially Successful,130.55
+635,10488,210,Successful,175.93
+636,10560,212,Failed,68.96
+637,10562,212,Failed,103.09
+638,10577,212,Partially Successful,101.4
+639,10582,212,Partially Successful,93.19
+640,10625,213,Successful,79.36
+641,10649,213,Failed,174.1
+642,10651,214,Partially Successful,95.23
+643,10656,214,Failed,141.93
+644,10682,214,Failed,95.44
+645,10693,214,Failed,51.49
+646,10697,214,Failed,177.31
+647,10704,215,Failed,127.97
+648,10713,215,Successful,105.26
+649,10715,215,Failed,171.18
+650,10804,217,Failed,37.13
+651,10805,217,Partially Successful,26.53
+652,10823,217,Partially Successful,100.12
+653,10836,217,Partially Successful,86.18
+654,10849,217,Partially Successful,167.1
+655,10950,219,Failed,168.13
+656,10972,220,Failed,153.87
+657,10977,220,Failed,178.37
+658,11055,222,Partially Successful,103.58
+659,11058,222,Partially Successful,107.39
+660,11081,222,Successful,28.07
+661,11091,222,Partially Successful,150.18
+662,11100,222,Successful,128.54
+663,11117,223,Successful,164.65
+664,11138,223,Partially Successful,157.97
+665,11140,223,Partially Successful,23.78
+666,11142,223,Partially Successful,64.1
+667,11157,224,Failed,39.3
+668,11173,224,Partially Successful,134.84
+669,11175,224,Failed,65.05
+670,11178,224,Partially Successful,44.64
+671,11186,224,Partially Successful,61.94
+672,11200,224,Failed,148.1
+673,11228,225,Partially Successful,109.54
+674,11283,226,Failed,69.36
+675,11307,227,Partially Successful,25.45
+676,11314,227,Successful,30.66
+677,11315,227,Failed,68.39
+678,11320,227,Successful,56.45
+679,11325,227,Failed,70.71
+680,11346,227,Successful,64.24
+681,11347,227,Failed,138.65
+682,11368,228,Partially Successful,99.98
+683,11389,228,Failed,37.73
+684,11403,229,Successful,151.9
+685,11417,229,Failed,179.19
+686,11423,229,Successful,25.16
+687,11433,229,Failed,25.26
+688,11438,229,Successful,38.13
+689,11439,229,Successful,162.66
+690,11447,229,Partially Successful,34.11
+691,11455,230,Partially Successful,101.58
+692,11473,230,Failed,165.34
+693,11500,230,Failed,27.04
+694,11578,232,Failed,124.83
+695,11583,232,Successful,41.82
+696,11592,232,Successful,70.13
+697,11603,233,Failed,46.74
+698,11614,233,Failed,24.99
+699,11641,233,Successful,118.55
+700,11658,234,Failed,72.03
+701,11662,234,Successful,83.16
+702,11707,235,Partially Successful,42.35
+703,11708,235,Failed,41.75
+704,11744,235,Successful,40.47
+705,11759,236,Partially Successful,170.89
+706,11775,236,Successful,79.8
+707,11793,236,Successful,142.79
+708,11804,237,Failed,98.67
+709,11805,237,Partially Successful,168.66
+710,11811,237,Partially Successful,27.28
+711,11812,237,Partially Successful,37.55
+712,11821,237,Failed,164.6
+713,11828,237,Successful,146.82
+714,11834,237,Successful,27.94
+715,11843,237,Failed,172.07
+716,11845,237,Failed,153.36
+717,11847,237,Successful,74.75
+718,11850,237,Partially Successful,26.22
+719,11864,238,Successful,139.35
+720,11871,238,Successful,78.31
+721,11876,238,Successful,143.35
+722,11902,239,Failed,108.64
+723,11916,239,Failed,144.82
+724,11918,239,Failed,53.92
+725,11924,239,Failed,70.6
+726,11951,240,Partially Successful,172.14
+727,11961,240,Partially Successful,110.27
+728,11993,240,Partially Successful,100.9
+729,11995,240,Failed,166.97
+730,12010,241,Failed,44.8
+731,12024,241,Failed,140.25
+732,12048,241,Failed,112.81
+733,12068,242,Successful,33.33
+734,12115,243,Failed,144.37
+735,12128,243,Failed,32.7
+736,12174,244,Failed,126.65
+737,12193,244,Partially Successful,81.11
+738,12213,245,Failed,120.39
+739,12214,245,Successful,89.67
+740,12240,245,Successful,126.67
+741,12261,246,Failed,32.88
+742,12282,246,Failed,41.7
+743,12293,246,Partially Successful,100.55
+744,12301,247,Failed,157.74
+745,12305,247,Partially Successful,81.14
+746,12308,247,Failed,152.2
+747,12320,247,Partially Successful,79.28
+748,12322,247,Failed,68.47
+749,12329,247,Partially Successful,33.8
+750,12332,247,Partially Successful,162.09
+751,12333,247,Partially Successful,55.67
+752,12334,247,Partially Successful,145.34
+753,12375,248,Partially Successful,130.76
+754,12380,248,Partially Successful,72.81
+755,12389,248,Partially Successful,24.87
+756,12392,248,Partially Successful,178.03
+757,12405,249,Successful,86.09
+758,12409,249,Failed,51.53
+759,12410,249,Successful,39.23
+760,12412,249,Partially Successful,48.44
+761,12414,249,Failed,134.88
+762,12421,249,Partially Successful,94.79
+763,12431,249,Failed,57.98
+764,12433,249,Failed,25.17
+765,12436,249,Successful,45.16
+766,12443,249,Successful,168.31
+767,12448,249,Partially Successful,67.81
+768,12463,250,Successful,47.04
+769,12496,250,Partially Successful,165.42
+770,12506,251,Successful,164.93
+771,12508,251,Successful,60.0
+772,12512,251,Successful,179.04
+773,12518,251,Failed,73.11
+774,12543,251,Failed,120.95
+775,12559,252,Successful,135.02
+776,12564,252,Partially Successful,117.53
+777,12571,252,Successful,123.26
+778,12582,252,Failed,43.97
+779,12589,252,Failed,89.8
+780,12591,252,Failed,138.51
+781,12644,253,Partially Successful,123.9
+782,12699,254,Partially Successful,179.34
+783,12723,255,Partially Successful,120.03
+784,12724,255,Failed,77.93
+785,12726,255,Failed,72.06
+786,12739,255,Successful,117.4
+787,12745,255,Partially Successful,158.95
+788,12788,256,Successful,53.22
+789,12818,257,Failed,35.27
+790,12825,257,Successful,24.11
+791,12847,257,Successful,138.71
+792,12912,259,Successful,138.77
+793,12913,259,Failed,116.78
+794,12924,259,Failed,74.13
+795,12960,260,Failed,149.91
+796,12975,260,Partially Successful,121.02
+797,13001,261,Successful,138.41
+798,13003,261,Partially Successful,167.77
+799,13007,261,Failed,108.19
+800,13008,261,Successful,21.8
+801,13015,261,Failed,38.0
+802,13020,261,Successful,71.23
+803,13023,261,Failed,174.19
+804,13043,261,Successful,116.74
+805,13049,261,Successful,28.73
+806,13053,262,Partially Successful,148.26
+807,13064,262,Successful,80.25
+808,13075,262,Failed,148.82
+809,13080,262,Successful,139.58
+810,13088,262,Partially Successful,110.48
+811,13096,262,Failed,141.28
+812,13108,263,Successful,147.44
+813,13109,263,Failed,163.26
+814,13119,263,Partially Successful,20.17
+815,13136,263,Successful,93.89
+816,13137,263,Failed,41.3
+817,13139,263,Failed,22.12
+818,13141,263,Successful,149.45
+819,13147,263,Failed,107.44
+820,13188,264,Partially Successful,113.41
+821,13189,264,Successful,121.4
+822,13190,264,Failed,20.2
+823,13197,264,Failed,63.59
+824,13222,265,Failed,121.59
+825,13239,265,Failed,34.5
+826,13240,265,Partially Successful,163.36
+827,13266,266,Failed,144.95
+828,13269,266,Partially Successful,177.25
+829,13286,266,Successful,129.49
+830,13297,266,Successful,102.08
+831,13308,267,Partially Successful,42.85
+832,13309,267,Partially Successful,47.84
+833,13319,267,Failed,51.0
+834,13330,267,Successful,94.42
+835,13358,268,Partially Successful,150.34
+836,13378,268,Successful,89.1
+837,13401,269,Successful,156.87
+838,13418,269,Successful,78.1
+839,13421,269,Partially Successful,123.62
+840,13432,269,Partially Successful,120.33
+841,13436,269,Partially Successful,164.97
+842,13453,270,Failed,32.06
+843,13459,270,Partially Successful,108.02
+844,13461,270,Failed,108.69
+845,13486,270,Partially Successful,99.01
+846,13497,270,Successful,61.88
+847,13579,272,Failed,133.02
+848,13630,273,Successful,79.69
+849,13688,274,Successful,164.18
+850,13701,275,Partially Successful,24.59
+851,13709,275,Successful,131.7
+852,13725,275,Partially Successful,57.19
+853,13726,275,Successful,173.58
+854,13727,275,Successful,135.17
+855,13733,275,Partially Successful,134.14
+856,13737,275,Failed,94.0
+857,13747,275,Partially Successful,35.52
+858,13764,276,Successful,118.41
+859,13776,276,Failed,88.57
+860,13781,276,Failed,125.73
+861,13797,276,Successful,95.94
+862,13801,277,Failed,140.96
+863,13803,277,Partially Successful,61.45
+864,13823,277,Partially Successful,145.23
+865,13834,277,Successful,96.19
+866,13837,277,Successful,172.52
+867,13853,278,Partially Successful,94.09
+868,13880,278,Partially Successful,177.29
+869,13894,278,Successful,170.02
+870,13899,278,Failed,156.73
+871,13934,279,Failed,93.25
+872,13951,280,Failed,109.98
+873,13953,280,Partially Successful,136.19
+874,13955,280,Failed,144.54
+875,13967,280,Failed,172.31
+876,14010,281,Partially Successful,74.44
+877,14060,282,Successful,157.36
+878,14062,282,Successful,32.6
+879,14067,282,Successful,169.24
+880,14083,282,Partially Successful,159.27
+881,14094,282,Failed,177.74
+882,14098,282,Successful,89.59
+883,14119,283,Successful,70.95
+884,14202,285,Failed,80.16
+885,14209,285,Successful,107.99
+886,14212,285,Successful,173.79
+887,14222,285,Successful,114.14
+888,14234,285,Successful,20.86
+889,14235,285,Successful,74.66
+890,14236,285,Failed,75.77
+891,14237,285,Successful,54.14
+892,14242,285,Failed,158.73
+893,14250,285,Successful,170.07
+894,14325,287,Partially Successful,115.6
+895,14326,287,Failed,129.74
+896,14336,287,Successful,77.13
+897,14338,287,Successful,107.11
+898,14344,287,Partially Successful,26.72
+899,14345,287,Partially Successful,174.1
+900,14357,288,Failed,97.19
+901,14367,288,Successful,46.23
+902,14369,288,Successful,27.93
+903,14431,289,Failed,112.65
+904,14454,290,Failed,131.08
+905,14461,290,Partially Successful,21.32
+906,14465,290,Failed,116.02
+907,14472,290,Partially Successful,27.77
+908,14478,290,Successful,55.31
+909,14532,291,Failed,153.64
+910,14567,292,Failed,36.04
+911,14577,292,Failed,178.64
+912,14587,292,Successful,162.86
+913,14592,292,Successful,83.89
+914,14598,292,Failed,83.26
+915,14600,292,Successful,56.28
+916,14660,294,Partially Successful,110.14
+917,14701,295,Partially Successful,157.83
+918,14705,295,Successful,84.31
+919,14717,295,Successful,92.08
+920,14718,295,Failed,100.37
+921,14725,295,Partially Successful,116.57
+922,14729,295,Failed,65.88
+923,14730,295,Partially Successful,146.75
+924,14731,295,Partially Successful,116.9
+925,14738,295,Failed,20.35
+926,14741,295,Failed,38.08
+927,14750,295,Successful,54.58
+928,14762,296,Failed,142.07
+929,14765,296,Partially Successful,112.98
+930,14768,296,Failed,139.78
+931,14781,296,Failed,100.75
+932,14782,296,Successful,63.3
+933,14790,296,Partially Successful,20.33
+934,14801,297,Partially Successful,177.54
+935,14803,297,Successful,160.86
+936,14810,297,Partially Successful,113.8
+937,14848,297,Successful,72.86
+938,14946,299,Failed,134.89
+939,14971,300,Successful,29.62
+940,14983,300,Partially Successful,159.38
+941,15013,301,Failed,146.66
+942,15054,302,Successful,146.4
+943,15070,302,Failed,140.55
+944,15071,302,Partially Successful,104.74
+945,15075,302,Successful,72.51
+946,15132,303,Successful,37.04
+947,15142,303,Partially Successful,55.08
+948,15146,303,Successful,36.7
+949,15149,303,Successful,120.21
+950,15191,304,Partially Successful,97.86
+951,15223,305,Partially Successful,161.55
+952,15241,305,Successful,129.76
+953,15256,306,Successful,95.86
+954,15280,306,Successful,171.2
+955,15281,306,Successful,76.7
+956,15283,306,Failed,173.64
+957,15288,306,Failed,161.0
+958,15290,306,Failed,59.38
+959,15297,306,Partially Successful,127.11
+960,15301,307,Partially Successful,75.65
+961,15308,307,Failed,62.38
+962,15311,307,Successful,40.07
+963,15329,307,Failed,48.69
+964,15332,307,Partially Successful,49.36
+965,15354,308,Failed,33.06
+966,15358,308,Failed,73.46
+967,15361,308,Failed,83.78
+968,15381,308,Failed,118.48
+969,15385,308,Partially Successful,71.58
+970,15390,308,Failed,74.13
+971,15395,308,Failed,90.43
+972,15405,309,Successful,151.42
+973,15425,309,Failed,170.0
+974,15432,309,Successful,123.79
+975,15453,310,Successful,174.48
+976,15479,310,Successful,175.36
+977,15522,311,Partially Successful,169.26
+978,15581,312,Successful,67.69
+979,15602,313,Partially Successful,40.72
+980,15619,313,Failed,156.14
+981,15629,313,Successful,152.13
+982,15633,313,Successful,91.87
+983,15643,313,Partially Successful,105.05
+984,15646,313,Successful,173.54
+985,15658,314,Successful,143.88
+986,15780,316,Successful,163.15
+987,15862,318,Successful,33.51
+988,15951,320,Partially Successful,168.2
+989,15971,320,Partially Successful,53.5
+990,15973,320,Successful,34.6
+991,15983,320,Partially Successful,144.56
+992,15987,320,Successful,72.82
+993,15993,320,Partially Successful,137.91
+994,15995,320,Successful,64.05
+995,16000,320,Failed,158.53
+996,16005,321,Successful,142.61
+997,16014,321,Failed,82.61
+998,16017,321,Failed,119.24
+999,16019,321,Failed,40.0
+1000,16020,321,Failed,40.32
+1001,16042,321,Partially Successful,21.28
+1002,16047,321,Successful,135.29
+1003,16058,322,Successful,40.56
+1004,16073,322,Successful,177.8
+1005,16084,322,Successful,116.86
+1006,16090,322,Partially Successful,33.05
+1007,16096,322,Failed,148.28
+1008,16114,323,Partially Successful,40.22
+1009,16116,323,Failed,94.9
+1010,16117,323,Failed,85.01
+1011,16127,323,Partially Successful,67.39
+1012,16129,323,Partially Successful,59.87
+1013,16132,323,Successful,133.83
+1014,16133,323,Successful,52.38
+1015,16139,323,Partially Successful,86.49
+1016,16143,323,Successful,33.6
+1017,16144,323,Successful,121.12
+1018,16150,323,Partially Successful,33.25
+1019,16151,324,Failed,130.13
+1020,16168,324,Successful,133.55
+1021,16174,324,Partially Successful,36.17
+1022,16175,324,Failed,143.73
+1023,16193,324,Failed,116.8
+1024,16195,324,Partially Successful,166.24
+1025,16205,325,Successful,118.06
+1026,16219,325,Partially Successful,39.79
+1027,16256,326,Partially Successful,114.14
+1028,16267,326,Partially Successful,112.07
+1029,16287,326,Partially Successful,33.96
+1030,16354,328,Partially Successful,83.36
+1031,16356,328,Failed,92.23
+1032,16380,328,Failed,154.43
+1033,16398,328,Successful,29.01
+1034,16400,328,Failed,113.79
+1035,16417,329,Partially Successful,136.44
+1036,16456,330,Successful,176.39
+1037,16489,330,Partially Successful,74.14
+1038,16530,331,Successful,62.53
+1039,16547,331,Failed,144.34
+1040,16554,332,Partially Successful,64.0
+1041,16569,332,Failed,52.32
+1042,16576,332,Failed,156.38
+1043,16608,333,Successful,163.77
+1044,16654,334,Successful,141.25
+1045,16668,334,Successful,97.88
+1046,16673,334,Successful,128.71
+1047,16681,334,Partially Successful,175.69
+1048,16684,334,Partially Successful,149.42
+1049,16758,336,Successful,176.4
+1050,16762,336,Partially Successful,93.35
+1051,16772,336,Successful,36.53
+1052,16778,336,Successful,39.38
+1053,16790,336,Failed,48.84
+1054,16793,336,Successful,75.88
+1055,16800,336,Partially Successful,92.73
+1056,16851,338,Partially Successful,126.37
+1057,16854,338,Partially Successful,158.89
+1058,16856,338,Failed,36.74
+1059,16872,338,Failed,67.03
+1060,16887,338,Failed,155.43
+1061,16899,338,Partially Successful,124.53
+1062,16906,339,Partially Successful,93.81
+1063,16909,339,Failed,74.15
+1064,16911,339,Partially Successful,23.72
+1065,16913,339,Failed,168.22
+1066,16919,339,Partially Successful,94.92
+1067,16926,339,Failed,78.81
+1068,16948,339,Successful,79.74
+1069,16951,340,Failed,88.63
+1070,16954,340,Failed,61.76
+1071,16955,340,Successful,109.49
+1072,16974,340,Successful,56.95
+1073,16983,340,Successful,131.88
+1074,16990,340,Successful,29.56
+1075,17058,342,Partially Successful,104.28
+1076,17063,342,Partially Successful,178.88
+1077,17068,342,Successful,59.8
+1078,17080,342,Partially Successful,156.2
+1079,17084,342,Partially Successful,136.18
+1080,17090,342,Successful,39.09
+1081,17093,342,Failed,44.94
+1082,17096,342,Failed,87.04
+1083,17135,343,Failed,98.94
+1084,17153,344,Failed,125.54
+1085,17166,344,Partially Successful,54.96
+1086,17168,344,Partially Successful,110.89
+1087,17181,344,Failed,121.59
+1088,17188,344,Partially Successful,28.27
+1089,17225,345,Failed,145.83
+1090,17240,345,Successful,159.0
+1091,17250,345,Failed,65.04
+1092,17258,346,Partially Successful,107.49
+1093,17265,346,Failed,101.09
+1094,17294,346,Failed,59.16
+1095,17319,347,Partially Successful,58.19
+1096,17334,347,Failed,102.47
+1097,17336,347,Successful,115.33
+1098,17366,348,Failed,22.24
+1099,17368,348,Partially Successful,78.45
+1100,17379,348,Partially Successful,92.61
+1101,17396,348,Successful,131.88
+1102,17400,348,Partially Successful,31.9
+1103,17416,349,Partially Successful,150.9
+1104,17421,349,Failed,61.9
+1105,17424,349,Failed,71.15
+1106,17429,349,Partially Successful,59.97
+1107,17431,349,Partially Successful,40.2
+1108,17432,349,Successful,88.99
+1109,17440,349,Successful,90.68
+1110,17443,349,Partially Successful,108.89
+1111,17451,350,Partially Successful,56.47
+1112,17469,350,Partially Successful,171.12
+1113,17516,351,Successful,81.08
+1114,17519,351,Failed,157.32
+1115,17535,351,Failed,89.92
+1116,17539,351,Partially Successful,78.39
+1117,17544,351,Successful,149.94
+1118,17555,352,Successful,72.56
+1119,17560,352,Partially Successful,160.77
+1120,17568,352,Partially Successful,106.04
+1121,17571,352,Partially Successful,80.94
+1122,17572,352,Partially Successful,72.04
+1123,17619,353,Partially Successful,87.55
+1124,17623,353,Successful,115.6
+1125,17624,353,Failed,165.36
+1126,17645,353,Failed,113.65
+1127,17650,353,Failed,115.86
+1128,17664,354,Successful,137.61
+1129,17706,355,Successful,159.56
+1130,17747,355,Partially Successful,83.56
+1131,17775,356,Partially Successful,29.49
+1132,17801,357,Failed,77.88
+1133,17802,357,Successful,41.34
+1134,17805,357,Partially Successful,137.52
+1135,17843,357,Successful,149.44
+1136,17845,357,Partially Successful,37.82
+1137,17852,358,Successful,72.86
+1138,17856,358,Successful,83.18
+1139,17861,358,Failed,24.16
+1140,17872,358,Failed,176.61
+1141,17873,358,Successful,119.16
+1142,17893,358,Successful,136.1
+1143,17903,359,Partially Successful,138.17
+1144,17906,359,Successful,83.74
+1145,17914,359,Failed,56.59
+1146,17920,359,Partially Successful,179.37
+1147,17922,359,Failed,37.08
+1148,17939,359,Failed,23.7
+1149,17955,360,Successful,145.88
+1150,17958,360,Successful,155.89
+1151,17960,360,Partially Successful,137.19
+1152,18012,361,Failed,33.79
+1153,18064,362,Partially Successful,146.88
+1154,18091,362,Successful,84.16
+1155,18128,363,Successful,103.69
+1156,18167,364,Successful,116.21
+1157,18203,365,Failed,164.26
+1158,18315,367,Successful,154.28
+1159,18318,367,Partially Successful,118.13
+1160,18336,367,Failed,51.18
+1161,18349,367,Partially Successful,156.08
+1162,18352,368,Successful,49.49
+1163,18354,368,Partially Successful,27.55
+1164,18367,368,Partially Successful,31.15
+1165,18374,368,Failed,55.29
+1166,18376,368,Failed,100.92
+1167,18383,368,Failed,136.74
+1168,18392,368,Partially Successful,161.06
+1169,18403,369,Partially Successful,94.92
+1170,18407,369,Failed,150.47
+1171,18412,369,Partially Successful,169.01
+1172,18413,369,Successful,84.93
+1173,18414,369,Successful,90.02
+1174,18416,369,Failed,128.75
+1175,18420,369,Failed,145.39
+1176,18431,369,Failed,98.67
+1177,18443,369,Partially Successful,42.0
+1178,18475,370,Partially Successful,40.88
+1179,18482,370,Partially Successful,34.46
+1180,18483,370,Failed,153.49
+1181,18491,370,Successful,86.47
+1182,18496,370,Partially Successful,133.77
+1183,18497,370,Failed,73.27
+1184,18524,371,Failed,167.57
+1185,18542,371,Failed,80.48
+1186,18556,372,Partially Successful,130.86
+1187,18560,372,Partially Successful,124.47
+1188,18629,373,Partially Successful,150.55
+1189,18653,374,Successful,72.13
+1190,18660,374,Successful,158.67
+1191,18662,374,Partially Successful,145.65
+1192,18668,374,Failed,175.78
+1193,18669,374,Failed,63.29
+1194,18670,374,Failed,28.79
+1195,18672,374,Failed,121.13
+1196,18677,374,Failed,39.08
+1197,18678,374,Successful,133.67
+1198,18709,375,Successful,163.17
+1199,18713,375,Successful,21.09
+1200,18723,375,Failed,137.37
+1201,18744,375,Partially Successful,150.28
+1202,18789,376,Successful,80.15
+1203,18807,377,Failed,22.77
+1204,18812,377,Failed,145.68
+1205,18821,377,Partially Successful,35.54
+1206,18824,377,Partially Successful,50.79
+1207,18831,377,Successful,159.2
+1208,18834,377,Failed,81.18
+1209,18836,377,Failed,79.84
+1210,18839,377,Failed,157.23
+1211,18841,377,Failed,101.45
+1212,18842,377,Failed,104.79
+1213,18843,377,Partially Successful,134.75
+1214,18849,377,Successful,112.73
+1215,18851,378,Partially Successful,138.13
+1216,18858,378,Failed,37.41
+1217,18878,378,Successful,140.24
+1218,18903,379,Failed,72.69
+1219,18913,379,Partially Successful,119.56
+1220,18920,379,Partially Successful,27.31
+1221,18932,379,Partially Successful,35.28
+1222,18938,379,Failed,120.42
+1223,18944,379,Partially Successful,87.11
+1224,18946,379,Partially Successful,29.61
+1225,18951,380,Successful,105.29
+1226,19053,382,Partially Successful,60.01
+1227,19054,382,Successful,86.43
+1228,19056,382,Successful,168.01
+1229,19077,382,Successful,141.75
+1230,19109,383,Failed,167.76
+1231,19129,383,Failed,77.57
+1232,19184,384,Partially Successful,163.48
+1233,19192,384,Partially Successful,105.06
+1234,19196,384,Successful,156.1
+1235,19208,385,Partially Successful,81.67
+1236,19222,385,Partially Successful,36.77
+1237,19224,385,Failed,120.62
+1238,19245,385,Successful,141.33
+1239,19246,385,Partially Successful,27.87
+1240,19262,386,Failed,43.81
+1241,19272,386,Failed,92.31
+1242,19282,386,Successful,90.68
+1243,19292,386,Partially Successful,161.31
+1244,19295,386,Successful,80.47
+1245,19303,387,Partially Successful,149.64
+1246,19316,387,Successful,105.22
+1247,19318,387,Partially Successful,25.39
+1248,19319,387,Partially Successful,111.6
+1249,19320,387,Failed,85.13
+1250,19322,387,Successful,97.12
+1251,19326,387,Successful,172.25
+1252,19336,387,Successful,96.68
+1253,19350,387,Partially Successful,122.73
+1254,19395,388,Partially Successful,113.95
+1255,19431,389,Successful,160.67
+1256,19467,390,Successful,138.73
+1257,19472,390,Partially Successful,27.43
+1258,19484,390,Successful,144.62
+1259,19487,390,Failed,146.6
+1260,19491,390,Partially Successful,127.2
+1261,19492,390,Partially Successful,73.76
+1262,19497,390,Partially Successful,139.08
+1263,19498,390,Partially Successful,73.97
+1264,19508,391,Partially Successful,62.18
+1265,19509,391,Failed,49.9
+1266,19513,391,Successful,53.92
+1267,19521,391,Partially Successful,21.36
+1268,19529,391,Failed,114.79
+1269,19541,391,Successful,144.23
+1270,19545,391,Partially Successful,41.42
+1271,19549,391,Failed,88.31
+1272,19555,392,Failed,125.93
+1273,19572,392,Successful,168.8
+1274,19597,392,Partially Successful,40.78
+1275,19605,393,Failed,112.57
+1276,19646,393,Failed,159.13
+1277,19705,395,Successful,139.05
+1278,19749,395,Partially Successful,120.2
+1279,19755,396,Failed,103.8
+1280,19774,396,Partially Successful,106.94
+1281,19812,397,Failed,38.04
+1282,19834,397,Failed,42.15
+1283,19841,397,Partially Successful,116.6
+1284,19859,398,Failed,137.14
+1285,19862,398,Successful,167.77
+1286,19864,398,Failed,60.1
+1287,19881,398,Failed,49.36
+1288,19887,398,Partially Successful,97.4
+1289,19920,399,Partially Successful,88.04
+1290,19927,399,Successful,25.36
+1291,19929,399,Successful,68.4
+1292,19930,399,Failed,130.9
+1293,19943,399,Partially Successful,153.08
+1294,19956,400,Failed,125.26
+1295,20007,401,Partially Successful,50.64
+1296,20018,401,Failed,111.28
+1297,20056,402,Partially Successful,59.5
+1298,20059,402,Failed,89.69
+1299,20065,402,Partially Successful,87.23
+1300,20099,402,Partially Successful,98.88
+1301,20162,404,Failed,26.23
+1302,20171,404,Partially Successful,129.74
+1303,20181,404,Successful,146.98
+1304,20184,404,Failed,111.37
+1305,20200,404,Successful,55.98
+1306,20230,405,Failed,159.81
+1307,20274,406,Failed,154.43
+1308,20314,407,Successful,89.87
+1309,20320,407,Partially Successful,96.93
+1310,20340,407,Successful,95.41
+1311,20341,407,Successful,23.03
+1312,20349,407,Failed,24.68
+1313,20361,408,Successful,125.43
+1314,20364,408,Failed,96.59
+1315,20367,408,Partially Successful,45.53
+1316,20513,411,Failed,41.34
+1317,20518,411,Partially Successful,69.7
+1318,20519,411,Successful,154.39
+1319,20527,411,Failed,74.01
+1320,20528,411,Partially Successful,164.51
+1321,20529,411,Successful,99.71
+1322,20543,411,Partially Successful,39.95
+1323,20549,411,Successful,108.65
+1324,20550,411,Successful,42.88
+1325,20575,412,Successful,174.28
+1326,20599,412,Successful,91.01
+1327,20600,412,Successful,80.07
+1328,20603,413,Successful,52.67
+1329,20618,413,Failed,143.76
+1330,20627,413,Failed,178.02
+1331,20628,413,Successful,23.4
+1332,20629,413,Successful,116.01
+1333,20630,413,Failed,160.68
+1334,20637,413,Partially Successful,168.11
+1335,20665,414,Failed,122.14
+1336,20692,414,Partially Successful,60.43
+1337,20694,414,Partially Successful,24.89
+1338,20699,414,Successful,60.67
+1339,20706,415,Partially Successful,24.66
+1340,20723,415,Partially Successful,162.08
+1341,20729,415,Successful,82.89
+1342,20731,415,Partially Successful,38.02
+1343,20744,415,Partially Successful,29.63
+1344,20746,415,Successful,49.31
+1345,20776,416,Failed,75.73
+1346,20827,417,Successful,139.09
+1347,20830,417,Failed,63.46
+1348,20833,417,Failed,153.8
+1349,20844,417,Failed,122.53
+1350,20854,418,Successful,143.01
+1351,20855,418,Failed,28.98
+1352,20859,418,Failed,101.65
+1353,20864,418,Successful,110.08
+1354,20867,418,Failed,142.24
+1355,20868,418,Successful,96.04
+1356,20877,418,Successful,173.61
+1357,20879,418,Successful,101.82
+1358,20885,418,Failed,167.27
+1359,20887,418,Successful,108.78
+1360,20889,418,Failed,74.92
+1361,20894,418,Successful,132.47
+1362,20912,419,Partially Successful,124.61
+1363,20947,419,Successful,175.28
+1364,20951,420,Failed,122.75
+1365,20952,420,Successful,170.23
+1366,20956,420,Failed,22.88
+1367,20958,420,Failed,133.18
+1368,20963,420,Partially Successful,146.24
+1369,20965,420,Failed,35.69
+1370,20971,420,Successful,28.55
+1371,20974,420,Partially Successful,165.6
+1372,20978,420,Successful,174.88
+1373,20981,420,Failed,137.77
+1374,20985,420,Successful,72.84
+1375,21007,421,Partially Successful,155.87
+1376,21020,421,Failed,108.93
+1377,21043,421,Successful,48.44
+1378,21044,421,Partially Successful,132.37
+1379,21049,421,Failed,64.06
+1380,21057,422,Failed,120.57
+1381,21087,422,Failed,109.34
+1382,21111,423,Partially Successful,161.52
+1383,21131,423,Successful,69.53
+1384,21137,423,Failed,156.21
+1385,21149,423,Successful,64.16
+1386,21159,424,Successful,149.3
+1387,21171,424,Partially Successful,39.34
+1388,21175,424,Failed,87.02
+1389,21190,424,Partially Successful,70.19
+1390,21218,425,Failed,41.74
+1391,21219,425,Successful,105.65
+1392,21226,425,Failed,37.28
+1393,21246,425,Successful,174.57
+1394,21247,425,Partially Successful,60.08
+1395,21260,426,Failed,172.33
+1396,21263,426,Failed,27.57
+1397,21269,426,Failed,159.13
+1398,21291,426,Failed,119.86
+1399,21313,427,Partially Successful,28.56
+1400,21324,427,Partially Successful,98.8
+1401,21327,427,Successful,112.44
+1402,21348,427,Successful,118.99
+1403,21353,428,Successful,48.83
+1404,21406,429,Successful,39.34
+1405,21409,429,Successful,42.09
+1406,21411,429,Partially Successful,168.73
+1407,21418,429,Successful,63.07
+1408,21431,429,Failed,68.75
+1409,21432,429,Successful,93.24
+1410,21447,429,Failed,175.5
+1411,21507,431,Failed,57.76
+1412,21522,431,Successful,72.98
+1413,21534,431,Successful,90.27
+1414,21545,431,Failed,34.85
+1415,21575,432,Partially Successful,26.83
+1416,21598,432,Partially Successful,37.49
+1417,21599,432,Partially Successful,131.34
+1418,21646,433,Successful,40.87
+1419,21659,434,Successful,83.22
+1420,21688,434,Partially Successful,164.31
+1421,21696,434,Successful,152.88
+1422,21702,435,Failed,133.32
+1423,21732,435,Failed,92.62
+1424,21734,435,Successful,92.39
+1425,21746,435,Failed,134.99
+1426,21766,436,Partially Successful,79.77
+1427,21767,436,Failed,135.27
+1428,21772,436,Partially Successful,126.31
+1429,21777,436,Partially Successful,128.34
+1430,21783,436,Successful,139.74
+1431,21819,437,Successful,132.47
+1432,21834,437,Failed,36.07
+1433,21836,437,Failed,170.81
+1434,21866,438,Failed,116.78
+1435,21893,438,Successful,49.8
+1436,21954,440,Failed,56.4
+1437,21957,440,Partially Successful,139.81
+1438,21960,440,Failed,105.4
+1439,21966,440,Successful,27.9
+1440,21969,440,Successful,166.45
+1441,21973,440,Partially Successful,90.01
+1442,21974,440,Partially Successful,152.99
+1443,21976,440,Failed,84.72
+1444,21979,440,Partially Successful,105.21
+1445,21986,440,Partially Successful,88.86
+1446,21987,440,Failed,126.3
+1447,22011,441,Successful,25.66
+1448,22034,441,Failed,156.48
+1449,22112,443,Failed,155.67
+1450,22115,443,Failed,98.7
+1451,22116,443,Successful,62.11
+1452,22117,443,Failed,49.69
+1453,22119,443,Successful,176.46
+1454,22123,443,Partially Successful,21.71
+1455,22128,443,Partially Successful,98.75
+1456,22140,443,Successful,138.13
+1457,22145,443,Failed,83.43
+1458,22153,444,Successful,77.35
+1459,22155,444,Successful,129.58
+1460,22216,445,Failed,114.92
+1461,22220,445,Successful,40.75
+1462,22234,445,Successful,96.33
+1463,22237,445,Failed,144.61
+1464,22238,445,Partially Successful,69.73
+1465,22243,445,Failed,124.03
+1466,22251,446,Failed,60.13
+1467,22271,446,Partially Successful,152.07
+1468,22274,446,Successful,34.94
+1469,22275,446,Failed,142.04
+1470,22278,446,Successful,66.2
+1471,22309,447,Partially Successful,141.63
+1472,22315,447,Failed,177.76
+1473,22322,447,Successful,119.88
+1474,22330,447,Successful,52.67
+1475,22335,447,Partially Successful,93.97
+1476,22336,447,Partially Successful,137.57
+1477,22337,447,Failed,43.5
+1478,22339,447,Partially Successful,75.72
+1479,22352,448,Partially Successful,77.28
+1480,22353,448,Failed,148.94
+1481,22354,448,Failed,43.44
+1482,22359,448,Failed,104.72
+1483,22363,448,Partially Successful,164.4
+1484,22369,448,Partially Successful,149.27
+1485,22372,448,Failed,101.89
+1486,22380,448,Successful,42.33
+1487,22384,448,Partially Successful,93.49
+1488,22389,448,Failed,113.15
+1489,22397,448,Failed,79.95
+1490,22399,448,Failed,50.77
+1491,22415,449,Partially Successful,44.77
+1492,22417,449,Successful,141.36
+1493,22422,449,Failed,115.68
+1494,22438,449,Partially Successful,67.56
+1495,22449,449,Partially Successful,47.17
+1496,22460,450,Failed,174.98
+1497,22465,450,Partially Successful,129.62
+1498,22468,450,Successful,169.08
+1499,22498,450,Failed,78.78
+1500,22513,451,Partially Successful,56.85
+1501,22572,452,Partially Successful,75.42
+1502,22590,452,Partially Successful,75.41
+1503,22592,452,Successful,152.19
+1504,22602,453,Failed,138.49
+1505,22606,453,Successful,37.58
+1506,22608,453,Partially Successful,159.1
+1507,22622,453,Successful,166.86
+1508,22633,453,Successful,29.28
+1509,22634,453,Failed,78.96
+1510,22647,453,Failed,134.69
+1511,22661,454,Failed,110.94
+1512,22671,454,Failed,65.0
+1513,22692,454,Successful,166.26
+1514,22704,455,Failed,59.42
+1515,22752,456,Partially Successful,36.69
+1516,22755,456,Successful,68.97
+1517,22758,456,Partially Successful,130.57
+1518,22762,456,Successful,101.32
+1519,22763,456,Failed,106.15
+1520,22765,456,Failed,53.98
+1521,22773,456,Partially Successful,38.4
+1522,22776,456,Partially Successful,85.98
+1523,22788,456,Failed,64.34
+1524,22790,456,Failed,140.83
+1525,22796,456,Successful,56.16
+1526,22841,457,Partially Successful,81.13
+1527,22880,458,Failed,98.86
+1528,22885,458,Failed,136.7
+1529,22962,460,Partially Successful,149.28
+1530,22976,460,Partially Successful,30.29
+1531,23011,461,Partially Successful,125.11
+1532,23041,461,Failed,126.33
+1533,23115,463,Partially Successful,175.07
+1534,23130,463,Partially Successful,91.86
+1535,23135,463,Failed,62.49
+1536,23140,463,Successful,47.52
+1537,23144,463,Successful,50.44
+1538,23149,463,Partially Successful,162.18
+1539,23161,464,Failed,80.88
+1540,23166,464,Successful,97.41
+1541,23244,465,Successful,32.7
+1542,23304,467,Failed,134.99
+1543,23307,467,Partially Successful,24.41
+1544,23335,467,Successful,177.75
+1545,23336,467,Successful,178.19
+1546,23356,468,Failed,89.67
+1547,23360,468,Failed,94.05
+1548,23364,468,Partially Successful,54.76
+1549,23372,468,Successful,54.39
+1550,23383,468,Partially Successful,116.69
+1551,23384,468,Successful,54.19
+1552,23385,468,Successful,145.23
+1553,23388,468,Successful,121.28
+1554,23413,469,Partially Successful,31.33
+1555,23414,469,Partially Successful,34.12
+1556,23418,469,Successful,43.32
+1557,23426,469,Failed,26.4
+1558,23431,469,Failed,98.24
+1559,23441,469,Failed,50.49
+1560,23443,469,Partially Successful,59.29
+1561,23452,470,Partially Successful,152.53
+1562,23454,470,Partially Successful,142.93
+1563,23495,470,Successful,27.59
+1564,23507,471,Failed,83.99
+1565,23532,471,Successful,48.56
+1566,23538,471,Failed,37.73
+1567,23548,471,Successful,129.2
+1568,23549,471,Successful,84.67
+1569,23561,472,Partially Successful,178.4
+1570,23564,472,Failed,92.96
+1571,23567,472,Partially Successful,158.45
+1572,23573,472,Failed,45.13
+1573,23575,472,Failed,116.03
+1574,23576,472,Successful,51.5
+1575,23582,472,Successful,91.57
+1576,23588,472,Failed,61.67
+1577,23589,472,Failed,133.0
+1578,23628,473,Failed,100.75
+1579,23637,473,Failed,62.13
+1580,23645,473,Partially Successful,42.91
+1581,23664,474,Successful,144.61
+1582,23674,474,Successful,177.97
+1583,23681,474,Partially Successful,79.84
+1584,23682,474,Partially Successful,128.46
+1585,23694,474,Failed,103.65
+1586,23712,475,Partially Successful,33.64
+1587,23763,476,Partially Successful,68.7
+1588,23854,478,Successful,102.31
+1589,23858,478,Failed,83.16
+1590,23900,478,Partially Successful,119.93
+1591,23911,479,Partially Successful,38.04
+1592,23942,479,Successful,165.0
+1593,23971,480,Partially Successful,118.53
+1594,23978,480,Failed,76.52
+1595,23994,480,Partially Successful,94.17
+1596,24005,481,Partially Successful,78.74
+1597,24030,481,Failed,87.89
+1598,24043,481,Failed,134.94
+1599,24071,482,Failed,78.94
+1600,24085,482,Partially Successful,20.86
+1601,24114,483,Partially Successful,178.0
+1602,24119,483,Successful,50.32
+1603,24130,483,Failed,178.28
+1604,24132,483,Failed,42.12
+1605,24159,484,Successful,87.13
+1606,24161,484,Failed,39.61
+1607,24162,484,Successful,132.61
+1608,24167,484,Successful,86.6
+1609,24169,484,Successful,36.45
+1610,24176,484,Failed,49.18
+1611,24186,484,Successful,165.67
+1612,24195,484,Partially Successful,25.54
+1613,24200,484,Partially Successful,150.54
+1614,24203,485,Successful,163.19
+1615,24236,485,Failed,25.86
+1616,24252,486,Failed,27.24
+1617,24267,486,Partially Successful,94.39
+1618,24301,487,Partially Successful,33.98
+1619,24326,487,Successful,157.71
+1620,24347,487,Failed,133.66
+1621,24356,488,Failed,137.24
+1622,24389,488,Successful,38.11
+1623,24406,489,Partially Successful,166.05
+1624,24407,489,Successful,22.38
+1625,24408,489,Partially Successful,168.0
+1626,24419,489,Failed,30.82
+1627,24421,489,Failed,47.96
+1628,24486,490,Failed,163.96
+1629,24490,490,Successful,154.87
+1630,24498,490,Successful,144.45
+1631,24568,492,Failed,48.58
+1632,24569,492,Failed,146.56
+1633,24657,494,Failed,107.1
+1634,24662,494,Partially Successful,29.81
+1635,24664,494,Failed,173.78
+1636,24682,494,Successful,98.72
+1637,24702,495,Partially Successful,141.76
+1638,24739,495,Failed,117.61
+1639,24750,495,Failed,81.51
+1640,24770,496,Failed,119.47
+1641,24798,496,Failed,176.24
+1642,24802,497,Failed,137.32
+1643,24804,497,Failed,113.37
+1644,24829,497,Successful,127.52
+1645,24851,498,Failed,76.98
+1646,24852,498,Successful,62.9
+1647,24868,498,Partially Successful,147.6
+1648,24870,498,Successful,166.21
+1649,24877,498,Failed,35.12
+1650,24889,498,Successful,152.46
+1651,24907,499,Partially Successful,171.57
+1652,24921,499,Successful,53.2
+1653,24924,499,Failed,139.12
+1654,24944,499,Failed,71.77
+1655,24958,500,Failed,154.93
+1656,25004,501,Successful,41.17
+1657,25011,501,Failed,137.62
+1658,25017,501,Failed,175.48
+1659,25028,501,Successful,99.09
+1660,25034,501,Failed,113.82
+1661,25041,501,Failed,69.6
+1662,25077,502,Successful,162.63
+1663,25081,502,Failed,43.25
+1664,25082,502,Partially Successful,157.42
+1665,25106,503,Successful,131.39
+1666,25123,503,Successful,22.63
+1667,25132,503,Partially Successful,34.7
+1668,25138,503,Failed,26.25
+1669,25148,503,Failed,120.23
+1670,25177,504,Partially Successful,55.47
+1671,25192,504,Failed,35.78
+1672,25221,505,Failed,26.6
+1673,25222,505,Partially Successful,75.68
+1674,25226,505,Failed,99.61
+1675,25235,505,Partially Successful,122.98
+1676,25242,505,Partially Successful,119.3
+1677,25303,507,Failed,47.65
+1678,25314,507,Failed,148.28
+1679,25334,507,Successful,25.27
+1680,25340,507,Partially Successful,152.07
+1681,25367,508,Successful,162.69
+1682,25376,508,Successful,107.9
+1683,25394,508,Successful,34.26
+1684,25422,509,Failed,26.27
+1685,25425,509,Failed,142.14
+1686,25445,509,Failed,106.61
+1687,25450,509,Partially Successful,110.32
+1688,25458,510,Partially Successful,25.93
+1689,25486,510,Successful,160.45
+1690,25493,510,Successful,32.38
+1691,25503,511,Failed,53.81
+1692,25517,511,Partially Successful,142.01
+1693,25528,511,Failed,133.92
+1694,25548,511,Failed,79.47
+1695,25580,512,Successful,137.57
+1696,25607,513,Successful,48.98
+1697,25636,513,Failed,89.32
+1698,25638,513,Failed,45.9
+1699,25646,513,Partially Successful,115.98
+1700,25647,513,Successful,86.84
+1701,25657,514,Failed,32.58
+1702,25665,514,Partially Successful,78.79
+1703,25680,514,Partially Successful,150.41
+1704,25693,514,Successful,54.62
+1705,25724,515,Failed,37.31
+1706,25749,515,Failed,30.79
+1707,25753,516,Failed,56.45
+1708,25784,516,Successful,32.84
+1709,25807,517,Failed,73.24
+1710,25849,517,Failed,113.98
+1711,25891,518,Failed,138.46
+1712,25915,519,Successful,156.9
+1713,25916,519,Partially Successful,148.83
+1714,25919,519,Successful,67.88
+1715,25922,519,Failed,135.42
+1716,25930,519,Successful,60.16
+1717,25943,519,Failed,63.44
+1718,25946,519,Partially Successful,137.85
+1719,25948,519,Successful,50.92
+1720,25976,520,Partially Successful,158.01
+1721,25984,520,Partially Successful,80.29
+1722,25989,520,Failed,22.59
+1723,26059,522,Successful,150.29
+1724,26072,522,Partially Successful,73.81
+1725,26075,522,Partially Successful,128.21
+1726,26151,524,Successful,153.4
+1727,26159,524,Failed,31.57
+1728,26234,525,Successful,145.02
+1729,26235,525,Failed,67.13
+1730,26253,526,Failed,134.11
+1731,26257,526,Successful,67.39
+1732,26278,526,Successful,31.49
+1733,26281,526,Partially Successful,41.96
+1734,26286,526,Partially Successful,129.67
+1735,26308,527,Failed,173.57
+1736,26313,527,Partially Successful,76.5
+1737,26316,527,Successful,101.41
+1738,26379,528,Failed,93.2
+1739,26389,528,Successful,108.59
+1740,26391,528,Partially Successful,61.91
+1741,26406,529,Partially Successful,118.66
+1742,26413,529,Failed,76.64
+1743,26428,529,Successful,172.78
+1744,26441,529,Partially Successful,90.48
+1745,26445,529,Partially Successful,126.57
+1746,26446,529,Failed,141.58
+1747,26450,529,Successful,46.88
+1748,26453,530,Failed,137.78
+1749,26463,530,Failed,139.04
+1750,26468,530,Partially Successful,162.07
+1751,26474,530,Successful,133.0
+1752,26478,530,Successful,80.76
+1753,26481,530,Partially Successful,129.42
+1754,26487,530,Successful,92.26
+1755,26500,530,Successful,29.74
+1756,26518,531,Partially Successful,30.4
+1757,26519,531,Partially Successful,144.21
+1758,26527,531,Partially Successful,151.63
+1759,26528,531,Failed,30.24
+1760,26538,531,Successful,95.01
+1761,26543,531,Failed,106.66
+1762,26547,531,Failed,43.33
+1763,26572,532,Successful,55.0
+1764,26575,532,Partially Successful,28.54
+1765,26577,532,Successful,69.0
+1766,26589,532,Successful,97.5
+1767,26591,532,Successful,118.66
+1768,26599,532,Failed,165.71
+1769,26661,534,Failed,40.82
+1770,26675,534,Failed,153.76
+1771,26687,534,Successful,44.31
+1772,26748,535,Successful,101.73
+1773,26773,536,Successful,178.62
+1774,26799,536,Partially Successful,138.15
+1775,26803,537,Successful,119.53
+1776,26806,537,Successful,165.13
+1777,26823,537,Successful,47.89
+1778,26829,537,Successful,172.39
+1779,26831,537,Successful,24.92
+1780,26832,537,Partially Successful,54.25
+1781,26843,537,Successful,169.46
+1782,26848,537,Partially Successful,175.99
+1783,26892,538,Successful,148.78
+1784,26961,540,Partially Successful,156.5
+1785,26967,540,Failed,179.0
+1786,26968,540,Partially Successful,161.26
+1787,26978,540,Partially Successful,29.64
+1788,27018,541,Partially Successful,36.25
+1789,27026,541,Failed,152.99
+1790,27029,541,Partially Successful,121.22
+1791,27040,541,Failed,91.68
+1792,27081,542,Partially Successful,74.03
+1793,27090,542,Failed,21.92
+1794,27112,543,Partially Successful,94.92
+1795,27113,543,Successful,158.59
+1796,27158,544,Successful,150.75
+1797,27159,544,Failed,155.74
+1798,27166,544,Partially Successful,118.54
+1799,27174,544,Successful,172.08
+1800,27177,544,Failed,111.14
+1801,27181,544,Failed,45.88
+1802,27188,544,Successful,51.51
+1803,27190,544,Failed,42.46
+1804,27193,544,Successful,75.91
+1805,27207,545,Failed,46.8
+1806,27220,545,Successful,144.07
+1807,27230,545,Successful,58.95
+1808,27237,545,Successful,33.51
+1809,27242,545,Partially Successful,133.98
+1810,27244,545,Partially Successful,47.49
+1811,27247,545,Failed,65.86
+1812,27273,546,Partially Successful,28.69
+1813,27286,546,Failed,26.8
+1814,27293,546,Failed,90.59
+1815,27303,547,Failed,34.16
+1816,27305,547,Successful,55.75
+1817,27306,547,Failed,175.17
+1818,27307,547,Partially Successful,121.51
+1819,27308,547,Successful,69.14
+1820,27309,547,Successful,151.46
+1821,27317,547,Successful,98.09
+1822,27323,547,Failed,51.51
+1823,27330,547,Failed,155.9
+1824,27333,547,Successful,153.59
+1825,27334,547,Failed,56.65
+1826,27344,547,Failed,46.2
+1827,27420,549,Failed,173.1
+1828,27443,549,Failed,160.76
+1829,27472,550,Partially Successful,56.23
+1830,27499,550,Failed,56.08
+1831,27501,551,Partially Successful,172.49
+1832,27577,552,Partially Successful,122.72
+1833,27584,552,Successful,92.95
+1834,27591,552,Successful,171.8
+1835,27599,552,Failed,134.26
+1836,27702,555,Partially Successful,92.14
+1837,27741,555,Successful,124.86
+1838,27743,555,Partially Successful,20.62
+1839,27855,558,Successful,54.37
+1840,27856,558,Partially Successful,157.51
+1841,27870,558,Successful,87.67
+1842,27874,558,Partially Successful,112.43
+1843,27877,558,Failed,114.83
+1844,27883,558,Successful,145.4
+1845,27900,558,Partially Successful,122.25
+1846,27910,559,Successful,41.86
+1847,28031,561,Failed,36.21
+1848,28080,562,Partially Successful,142.91
+1849,28134,563,Successful,160.72
+1850,28150,563,Successful,22.62
+1851,28168,564,Successful,72.87
+1852,28173,564,Successful,89.49
+1853,28174,564,Successful,40.51
+1854,28193,564,Failed,85.27
+1855,28210,565,Successful,178.92
+1856,28237,565,Successful,146.92
+1857,28245,565,Failed,104.45
+1858,28246,565,Partially Successful,69.99
+1859,28252,566,Partially Successful,95.97
+1860,28306,567,Successful,176.46
+1861,28322,567,Partially Successful,33.57
+1862,28325,567,Successful,45.48
+1863,28327,567,Successful,132.08
+1864,28332,567,Failed,80.17
+1865,28344,567,Failed,173.51
+1866,28348,567,Successful,179.39
+1867,28380,568,Successful,72.03
+1868,28381,568,Successful,179.12
+1869,28398,568,Failed,31.44
+1870,28468,570,Successful,126.13
+1871,28482,570,Successful,169.69
+1872,28504,571,Failed,63.25
+1873,28513,571,Partially Successful,104.1
+1874,28533,571,Partially Successful,99.91
+1875,28543,571,Partially Successful,94.35
+1876,28566,572,Successful,24.83
+1877,28583,572,Failed,157.56
+1878,28606,573,Failed,113.69
+1879,28614,573,Successful,124.47
+1880,28629,573,Successful,21.7
+1881,28668,574,Partially Successful,120.36
+1882,28675,574,Successful,78.27
+1883,28698,574,Partially Successful,54.07
+1884,28699,574,Partially Successful,116.61
+1885,28753,576,Partially Successful,169.46
+1886,28763,576,Successful,108.61
+1887,28771,576,Failed,125.65
+1888,28788,576,Successful,164.27
+1889,28790,576,Failed,31.08
+1890,28798,576,Failed,124.78
+1891,28809,577,Successful,119.27
+1892,28810,577,Successful,164.5
+1893,28870,578,Successful,148.24
+1894,28907,579,Partially Successful,89.12
+1895,28968,580,Partially Successful,171.87
+1896,28987,580,Successful,121.47
+1897,28992,580,Successful,169.27
+1898,29068,582,Successful,55.16
+1899,29080,582,Partially Successful,115.26
+1900,29087,582,Partially Successful,144.53
+1901,29092,582,Failed,163.78
+1902,29094,582,Failed,52.69
+1903,29097,582,Failed,75.47
+1904,29124,583,Failed,159.4
+1905,29126,583,Failed,50.39
+1906,29131,583,Partially Successful,95.6
+1907,29132,583,Failed,102.73
+1908,29133,583,Failed,84.7
+1909,29146,583,Partially Successful,106.52
+1910,29148,583,Partially Successful,132.04
+1911,29214,585,Failed,49.62
+1912,29255,586,Partially Successful,67.23
+1913,29256,586,Partially Successful,56.81
+1914,29294,586,Failed,148.08
+1915,29324,587,Failed,158.97
+1916,29329,587,Successful,60.3
+1917,29342,587,Successful,141.35
+1918,29356,588,Successful,114.97
+1919,29364,588,Failed,118.19
+1920,29371,588,Successful,32.8
+1921,29383,588,Failed,87.42
+1922,29384,588,Failed,174.83
+1923,29390,588,Partially Successful,49.83
+1924,29408,589,Successful,35.43
+1925,29509,591,Successful,98.28
+1926,29513,591,Failed,88.56
+1927,29514,591,Failed,106.35
+1928,29527,591,Failed,47.99
+1929,29529,591,Partially Successful,99.42
+1930,29543,591,Partially Successful,125.54
+1931,29554,592,Successful,109.9
+1932,29564,592,Successful,101.98
+1933,29572,592,Successful,102.15
+1934,29577,592,Partially Successful,173.28
+1935,29581,592,Failed,123.48
+1936,29590,592,Failed,66.24
+1937,29595,592,Successful,29.71
+1938,29636,593,Failed,24.57
+1939,29706,595,Successful,165.22
+1940,29709,595,Successful,36.01
+1941,29715,595,Successful,173.29
+1942,29731,595,Failed,41.59
+1943,29746,595,Partially Successful,121.14
+1944,29757,596,Partially Successful,84.55
+1945,29761,596,Successful,51.88
+1946,29776,596,Successful,111.53
+1947,29782,596,Successful,152.85
+1948,29865,598,Failed,74.54
+1949,29876,598,Failed,120.5
+1950,29882,598,Successful,147.17
+1951,29884,598,Failed,68.78
+1952,29930,599,Successful,56.38
+1953,29932,599,Failed,45.45
+1954,29949,599,Successful,57.3
+1955,29974,600,Failed,53.29
+1956,29996,600,Failed,158.79
+1957,30003,601,Successful,85.64
+1958,30033,601,Failed,147.16
+1959,30035,601,Failed,61.8
+1960,30037,601,Successful,176.55
+1961,30052,602,Partially Successful,34.63
+1962,30054,602,Partially Successful,52.76
+1963,30070,602,Successful,78.57
+1964,30133,603,Successful,176.36
+1965,30135,603,Successful,117.34
+1966,30137,603,Partially Successful,152.42
+1967,30138,603,Successful,137.48
+1968,30139,603,Failed,177.17
+1969,30142,603,Successful,158.69
+1970,30163,604,Successful,124.6
+1971,30166,604,Successful,147.35
+1972,30172,604,Partially Successful,43.92
+1973,30260,606,Failed,111.79
+1974,30276,606,Partially Successful,132.22
+1975,30296,606,Successful,108.53
+1976,30308,607,Failed,46.14
+1977,30320,607,Partially Successful,55.94
+1978,30322,607,Partially Successful,168.36
+1979,30326,607,Partially Successful,74.28
+1980,30328,607,Failed,111.91
+1981,30342,607,Failed,107.87
+1982,30344,607,Partially Successful,131.99
+1983,30356,608,Partially Successful,147.07
+1984,30384,608,Partially Successful,77.71
+1985,30401,609,Failed,114.59
+1986,30414,609,Successful,54.25
+1987,30421,609,Successful,83.8
+1988,30427,609,Partially Successful,64.76
+1989,30435,609,Successful,39.93
+1990,30436,609,Partially Successful,96.48
+1991,30446,609,Successful,68.1
+1992,30454,610,Failed,96.76
+1993,30501,611,Partially Successful,67.07
+1994,30504,611,Successful,44.76
+1995,30518,611,Successful,51.56
+1996,30535,611,Failed,118.71
+1997,30541,611,Partially Successful,28.76
+1998,30548,611,Successful,47.62
+1999,30550,611,Failed,87.77
+2000,30552,612,Successful,44.59
+2001,30567,612,Partially Successful,135.04
+2002,30584,612,Partially Successful,141.95
+2003,30615,613,Partially Successful,111.84
+2004,30641,613,Partially Successful,24.11
+2005,30677,614,Failed,65.11
+2006,30686,614,Successful,143.5
+2007,30705,615,Successful,60.07
+2008,30711,615,Successful,123.94
+2009,30758,616,Partially Successful,69.21
+2010,30788,616,Successful,118.15
+2011,30815,617,Partially Successful,108.01
+2012,30920,619,Partially Successful,85.89
+2013,30927,619,Failed,35.93
+2014,30933,619,Partially Successful,129.94
+2015,31043,621,Successful,125.09
+2016,31056,622,Partially Successful,43.2
+2017,31062,622,Failed,135.68
+2018,31066,622,Partially Successful,60.43
+2019,31078,622,Successful,178.78
+2020,31087,622,Partially Successful,129.07
+2021,31097,622,Failed,93.65
+2022,31107,623,Partially Successful,98.53
+2023,31123,623,Partially Successful,171.73
+2024,31132,623,Successful,78.51
+2025,31134,623,Successful,131.97
+2026,31148,623,Successful,89.24
+2027,31172,624,Failed,100.52
+2028,31188,624,Partially Successful,109.46
+2029,31203,625,Successful,30.75
+2030,31244,625,Partially Successful,160.4
+2031,31266,626,Partially Successful,61.58
+2032,31276,626,Partially Successful,157.43
+2033,31280,626,Partially Successful,74.56
+2034,31293,626,Successful,161.26
+2035,31352,628,Partially Successful,43.62
+2036,31366,628,Partially Successful,118.14
+2037,31367,628,Successful,88.95
+2038,31386,628,Partially Successful,157.12
+2039,31387,628,Failed,115.34
+2040,31390,628,Partially Successful,76.17
+2041,31394,628,Partially Successful,145.62
+2042,31400,628,Successful,59.59
+2043,31409,629,Successful,108.16
+2044,31452,630,Successful,161.19
+2045,31456,630,Successful,66.59
+2046,31463,630,Partially Successful,58.55
+2047,31467,630,Partially Successful,170.99
+2048,31468,630,Partially Successful,109.65
+2049,31480,630,Successful,46.04
+2050,31482,630,Failed,69.06
+2051,31489,630,Successful,130.89
+2052,31544,631,Partially Successful,70.71
+2053,31551,632,Partially Successful,156.78
+2054,31565,632,Successful,149.21
+2055,31569,632,Partially Successful,142.84
+2056,31573,632,Partially Successful,144.71
+2057,31575,632,Partially Successful,102.46
+2058,31577,632,Failed,126.54
+2059,31585,632,Failed,44.27
+2060,31591,632,Partially Successful,90.44
+2061,31594,632,Failed,164.81
+2062,31622,633,Failed,87.38
+2063,31636,633,Partially Successful,164.06
+2064,31670,634,Failed,117.05
+2065,31706,635,Partially Successful,90.29
+2066,31729,635,Successful,179.14
+2067,31761,636,Failed,72.42
+2068,31762,636,Partially Successful,123.43
+2069,31764,636,Partially Successful,55.25
+2070,31775,636,Partially Successful,143.79
+2071,31786,636,Partially Successful,174.41
+2072,31789,636,Failed,56.16
+2073,31800,636,Partially Successful,177.6
+2074,31818,637,Partially Successful,112.57
+2075,31852,638,Failed,109.09
+2076,31884,638,Partially Successful,138.92
+2077,31942,639,Failed,88.75
+2078,31983,640,Failed,144.85
+2079,31987,640,Failed,141.23
+2080,32019,641,Failed,170.62
+2081,32074,642,Partially Successful,154.41
+2082,32082,642,Successful,88.64
+2083,32108,643,Partially Successful,39.32
+2084,32139,643,Partially Successful,90.0
+2085,32147,643,Partially Successful,139.21
+2086,32154,644,Successful,162.69
+2087,32156,644,Failed,68.38
+2088,32165,644,Successful,83.69
+2089,32244,645,Successful,134.74
+2090,32273,646,Partially Successful,136.31
+2091,32283,646,Failed,34.17
+2092,32290,646,Failed,87.33
+2093,32308,647,Failed,84.74
+2094,32373,648,Partially Successful,94.93
+2095,32389,648,Partially Successful,150.25
+2096,32406,649,Failed,28.51
+2097,32411,649,Successful,133.74
+2098,32415,649,Partially Successful,147.95
+2099,32424,649,Partially Successful,86.87
+2100,32438,649,Partially Successful,93.09
+2101,32534,651,Successful,120.67
+2102,32556,652,Successful,46.63
+2103,32562,652,Failed,156.97
+2104,32563,652,Successful,118.83
+2105,32565,652,Failed,27.24
+2106,32570,652,Successful,23.51
+2107,32588,652,Successful,147.41
+2108,32593,652,Partially Successful,70.61
+2109,32597,652,Successful,151.78
+2110,32610,653,Partially Successful,41.67
+2111,32620,653,Partially Successful,155.66
+2112,32624,653,Partially Successful,20.02
+2113,32625,653,Successful,118.76
+2114,32640,653,Successful,94.86
+2115,32656,654,Successful,68.52
+2116,32679,654,Successful,68.4
+2117,32693,654,Partially Successful,55.92
+2118,32819,657,Partially Successful,84.01
+2119,32857,658,Failed,86.75
+2120,32930,659,Failed,125.33
+2121,32939,659,Successful,71.0
+2122,32953,660,Failed,29.89
+2123,32965,660,Successful,149.59
+2124,32968,660,Successful,24.65
+2125,32969,660,Partially Successful,110.93
+2126,32978,660,Successful,129.07
+2127,32983,660,Partially Successful,82.84
+2128,33065,662,Failed,164.36
+2129,33082,662,Partially Successful,74.64
+2130,33091,662,Partially Successful,152.1
+2131,33096,662,Successful,82.58
+2132,33104,663,Failed,105.18
+2133,33110,663,Partially Successful,149.33
+2134,33114,663,Failed,93.9
+2135,33121,663,Successful,174.32
+2136,33122,663,Failed,148.81
+2137,33136,663,Failed,20.66
+2138,33148,663,Successful,154.24
+2139,33186,664,Partially Successful,175.04
+2140,33196,664,Failed,137.16
+2141,33210,665,Partially Successful,112.9
+2142,33247,665,Failed,26.99
+2143,33257,666,Successful,178.49
+2144,33262,666,Failed,65.16
+2145,33277,666,Failed,101.16
+2146,33279,666,Partially Successful,101.05
+2147,33282,666,Failed,31.02
+2148,33291,666,Successful,142.81
+2149,33293,666,Successful,140.78
+2150,33295,666,Failed,124.7
+2151,33299,666,Partially Successful,46.2
+2152,33320,667,Failed,164.89
+2153,33326,667,Failed,31.64
+2154,33408,669,Successful,88.77
+2155,33409,669,Failed,74.4
+2156,33410,669,Partially Successful,76.0
+2157,33418,669,Partially Successful,177.64
+2158,33423,669,Successful,56.73
+2159,33426,669,Failed,74.37
+2160,33433,669,Partially Successful,79.97
+2161,33438,669,Failed,94.47
+2162,33450,669,Failed,41.05
+2163,33473,670,Partially Successful,85.78
+2164,33492,670,Partially Successful,38.67
+2165,33497,670,Failed,159.42
+2166,33531,671,Successful,51.02
+2167,33559,672,Successful,155.56
+2168,33601,673,Failed,80.6
+2169,33615,673,Successful,108.36
+2170,33692,674,Failed,91.42
+2171,33742,675,Failed,145.15
+2172,33754,676,Failed,133.06
+2173,33757,676,Failed,93.59
+2174,33781,676,Partially Successful,121.89
+2175,33850,677,Partially Successful,98.61
+2176,33852,678,Successful,74.88
+2177,33903,679,Successful,114.97
+2178,33911,679,Failed,99.09
+2179,33914,679,Partially Successful,122.51
+2180,33927,679,Failed,81.76
+2181,33929,679,Failed,43.04
+2182,33933,679,Partially Successful,134.41
+2183,33938,679,Failed,146.64
+2184,33940,679,Failed,109.99
+2185,33954,680,Failed,50.1
+2186,34045,681,Successful,46.5
+2187,34054,682,Failed,27.38
+2188,34127,683,Failed,134.78
+2189,34149,683,Failed,179.0
+2190,34188,684,Partially Successful,149.6
+2191,34205,685,Failed,20.94
+2192,34213,685,Partially Successful,59.28
+2193,34214,685,Partially Successful,104.84
+2194,34245,685,Failed,71.86
+2195,34250,685,Successful,65.44
+2196,34273,686,Successful,102.62
+2197,34329,687,Successful,72.23
+2198,34397,688,Partially Successful,40.1
+2199,34422,689,Successful,178.88
+2200,34432,689,Partially Successful,159.79
+2201,34433,689,Partially Successful,48.29
+2202,34446,689,Successful,118.61
+2203,34447,689,Partially Successful,58.82
+2204,34495,690,Partially Successful,83.68
+2205,34496,690,Failed,32.64
+2206,34543,691,Successful,128.21
+2207,34546,691,Failed,153.91
+2208,34552,692,Partially Successful,129.72
+2209,34553,692,Failed,83.11
+2210,34569,692,Partially Successful,105.94
+2211,34571,692,Partially Successful,169.6
+2212,34576,692,Failed,148.92
+2213,34581,692,Successful,65.32
+2214,34596,692,Partially Successful,96.79
+2215,34597,692,Failed,167.36
+2216,34598,692,Successful,159.08
+2217,34609,693,Failed,42.33
+2218,34620,693,Failed,175.03
+2219,34624,693,Partially Successful,101.4
+2220,34633,693,Partially Successful,146.22
+2221,34634,693,Successful,83.63
+2222,34641,693,Partially Successful,133.03
+2223,34645,693,Failed,120.11
+2224,34700,694,Successful,159.19
+2225,34734,695,Failed,53.96
+2226,34776,696,Partially Successful,33.1
+2227,34805,697,Failed,76.08
+2228,34806,697,Successful,26.03
+2229,34809,697,Failed,95.79
+2230,34814,697,Partially Successful,146.43
+2231,34826,697,Partially Successful,41.24
+2232,34827,697,Failed,57.11
+2233,34829,697,Failed,50.73
+2234,34830,697,Failed,33.67
+2235,34833,697,Partially Successful,79.31
+2236,34838,697,Partially Successful,69.56
+2237,34861,698,Successful,54.08
+2238,34862,698,Failed,179.44
+2239,34882,698,Failed,135.13
+2240,34887,698,Partially Successful,85.22
+2241,34901,699,Successful,171.15
+2242,34905,699,Successful,36.45
+2243,34920,699,Failed,173.89
+2244,34937,699,Failed,74.34
+2245,34964,700,Failed,173.0
+2246,34965,700,Partially Successful,87.24
+2247,34966,700,Partially Successful,103.35
+2248,34971,700,Successful,132.29
+2249,34980,700,Failed,133.3
+2250,34999,700,Failed,41.93
+2251,35030,701,Successful,107.03
+2252,35051,702,Successful,68.21
+2253,35052,702,Partially Successful,66.88
+2254,35066,702,Successful,42.75
+2255,35087,702,Partially Successful,159.86
+2256,35089,702,Failed,119.81
+2257,35107,703,Failed,46.44
+2258,35137,703,Failed,119.81
+2259,35216,705,Failed,72.64
+2260,35223,705,Successful,172.58
+2261,35261,706,Partially Successful,133.17
+2262,35267,706,Successful,80.19
+2263,35284,706,Failed,170.95
+2264,35307,707,Partially Successful,140.35
+2265,35324,707,Successful,22.21
+2266,35342,707,Failed,20.75
+2267,35358,708,Partially Successful,115.59
+2268,35362,708,Partially Successful,131.59
+2269,35370,708,Successful,111.68
+2270,35376,708,Successful,172.42
+2271,35379,708,Successful,25.62
+2272,35385,708,Failed,177.31
+2273,35391,708,Successful,140.72
+2274,35392,708,Partially Successful,129.82
+2275,35393,708,Failed,160.63
+2276,35400,708,Failed,49.9
+2277,35408,709,Failed,27.51
+2278,35431,709,Partially Successful,79.4
+2279,35436,709,Partially Successful,64.93
+2280,35440,709,Failed,133.23
+2281,35446,709,Failed,20.83
+2282,35463,710,Failed,137.91
+2283,35478,710,Failed,179.86
+2284,35489,710,Failed,128.32
+2285,35491,710,Successful,138.41
+2286,35496,710,Failed,96.56
+2287,35503,711,Successful,173.18
+2288,35547,711,Failed,42.59
+2289,35700,714,Successful,22.31
+2290,35719,715,Partially Successful,86.04
+2291,35766,716,Failed,45.78
+2292,35772,716,Failed,127.34
+2293,35826,717,Failed,112.51
+2294,35848,717,Failed,75.81
+2295,35853,718,Successful,78.11
+2296,35854,718,Partially Successful,97.5
+2297,35855,718,Successful,90.48
+2298,35857,718,Failed,53.72
+2299,35859,718,Failed,164.89
+2300,35871,718,Failed,147.99
+2301,35873,718,Partially Successful,63.55
+2302,35878,718,Successful,126.53
+2303,35880,718,Successful,166.02
+2304,35885,718,Failed,173.0
+2305,35893,718,Successful,23.25
+2306,35909,719,Partially Successful,120.43
+2307,35926,719,Partially Successful,132.03
+2308,35953,720,Partially Successful,20.87
+2309,35959,720,Failed,22.2
+2310,35968,720,Successful,36.68
+2311,35969,720,Partially Successful,53.83
+2312,35970,720,Partially Successful,120.54
+2313,35972,720,Failed,68.49
+2314,35979,720,Successful,84.07
+2315,35988,720,Partially Successful,61.34
+2316,35991,720,Partially Successful,37.12
+2317,35992,720,Successful,172.19
+2318,35993,720,Successful,149.53
+2319,36017,721,Successful,135.49
+2320,36027,721,Partially Successful,151.24
+2321,36031,721,Successful,88.06
+2322,36066,722,Successful,39.75
+2323,36090,722,Successful,95.16
+2324,36096,722,Failed,49.01
+2325,36103,723,Successful,115.68
+2326,36123,723,Successful,98.54
+2327,36161,724,Successful,46.32
+2328,36173,724,Failed,152.64
+2329,36204,725,Successful,40.98
+2330,36216,725,Partially Successful,57.79
+2331,36217,725,Failed,71.71
+2332,36222,725,Partially Successful,107.83
+2333,36226,725,Failed,93.53
+2334,36231,725,Partially Successful,74.55
+2335,36232,725,Failed,113.83
+2336,36243,725,Successful,29.1
+2337,36251,726,Partially Successful,41.8
+2338,36254,726,Failed,179.74
+2339,36255,726,Partially Successful,116.02
+2340,36256,726,Partially Successful,96.91
+2341,36280,726,Successful,105.07
+2342,36292,726,Successful,178.23
+2343,36296,726,Failed,93.24
+2344,36305,727,Successful,154.82
+2345,36328,727,Successful,107.63
+2346,36330,727,Failed,67.38
+2347,36334,727,Successful,33.59
+2348,36373,728,Partially Successful,27.48
+2349,36393,728,Partially Successful,84.17
+2350,36421,729,Successful,21.94
+2351,36431,729,Failed,109.69
+2352,36479,730,Partially Successful,27.77
+2353,36500,730,Successful,50.79
+2354,36515,731,Partially Successful,34.64
+2355,36556,732,Successful,60.56
+2356,36589,732,Successful,55.8
+2357,36595,732,Partially Successful,174.63
+2358,36601,733,Failed,169.41
+2359,36610,733,Partially Successful,87.15
+2360,36617,733,Failed,148.12
+2361,36642,733,Partially Successful,169.61
+2362,36652,734,Successful,97.0
+2363,36654,734,Successful,173.02
+2364,36668,734,Partially Successful,97.22
+2365,36674,734,Partially Successful,42.29
+2366,36718,735,Partially Successful,89.29
+2367,36731,735,Partially Successful,119.53
+2368,36739,735,Failed,98.75
+2369,36740,735,Failed,110.43
+2370,36750,735,Failed,145.95
+2371,36814,737,Successful,156.81
+2372,36827,737,Partially Successful,154.1
+2373,36835,737,Partially Successful,25.0
+2374,36837,737,Partially Successful,42.4
+2375,36839,737,Successful,56.93
+2376,36841,737,Successful,103.61
+2377,36849,737,Partially Successful,172.95
+2378,36852,738,Successful,161.05
+2379,36905,739,Failed,33.1
+2380,36920,739,Failed,151.05
+2381,36927,739,Failed,177.85
+2382,36942,739,Partially Successful,42.14
+2383,36975,740,Failed,129.34
+2384,36976,740,Partially Successful,133.16
+2385,36982,740,Failed,164.09
+2386,36999,740,Successful,108.95
+2387,37018,741,Partially Successful,175.36
+2388,37029,741,Failed,142.87
+2389,37040,741,Failed,142.27
+2390,37042,741,Successful,106.23
+2391,37053,742,Successful,58.83
+2392,37057,742,Successful,146.26
+2393,37059,742,Successful,177.94
+2394,37100,742,Failed,165.17
+2395,37114,743,Failed,117.78
+2396,37130,743,Successful,42.02
+2397,37148,743,Successful,89.57
+2398,37167,744,Partially Successful,134.46
+2399,37169,744,Successful,51.61
+2400,37239,745,Successful,91.77
+2401,37277,746,Partially Successful,113.38
+2402,37282,746,Failed,67.21
+2403,37286,746,Partially Successful,106.72
+2404,37311,747,Failed,88.76
+2405,37342,747,Successful,138.69
+2406,37345,747,Partially Successful,92.85
+2407,37348,747,Successful,68.62
+2408,37365,748,Successful,125.46
+2409,37367,748,Failed,79.56
+2410,37371,748,Failed,155.99
+2411,37374,748,Partially Successful,38.56
+2412,37388,748,Partially Successful,46.97
+2413,37398,748,Successful,70.56
+2414,37407,749,Failed,60.28
+2415,37413,749,Partially Successful,43.29
+2416,37414,749,Successful,154.33
+2417,37417,749,Successful,56.3
+2418,37422,749,Failed,143.67
+2419,37426,749,Partially Successful,35.81
+2420,37474,750,Successful,66.36
+2421,37490,750,Partially Successful,88.74
+2422,37513,751,Partially Successful,105.19
+2423,37546,751,Partially Successful,99.14
+2424,37549,751,Failed,173.47
+2425,37567,752,Partially Successful,50.01
+2426,37582,752,Partially Successful,134.61
+2427,37589,752,Successful,132.18
+2428,37594,752,Successful,53.4
+2429,37604,753,Successful,80.93
+2430,37610,753,Partially Successful,157.1
+2431,37613,753,Partially Successful,46.74
+2432,37626,753,Successful,120.89
+2433,37633,753,Successful,116.65
+2434,37648,753,Successful,32.23
+2435,37656,754,Partially Successful,42.31
+2436,37661,754,Partially Successful,78.23
+2437,37665,754,Failed,152.72
+2438,37673,754,Partially Successful,57.5
+2439,37677,754,Partially Successful,28.66
+2440,37680,754,Partially Successful,99.67
+2441,37681,754,Successful,33.13
+2442,37683,754,Failed,157.22
+2443,37694,754,Successful,85.74
+2444,37698,754,Successful,178.66
+2445,37700,754,Failed,56.23
+2446,37730,755,Failed,120.47
+2447,37740,755,Failed,63.67
+2448,37767,756,Partially Successful,93.98
+2449,37803,757,Partially Successful,113.25
+2450,37810,757,Partially Successful,130.34
+2451,37813,757,Failed,32.74
+2452,37842,757,Partially Successful,113.88
+2453,37909,759,Successful,74.65
+2454,37925,759,Partially Successful,85.08
+2455,37963,760,Partially Successful,36.96
+2456,37964,760,Successful,54.5
+2457,37968,760,Partially Successful,159.83
+2458,37970,760,Partially Successful,147.26
+2459,37986,760,Partially Successful,37.28
+2460,38049,761,Failed,71.19
+2461,38059,762,Successful,174.16
+2462,38062,762,Successful,87.09
+2463,38085,762,Successful,85.24
+2464,38087,762,Failed,89.58
+2465,38098,762,Successful,51.15
+2466,38146,763,Successful,38.3
+2467,38179,764,Successful,158.29
+2468,38201,765,Failed,146.67
+2469,38207,765,Partially Successful,171.15
+2470,38234,765,Partially Successful,121.96
+2471,38248,765,Failed,57.92
+2472,38252,766,Successful,138.74
+2473,38256,766,Successful,41.39
+2474,38259,766,Successful,65.25
+2475,38260,766,Partially Successful,134.1
+2476,38262,766,Successful,112.01
+2477,38263,766,Partially Successful,52.72
+2478,38268,766,Failed,141.44
+2479,38271,766,Successful,113.0
+2480,38272,766,Partially Successful,164.67
+2481,38274,766,Partially Successful,175.44
+2482,38282,766,Failed,42.64
+2483,38289,766,Failed,56.7
+2484,38290,766,Successful,21.03
+2485,38331,767,Partially Successful,81.77
+2486,38333,767,Partially Successful,166.0
+2487,38337,767,Successful,108.55
+2488,38342,767,Failed,77.42
+2489,38346,767,Failed,123.8
+2490,38357,768,Partially Successful,168.91
+2491,38367,768,Successful,162.85
+2492,38374,768,Failed,154.49
+2493,38388,768,Failed,129.61
+2494,38398,768,Failed,32.92
+2495,38446,769,Failed,141.95
+2496,38469,770,Successful,130.91
+2497,38505,771,Failed,115.69
+2498,38508,771,Successful,30.08
+2499,38563,772,Successful,52.22
+2500,38599,772,Failed,22.01
+2501,38652,774,Failed,47.91
+2502,38654,774,Partially Successful,54.84
+2503,38681,774,Partially Successful,150.73
+2504,38682,774,Successful,124.97
+2505,38708,775,Partially Successful,74.12
+2506,38709,775,Partially Successful,121.82
+2507,38713,775,Partially Successful,114.01
+2508,38726,775,Partially Successful,143.47
+2509,38733,775,Successful,25.05
+2510,38741,775,Partially Successful,108.65
+2511,38744,775,Successful,46.06
+2512,38748,775,Failed,162.09
+2513,38752,776,Successful,163.99
+2514,38770,776,Partially Successful,65.97
+2515,38782,776,Partially Successful,147.35
+2516,38787,776,Partially Successful,91.99
+2517,38788,776,Successful,131.64
+2518,38887,778,Successful,127.29
+2519,38931,779,Failed,162.02
+2520,38935,779,Failed,133.44
+2521,38944,779,Failed,143.5
+2522,38980,780,Failed,68.69
+2523,38986,780,Failed,31.53
+2524,39018,781,Partially Successful,103.74
+2525,39023,781,Partially Successful,114.63
+2526,39024,781,Partially Successful,66.43
+2527,39029,781,Partially Successful,104.22
+2528,39042,781,Partially Successful,22.91
+2529,39050,781,Successful,76.76
+2530,39056,782,Partially Successful,55.24
+2531,39057,782,Failed,63.94
+2532,39068,782,Failed,138.08
+2533,39090,782,Partially Successful,21.89
+2534,39097,782,Successful,103.02
+2535,39110,783,Failed,119.76
+2536,39146,783,Partially Successful,63.1
+2537,39163,784,Failed,112.92
+2538,39174,784,Successful,21.33
+2539,39180,784,Successful,169.23
+2540,39189,784,Failed,60.98
+2541,39200,784,Successful,33.08
+2542,39201,785,Failed,148.68
+2543,39261,786,Successful,130.85
+2544,39283,786,Successful,53.73
+2545,39314,787,Successful,95.39
+2546,39329,787,Failed,94.1
+2547,39330,787,Failed,146.99
+2548,39362,788,Successful,62.73
+2549,39404,789,Failed,157.02
+2550,39437,789,Successful,39.72
+2551,39466,790,Failed,173.08
+2552,39480,790,Failed,66.4
+2553,39486,790,Failed,153.51
+2554,39491,790,Successful,137.63
+2555,39533,791,Partially Successful,164.91
+2556,39551,792,Successful,131.3
+2557,39555,792,Partially Successful,113.04
+2558,39559,792,Failed,46.09
+2559,39566,792,Successful,68.34
+2560,39569,792,Partially Successful,85.48
+2561,39573,792,Partially Successful,86.59
+2562,39578,792,Partially Successful,116.86
+2563,39585,792,Successful,41.5
+2564,39595,792,Successful,80.24
+2565,39597,792,Failed,118.12
+2566,39600,792,Failed,97.32
+2567,39651,794,Successful,99.01
+2568,39652,794,Successful,162.75
+2569,39661,794,Failed,101.96
+2570,39664,794,Partially Successful,138.29
+2571,39666,794,Successful,159.26
+2572,39668,794,Failed,167.61
+2573,39669,794,Failed,73.08
+2574,39680,794,Partially Successful,110.07
+2575,39684,794,Failed,27.89
+2576,39703,795,Partially Successful,89.54
+2577,39711,795,Partially Successful,71.09
+2578,39714,795,Partially Successful,102.61
+2579,39717,795,Partially Successful,176.51
+2580,39726,795,Successful,59.38
+2581,39727,795,Partially Successful,108.18
+2582,39733,795,Partially Successful,150.82
+2583,39744,795,Partially Successful,53.06
+2584,39803,797,Partially Successful,154.2
+2585,39812,797,Successful,167.06
+2586,39829,797,Successful,28.32
+2587,39865,798,Partially Successful,53.81
+2588,39876,798,Partially Successful,151.65
+2589,39880,798,Partially Successful,95.2
+2590,39900,798,Partially Successful,49.97
+2591,39901,799,Successful,86.12
+2592,39917,799,Partially Successful,81.63
+2593,39932,799,Failed,172.2
+2594,39933,799,Failed,175.12
+2595,39940,799,Failed,63.1
+2596,39941,799,Successful,69.84
+2597,39949,799,Partially Successful,56.92
+2598,39979,800,Successful,87.19
+2599,39989,800,Successful,165.28
+2600,39990,800,Partially Successful,116.39
+2601,40022,801,Failed,108.96
+2602,40053,802,Partially Successful,96.8
+2603,40070,802,Partially Successful,105.05
+2604,40073,802,Partially Successful,51.85
+2605,40080,802,Partially Successful,114.99
+2606,40110,803,Partially Successful,145.47
+2607,40118,803,Partially Successful,85.78
+2608,40120,803,Successful,175.84
+2609,40125,803,Successful,100.24
+2610,40129,803,Partially Successful,168.46
+2611,40130,803,Partially Successful,95.41
+2612,40135,803,Partially Successful,44.98
+2613,40142,803,Successful,174.91
+2614,40143,803,Partially Successful,74.59
+2615,40149,803,Partially Successful,56.24
+2616,40166,804,Failed,115.57
+2617,40186,804,Partially Successful,71.75
+2618,40195,804,Successful,104.8
+2619,40203,805,Failed,27.4
+2620,40209,805,Successful,177.85
+2621,40213,805,Partially Successful,133.25
+2622,40234,805,Failed,148.48
+2623,40235,805,Partially Successful,171.43
+2624,40279,806,Partially Successful,157.71
+2625,40287,806,Failed,99.93
+2626,40290,806,Successful,71.32
+2627,40333,807,Failed,120.84
+2628,40341,807,Successful,121.41
+2629,40347,807,Partially Successful,162.3
+2630,40403,809,Partially Successful,111.74
+2631,40408,809,Partially Successful,147.56
+2632,40439,809,Failed,93.41
+2633,40526,811,Failed,167.06
+2634,40559,812,Partially Successful,155.33
+2635,40578,812,Successful,143.75
+2636,40626,813,Successful,47.23
+2637,40628,813,Successful,143.37
+2638,40648,813,Successful,58.26
+2639,40651,814,Successful,142.44
+2640,40658,814,Partially Successful,177.94
+2641,40666,814,Successful,175.03
+2642,40673,814,Partially Successful,109.75
+2643,40674,814,Partially Successful,118.97
+2644,40676,814,Successful,160.52
+2645,40681,814,Successful,59.41
+2646,40688,814,Failed,27.65
+2647,40698,814,Failed,33.53
+2648,40708,815,Failed,117.91
+2649,40725,815,Successful,84.07
+2650,40746,815,Successful,161.52
+2651,40747,815,Partially Successful,119.95
+2652,40757,816,Partially Successful,93.26
+2653,40833,817,Failed,65.58
+2654,40866,818,Partially Successful,125.57
+2655,40881,818,Partially Successful,65.87
+2656,40892,818,Failed,45.99
+2657,40897,818,Successful,159.54
+2658,40898,818,Successful,54.25
+2659,40912,819,Failed,141.45
+2660,40929,819,Partially Successful,158.61
+2661,40933,819,Partially Successful,112.61
+2662,40936,819,Failed,127.0
+2663,40947,819,Successful,36.95
+2664,40952,820,Failed,36.23
+2665,40955,820,Partially Successful,135.2
+2666,40993,820,Partially Successful,134.12
+2667,40995,820,Partially Successful,33.27
+2668,41001,821,Successful,103.9
+2669,41006,821,Partially Successful,154.81
+2670,41014,821,Partially Successful,91.69
+2671,41022,821,Successful,167.25
+2672,41025,821,Failed,138.43
+2673,41029,821,Successful,109.05
+2674,41034,821,Failed,42.45
+2675,41042,821,Partially Successful,173.71
+2676,41049,821,Failed,36.42
+2677,41050,821,Partially Successful,103.89
+2678,41053,822,Partially Successful,127.56
+2679,41071,822,Partially Successful,140.89
+2680,41107,823,Partially Successful,163.85
+2681,41131,823,Failed,20.03
+2682,41176,824,Successful,24.88
+2683,41194,824,Successful,69.73
+2684,41211,825,Successful,47.41
+2685,41213,825,Partially Successful,148.98
+2686,41220,825,Failed,115.06
+2687,41243,825,Failed,86.28
+2688,41244,825,Partially Successful,34.87
+2689,41249,825,Successful,59.43
+2690,41303,827,Successful,36.38
+2691,41317,827,Failed,174.5
+2692,41323,827,Successful,35.62
+2693,41326,827,Failed,91.07
+2694,41335,827,Partially Successful,75.64
+2695,41341,827,Successful,154.88
+2696,41356,828,Failed,61.02
+2697,41379,828,Failed,39.21
+2698,41406,829,Partially Successful,137.08
+2699,41410,829,Successful,20.42
+2700,41424,829,Failed,132.48
+2701,41427,829,Failed,100.1
+2702,41434,829,Failed,52.56
+2703,41454,830,Failed,128.42
+2704,41455,830,Partially Successful,174.49
+2705,41456,830,Partially Successful,107.3
+2706,41477,830,Failed,137.57
+2707,41484,830,Successful,75.52
+2708,41486,830,Partially Successful,96.14
+2709,41562,832,Partially Successful,129.1
+2710,41565,832,Failed,102.82
+2711,41569,832,Failed,89.45
+2712,41583,832,Partially Successful,94.5
+2713,41598,832,Successful,74.37
+2714,41604,833,Failed,112.21
+2715,41621,833,Partially Successful,92.01
+2716,41657,834,Successful,51.53
+2717,41678,834,Partially Successful,157.73
+2718,41682,834,Successful,130.84
+2719,41687,834,Failed,111.12
+2720,41693,834,Partially Successful,96.26
+2721,41695,834,Successful,157.22
+2722,41832,837,Failed,45.12
+2723,41855,838,Successful,97.66
+2724,41876,838,Partially Successful,61.34
+2725,41890,838,Successful,106.82
+2726,41955,840,Failed,67.23
+2727,41966,840,Partially Successful,95.33
+2728,41974,840,Partially Successful,110.16
+2729,41978,840,Successful,104.28
+2730,41990,840,Partially Successful,102.49
+2731,42001,841,Failed,97.85
+2732,42005,841,Failed,86.06
+2733,42007,841,Successful,109.07
+2734,42036,841,Partially Successful,82.45
+2735,42050,841,Failed,91.2
+2736,42090,842,Failed,85.77
+2737,42092,842,Partially Successful,142.47
+2738,42119,843,Successful,158.93
+2739,42132,843,Successful,33.61
+2740,42139,843,Partially Successful,121.31
+2741,42141,843,Partially Successful,54.15
+2742,42144,843,Partially Successful,153.49
+2743,42148,843,Successful,147.35
+2744,42154,844,Failed,33.79
+2745,42163,844,Failed,167.94
+2746,42166,844,Partially Successful,153.96
+2747,42178,844,Partially Successful,122.37
+2748,42191,844,Failed,170.1
+2749,42199,844,Failed,152.68
+2750,42214,845,Successful,133.73
+2751,42229,845,Failed,38.85
+2752,42310,847,Partially Successful,53.89
+2753,42343,847,Failed,65.88
+2754,42364,848,Successful,128.65
+2755,42377,848,Failed,74.17
+2756,42408,849,Failed,110.19
+2757,42412,849,Successful,50.99
+2758,42415,849,Successful,100.3
+2759,42421,849,Failed,102.68
+2760,42430,849,Successful,139.6
+2761,42431,849,Failed,177.38
+2762,42444,849,Successful,145.59
+2763,42446,849,Failed,72.22
+2764,42473,850,Failed,101.72
+2765,42503,851,Successful,149.33
+2766,42515,851,Failed,138.64
+2767,42516,851,Partially Successful,57.58
+2768,42517,851,Successful,155.05
+2769,42527,851,Failed,85.51
+2770,42532,851,Partially Successful,30.46
+2771,42538,851,Partially Successful,38.45
+2772,42557,852,Successful,114.93
+2773,42568,852,Failed,117.85
+2774,42578,852,Successful,133.16
+2775,42583,852,Failed,120.19
+2776,42597,852,Failed,99.81
+2777,42601,853,Partially Successful,104.99
+2778,42603,853,Partially Successful,101.9
+2779,42615,853,Failed,99.24
+2780,42626,853,Successful,145.99
+2781,42629,853,Successful,152.21
+2782,42630,853,Successful,69.57
+2783,42636,853,Failed,173.87
+2784,42648,853,Successful,89.47
+2785,42668,854,Partially Successful,166.45
+2786,42684,854,Successful,52.44
+2787,42712,855,Failed,78.75
+2788,42729,855,Partially Successful,58.69
+2789,42751,856,Partially Successful,36.09
+2790,42753,856,Failed,121.51
+2791,42756,856,Failed,129.06
+2792,42757,856,Partially Successful,50.53
+2793,42775,856,Partially Successful,138.17
+2794,42790,856,Successful,145.08
+2795,42793,856,Failed,166.18
+2796,42796,856,Successful,105.16
+2797,42797,856,Successful,66.64
+2798,42869,858,Successful,112.14
+2799,42874,858,Successful,76.08
+2800,42943,859,Successful,27.16
+2801,42944,859,Failed,174.24
+2802,42953,860,Partially Successful,91.96
+2803,42960,860,Successful,151.58
+2804,42961,860,Successful,102.2
+2805,43077,862,Successful,80.46
+2806,43085,862,Successful,66.73
+2807,43087,862,Failed,145.56
+2808,43095,862,Failed,62.48
+2809,43099,862,Successful,110.89
+2810,43100,862,Failed,140.1
+2811,43111,863,Partially Successful,38.84
+2812,43117,863,Partially Successful,57.24
+2813,43119,863,Failed,40.83
+2814,43129,863,Failed,165.77
+2815,43156,864,Partially Successful,121.26
+2816,43174,864,Successful,167.5
+2817,43204,865,Failed,110.27
+2818,43211,865,Failed,153.4
+2819,43216,865,Successful,90.86
+2820,43251,866,Successful,163.63
+2821,43252,866,Successful,64.82
+2822,43254,866,Partially Successful,179.84
+2823,43263,866,Successful,154.11
+2824,43275,866,Successful,27.61
+2825,43305,867,Successful,101.56
+2826,43329,867,Failed,152.42
+2827,43331,867,Successful,33.37
+2828,43354,868,Successful,114.28
+2829,43361,868,Partially Successful,164.72
+2830,43367,868,Partially Successful,123.32
+2831,43403,869,Partially Successful,74.33
+2832,43412,869,Partially Successful,151.3
+2833,43419,869,Failed,173.92
+2834,43435,869,Failed,116.55
+2835,43437,869,Partially Successful,129.62
+2836,43438,869,Failed,169.15
+2837,43446,869,Successful,101.34
+2838,43448,869,Successful,98.13
+2839,43454,870,Partially Successful,55.03
+2840,43459,870,Failed,106.78
+2841,43463,870,Successful,34.19
+2842,43467,870,Successful,150.89
+2843,43477,870,Partially Successful,87.37
+2844,43490,870,Successful,42.7
+2845,43513,871,Successful,130.92
+2846,43564,872,Failed,85.62
+2847,43569,872,Failed,60.08
+2848,43570,872,Successful,52.12
+2849,43581,872,Successful,141.79
+2850,43632,873,Partially Successful,138.76
+2851,43637,873,Partially Successful,153.58
+2852,43654,874,Partially Successful,125.91
+2853,43676,874,Failed,154.0
+2854,43677,874,Successful,91.01
+2855,43682,874,Failed,115.48
+2856,43685,874,Partially Successful,107.91
+2857,43691,874,Failed,124.11
+2858,43699,874,Partially Successful,83.61
+2859,43700,874,Partially Successful,110.12
+2860,43710,875,Partially Successful,153.47
+2861,43726,875,Successful,24.36
+2862,43745,875,Failed,141.47
+2863,43749,875,Successful,136.52
+2864,43751,876,Partially Successful,100.81
+2865,43757,876,Failed,43.72
+2866,43759,876,Successful,69.81
+2867,43766,876,Partially Successful,115.55
+2868,43782,876,Failed,62.88
+2869,43792,876,Successful,37.23
+2870,43816,877,Partially Successful,156.28
+2871,43826,877,Failed,75.03
+2872,43849,877,Successful,42.52
+2873,43856,878,Failed,74.01
+2874,43873,878,Partially Successful,158.65
+2875,43894,878,Failed,129.41
+2876,43924,879,Failed,78.5
+2877,43949,879,Failed,40.82
+2878,43951,880,Successful,165.24
+2879,43960,880,Failed,66.2
+2880,43965,880,Successful,153.54
+2881,44024,881,Failed,38.36
+2882,44030,881,Successful,145.67
+2883,44088,882,Partially Successful,118.98
+2884,44100,882,Failed,27.55
+2885,44103,883,Failed,94.47
+2886,44126,883,Successful,56.38
+2887,44127,883,Successful,126.13
+2888,44141,883,Successful,127.27
+2889,44255,886,Partially Successful,179.52
+2890,44272,886,Partially Successful,144.24
+2891,44293,886,Failed,108.45
+2892,44320,887,Failed,81.53
+2893,44326,887,Failed,145.68
+2894,44357,888,Failed,116.8
+2895,44360,888,Partially Successful,178.66
+2896,44365,888,Failed,164.64
+2897,44397,888,Partially Successful,120.35
+2898,44400,888,Failed,75.82
+2899,44420,889,Partially Successful,20.35
+2900,44489,890,Failed,144.92
+2901,44501,891,Partially Successful,46.56
+2902,44504,891,Failed,152.99
+2903,44505,891,Successful,177.41
+2904,44524,891,Failed,137.38
+2905,44554,892,Failed,133.78
+2906,44557,892,Partially Successful,61.91
+2907,44561,892,Partially Successful,130.98
+2908,44571,892,Partially Successful,53.97
+2909,44579,892,Partially Successful,62.68
+2910,44582,892,Partially Successful,116.16
+2911,44595,892,Failed,84.56
+2912,44631,893,Failed,20.7
+2913,44640,893,Failed,162.32
+2914,44644,893,Successful,22.68
+2915,44693,894,Failed,46.43
+2916,44698,894,Successful,160.88
+2917,44725,895,Successful,136.49
+2918,44768,896,Failed,174.49
+2919,44773,896,Successful,91.18
+2920,44784,896,Partially Successful,124.47
+2921,44793,896,Successful,168.45
+2922,44801,897,Partially Successful,117.19
+2923,44802,897,Successful,20.66
+2924,44803,897,Successful,22.17
+2925,44806,897,Failed,145.24
+2926,44826,897,Successful,49.53
+2927,44829,897,Failed,147.93
+2928,44846,897,Successful,48.31
+2929,44934,899,Partially Successful,41.36
+2930,44951,900,Partially Successful,77.37
+2931,44972,900,Failed,161.68
+2932,44987,900,Successful,145.0
+2933,44992,900,Failed,31.83
+2934,44993,900,Successful,73.64
+2935,44995,900,Successful,108.45
+2936,45003,901,Successful,59.35
+2937,45050,901,Failed,41.81
+2938,45102,903,Failed,73.93
+2939,45116,903,Failed,132.54
+2940,45134,903,Failed,178.05
+2941,45144,903,Failed,150.21
+2942,45150,903,Partially Successful,118.69
+2943,45153,904,Failed,52.1
+2944,45162,904,Successful,45.51
+2945,45176,904,Successful,153.53
+2946,45178,904,Partially Successful,112.36
+2947,45182,904,Failed,128.51
+2948,45207,905,Partially Successful,20.25
+2949,45210,905,Successful,20.84
+2950,45240,905,Partially Successful,126.34
+2951,45244,905,Failed,52.39
+2952,45266,906,Successful,133.65
+2953,45267,906,Successful,123.06
+2954,45269,906,Successful,93.1
+2955,45271,906,Partially Successful,45.4
+2956,45276,906,Failed,148.12
+2957,45334,907,Successful,138.49
+2958,45354,908,Partially Successful,97.3
+2959,45355,908,Failed,37.89
+2960,45365,908,Successful,87.03
+2961,45397,908,Successful,110.15
+2962,45400,908,Failed,103.29
+2963,45422,909,Failed,28.64
+2964,45441,909,Failed,75.7
+2965,45444,909,Successful,76.08
+2966,45446,909,Partially Successful,179.33
+2967,45494,910,Successful,35.07
+2968,45548,911,Successful,131.44
+2969,45556,912,Partially Successful,20.2
+2970,45571,912,Successful,43.18
+2971,45574,912,Failed,168.25
+2972,45582,912,Partially Successful,122.43
+2973,45585,912,Partially Successful,178.98
+2974,45587,912,Partially Successful,62.57
+2975,45588,912,Partially Successful,115.75
+2976,45667,914,Failed,70.7
+2977,45675,914,Partially Successful,86.06
+2978,45700,914,Successful,113.52
+2979,45712,915,Successful,152.16
+2980,45716,915,Partially Successful,106.52
+2981,45735,915,Successful,46.5
+2982,45761,916,Failed,127.38
+2983,45767,916,Failed,42.32
+2984,45843,917,Failed,103.54
+2985,45910,919,Successful,155.64
+2986,45913,919,Partially Successful,35.39
+2987,45937,919,Successful,113.84
+2988,45943,919,Successful,159.53
+2989,45945,919,Successful,88.73
+2990,45985,920,Partially Successful,144.21
+2991,45992,920,Successful,123.28
+2992,46019,921,Partially Successful,36.85
+2993,46032,921,Failed,33.4
+2994,46034,921,Successful,54.59
+2995,46035,921,Partially Successful,171.11
+2996,46045,921,Failed,44.41
+2997,46052,922,Successful,62.45
+2998,46057,922,Failed,27.61
+2999,46082,922,Successful,141.82
+3000,46103,923,Failed,102.05
+3001,46128,923,Failed,138.46
+3002,46133,923,Failed,102.05
+3003,46155,924,Partially Successful,92.74
+3004,46176,924,Partially Successful,39.66
+3005,46180,924,Successful,154.49
+3006,46203,925,Successful,64.79
+3007,46204,925,Failed,61.44
+3008,46211,925,Failed,171.15
+3009,46235,925,Failed,154.9
+3010,46260,926,Failed,57.54
+3011,46271,926,Partially Successful,139.42
+3012,46272,926,Failed,151.13
+3013,46284,926,Successful,76.37
+3014,46287,926,Failed,144.23
+3015,46299,926,Partially Successful,139.03
+3016,46304,927,Successful,60.82
+3017,46311,927,Failed,138.71
+3018,46335,927,Partially Successful,46.45
+3019,46337,927,Partially Successful,110.16
+3020,46338,927,Successful,55.18
+3021,46349,927,Partially Successful,87.32
+3022,46420,929,Successful,133.27
+3023,46509,931,Successful,47.45
+3024,46518,931,Successful,31.99
+3025,46524,931,Partially Successful,97.02
+3026,46536,931,Successful,159.53
+3027,46544,931,Successful,99.18
+3028,46545,931,Successful,125.14
+3029,46590,932,Successful,163.43
+3030,46713,935,Partially Successful,55.63
+3031,46718,935,Failed,178.44
+3032,46729,935,Failed,162.86
+3033,46730,935,Failed,22.66
+3034,46747,935,Failed,126.88
+3035,46860,938,Failed,156.43
+3036,46863,938,Failed,26.74
+3037,46865,938,Failed,89.53
+3038,46873,938,Successful,98.68
+3039,46881,938,Failed,79.85
+3040,46890,938,Partially Successful,93.81
+3041,46897,938,Successful,54.77
+3042,47078,942,Failed,27.36
+3043,47130,943,Partially Successful,99.65
+3044,47136,943,Partially Successful,169.55
+3045,47161,944,Successful,179.26
+3046,47164,944,Successful,174.49
+3047,47188,944,Successful,177.77
+3048,47250,945,Partially Successful,84.61
+3049,47258,946,Successful,138.44
+3050,47274,946,Partially Successful,164.92
+3051,47292,946,Failed,79.53
+3052,47296,946,Failed,119.64
+3053,47300,946,Failed,59.14
+3054,47301,947,Successful,103.22
+3055,47304,947,Partially Successful,67.55
+3056,47309,947,Partially Successful,63.31
+3057,47318,947,Successful,82.2
+3058,47327,947,Successful,24.47
+3059,47331,947,Failed,85.9
+3060,47332,947,Failed,55.16
+3061,47337,947,Successful,103.91
+3062,47338,947,Successful,55.21
+3063,47349,947,Partially Successful,95.56
+3064,47350,947,Successful,89.13
+3065,47358,948,Partially Successful,140.12
+3066,47368,948,Failed,169.55
+3067,47423,949,Successful,53.63
+3068,47425,949,Failed,147.54
+3069,47475,950,Partially Successful,108.09
+3070,47509,951,Partially Successful,122.83
+3071,47548,951,Partially Successful,152.05
+3072,47552,952,Partially Successful,96.01
+3073,47553,952,Failed,71.13
+3074,47602,953,Partially Successful,123.96
+3075,47612,953,Successful,81.04
+3076,47613,953,Failed,124.73
+3077,47618,953,Partially Successful,141.16
+3078,47631,953,Failed,155.98
+3079,47632,953,Failed,171.68
+3080,47644,953,Failed,76.63
+3081,47663,954,Successful,97.4
+3082,47687,954,Partially Successful,170.74
+3083,47691,954,Partially Successful,53.57
+3084,47694,954,Partially Successful,136.04
+3085,47709,955,Successful,51.23
+3086,47726,955,Failed,63.07
+3087,47778,956,Successful,126.09
+3088,47783,956,Successful,179.49
+3089,47803,957,Failed,169.7
+3090,47814,957,Failed,153.27
+3091,47831,957,Failed,63.78
+3092,47841,957,Partially Successful,86.44
+3093,47864,958,Partially Successful,28.48
+3094,47886,958,Partially Successful,88.24
+3095,47888,958,Successful,162.31
+3096,47898,958,Failed,108.1
+3097,47901,959,Successful,74.28
+3098,47918,959,Partially Successful,79.49
+3099,47926,959,Failed,33.83
+3100,47927,959,Failed,65.77
+3101,47950,959,Partially Successful,50.9
+3102,47952,960,Failed,117.69
+3103,47953,960,Successful,168.19
+3104,47975,960,Failed,85.59
+3105,47978,960,Partially Successful,92.79
+3106,47979,960,Successful,124.34
+3107,48161,964,Successful,94.62
+3108,48166,964,Partially Successful,160.36
+3109,48234,965,Successful,119.21
+3110,48241,965,Successful,179.38
+3111,48256,966,Successful,64.49
+3112,48270,966,Failed,123.76
+3113,48279,966,Partially Successful,40.21
+3114,48288,966,Partially Successful,139.47
+3115,48311,967,Successful,88.14
+3116,48320,967,Failed,124.12
+3117,48335,967,Partially Successful,112.21
+3118,48365,968,Partially Successful,104.86
+3119,48382,968,Failed,119.27
+3120,48385,968,Failed,56.85
+3121,48390,968,Partially Successful,26.99
+3122,48396,968,Partially Successful,160.73
+3123,48411,969,Successful,148.45
+3124,48429,969,Failed,177.72
+3125,48443,969,Failed,41.98
+3126,48471,970,Successful,154.48
+3127,48496,970,Failed,152.52
+3128,48535,971,Partially Successful,102.95
+3129,48545,971,Partially Successful,25.09
+3130,48559,972,Partially Successful,36.75
+3131,48613,973,Failed,90.11
+3132,48654,974,Failed,88.19
+3133,48660,974,Partially Successful,125.44
+3134,48684,974,Partially Successful,23.71
+3135,48717,975,Failed,25.95
+3136,48722,975,Failed,109.71
+3137,48750,975,Partially Successful,95.2
+3138,48759,976,Failed,147.16
+3139,48770,976,Successful,124.53
+3140,48777,976,Successful,118.15
+3141,48813,977,Partially Successful,105.16
+3142,48834,977,Successful,143.62
+3143,48877,978,Failed,145.36
+3144,48891,978,Failed,112.64
+3145,48939,979,Failed,33.33
+3146,48945,979,Failed,48.02
+3147,48952,980,Successful,134.63
+3148,48973,980,Successful,136.36
+3149,48986,980,Failed,113.61
+3150,48997,980,Failed,158.67
+3151,49002,981,Successful,139.3
+3152,49045,981,Failed,76.3
+3153,49136,983,Partially Successful,156.63
+3154,49146,983,Successful,96.68
+3155,49158,984,Failed,94.63
+3156,49176,984,Successful,77.07
+3157,49195,984,Failed,149.24
+3158,49257,986,Successful,167.1
+3159,49287,986,Successful,165.4
+3160,49315,987,Successful,143.96
+3161,49320,987,Failed,178.24
+3162,49324,987,Partially Successful,42.85
+3163,49327,987,Failed,95.66
+3164,49328,987,Partially Successful,129.08
+3165,49332,987,Failed,114.38
+3166,49340,987,Partially Successful,159.26
+3167,49348,987,Successful,62.8
+3168,49350,987,Failed,124.13
+3169,49376,988,Partially Successful,168.98
+3170,49377,988,Partially Successful,66.55
+3171,49378,988,Successful,28.79
+3172,49386,988,Failed,127.99
+3173,49389,988,Failed,109.29
+3174,49391,988,Partially Successful,77.75
+3175,49456,990,Partially Successful,73.5
+3176,49463,990,Partially Successful,41.76
+3177,49469,990,Successful,152.98
+3178,49562,992,Partially Successful,111.23
+3179,49563,992,Partially Successful,130.7
+3180,49569,992,Failed,178.8
+3181,49576,992,Successful,36.58
+3182,49593,992,Failed,123.54
+3183,49596,992,Partially Successful,50.38
+3184,49606,993,Partially Successful,135.37
+3185,49612,993,Successful,85.01
+3186,49613,993,Partially Successful,22.38
+3187,49615,993,Successful,116.02
+3188,49616,993,Partially Successful,143.13
+3189,49634,993,Partially Successful,167.88
+3190,49648,993,Successful,154.55
+3191,49668,994,Successful,111.58
+3192,49696,994,Partially Successful,162.9
+3193,49761,996,Failed,66.14
+3194,49762,996,Failed,139.89
+3195,49783,996,Successful,88.94
+3196,49810,997,Partially Successful,42.8
+3197,49845,997,Partially Successful,103.22
+3198,49856,998,Failed,60.85
+3199,49879,998,Failed,92.35
+3200,49881,998,Partially Successful,45.67
+3201,49894,998,Successful,108.92
+3202,49900,998,Partially Successful,30.71
+3203,49915,999,Successful,178.56
+3204,49941,999,Partially Successful,165.45
+3205,49950,999,Partially Successful,64.0
+3206,49967,1000,Partially Successful,75.72
+3207,49972,1000,Partially Successful,34.83
+3208,49978,1000,Failed,54.62

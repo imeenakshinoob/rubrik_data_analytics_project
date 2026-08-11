@@ -1,0 +1,1001 @@
+customer_id,company_name,industry,cloud_provider,company_size,region,subscription_plan
+1,Leach-Dunn,Finance,AWS,Large,Europe,Standard
+2,Knight Inc,Healthcare,Google Cloud,Small,North America,Enterprise
+3,Garcia-Cohen,Technology,AWS,Small,North America,Standard
+4,Hayes-Marsh,Healthcare,Google Cloud,Small,Europe,Enterprise
+5,Mason Group,Manufacturing,Azure,Medium,South America,Enterprise
+6,Lewis PLC,Retail,AWS,Medium,South America,Premium
+7,Bullock Group,Retail,AWS,Medium,Asia Pacific,Standard
+8,Park LLC,Finance,Azure,Small,Asia Pacific,Premium
+9,Ortiz Ltd,Manufacturing,Azure,Small,South America,Enterprise
+10,"Johnson, Holt and Lopez",Finance,Azure,Small,Asia Pacific,Enterprise
+11,Lopez-Washington,Manufacturing,Azure,Medium,North America,Standard
+12,Mora Ltd,Healthcare,Azure,Small,Europe,Standard
+13,"Lee, Roman and Harris",Technology,Azure,Enterprise,Asia Pacific,Standard
+14,"Rodriguez, Burns and Allison",Retail,Azure,Medium,Asia Pacific,Enterprise
+15,Forbes-Gregory,Finance,Google Cloud,Medium,Europe,Standard
+16,Spencer LLC,Technology,Azure,Large,Europe,Enterprise
+17,"Chavez, Morton and Beltran",Retail,AWS,Medium,North America,Premium
+18,Sullivan and Sons,Technology,Azure,Small,Europe,Enterprise
+19,Castro-Smith,Retail,AWS,Enterprise,South America,Enterprise
+20,Peterson-Tapia,Technology,AWS,Large,Europe,Standard
+21,"Hart, Stewart and Ross",Manufacturing,Google Cloud,Large,South America,Enterprise
+22,Kramer-Ross,Technology,Azure,Medium,Europe,Enterprise
+23,"Johnson, Orozco and Bailey",Technology,AWS,Small,North America,Standard
+24,"Conway, Mills and Malone",Healthcare,Google Cloud,Enterprise,North America,Premium
+25,Martin LLC,Technology,Google Cloud,Enterprise,Asia Pacific,Enterprise
+26,"Simpson, Baker and Strickland",Finance,Google Cloud,Small,Asia Pacific,Enterprise
+27,"Patterson, Wallace and Suarez",Retail,AWS,Large,South America,Standard
+28,May and Sons,Technology,AWS,Large,Europe,Enterprise
+29,Hendricks-Fernandez,Finance,Google Cloud,Large,Europe,Standard
+30,Barnes-Nichols,Retail,AWS,Small,Asia Pacific,Premium
+31,Hood Group,Finance,AWS,Large,Asia Pacific,Standard
+32,Singh-Smith,Finance,AWS,Small,North America,Enterprise
+33,Miller LLC,Technology,AWS,Medium,Europe,Enterprise
+34,"Mccoy, Rodriguez and Clarke",Technology,Google Cloud,Medium,Asia Pacific,Enterprise
+35,Jensen Ltd,Manufacturing,Azure,Medium,Europe,Enterprise
+36,Garcia-Fuller,Retail,Azure,Large,South America,Enterprise
+37,Baker Inc,Technology,AWS,Medium,Europe,Standard
+38,"Jones, Nicholson and Gutierrez",Retail,AWS,Medium,Europe,Standard
+39,Moore-Weeks,Finance,Google Cloud,Small,Europe,Standard
+40,Butler Inc,Finance,Azure,Small,Europe,Premium
+41,Hayes Ltd,Technology,AWS,Medium,South America,Standard
+42,Carroll Inc,Technology,Azure,Medium,North America,Standard
+43,Porter-Myers,Technology,Azure,Enterprise,South America,Premium
+44,Mcintyre-Calderon,Finance,Google Cloud,Small,North America,Premium
+45,"Walker, Harris and Glass",Retail,AWS,Medium,Europe,Standard
+46,"Reed, Miller and Saunders",Manufacturing,Azure,Medium,South America,Standard
+47,Adams Group,Retail,Azure,Medium,North America,Premium
+48,Powell-Garcia,Manufacturing,AWS,Small,North America,Standard
+49,Harris Group,Healthcare,AWS,Enterprise,South America,Premium
+50,Cardenas-Alexander,Healthcare,Azure,Small,Europe,Premium
+51,"Vasquez, Patel and Contreras",Finance,Azure,Large,South America,Premium
+52,"Thomas, Sullivan and Estes",Technology,Google Cloud,Enterprise,Europe,Standard
+53,Jones PLC,Retail,AWS,Small,North America,Enterprise
+54,"Cordova, Long and Lopez",Retail,AWS,Small,South America,Enterprise
+55,Bryan and Sons,Manufacturing,AWS,Small,North America,Standard
+56,Moore Group,Finance,Google Cloud,Small,Europe,Premium
+57,Perez Group,Finance,Google Cloud,Medium,North America,Enterprise
+58,Mann PLC,Finance,Azure,Large,Asia Pacific,Standard
+59,Greene-Kemp,Retail,AWS,Large,South America,Standard
+60,Alexander-Conner,Retail,Azure,Large,North America,Standard
+61,Adkins Inc,Technology,Google Cloud,Small,North America,Enterprise
+62,Barnett-Ballard,Healthcare,Google Cloud,Large,Europe,Premium
+63,"Adams, Martin and Cruz",Finance,AWS,Large,Asia Pacific,Standard
+64,"Brown, Gibson and Smith",Technology,Google Cloud,Large,North America,Enterprise
+65,Nolan-Brown,Manufacturing,Azure,Small,Europe,Premium
+66,"Rodriguez, Moore and Meyers",Finance,AWS,Medium,Asia Pacific,Premium
+67,Anderson Ltd,Manufacturing,AWS,Large,Europe,Enterprise
+68,Brewer-Alexander,Retail,Google Cloud,Enterprise,Asia Pacific,Standard
+69,Campbell and Sons,Finance,Google Cloud,Enterprise,Asia Pacific,Standard
+70,Goodwin-Bennett,Finance,Azure,Medium,Asia Pacific,Standard
+71,"Schultz, Buchanan and Fritz",Technology,Google Cloud,Enterprise,North America,Standard
+72,"Lopez, Callahan and Gallagher",Finance,Google Cloud,Medium,North America,Premium
+73,Douglas PLC,Manufacturing,Google Cloud,Medium,South America,Standard
+74,Sutton-Simmons,Finance,Azure,Large,North America,Premium
+75,"Cooper, Jackson and Davis",Healthcare,Google Cloud,Medium,North America,Premium
+76,"Cherry, Sherman and Wilson",Manufacturing,Azure,Medium,Europe,Standard
+77,"Smith, Chen and Martinez",Healthcare,Azure,Small,Europe,Enterprise
+78,Lopez Ltd,Retail,Azure,Medium,Asia Pacific,Standard
+79,Lane Inc,Finance,Azure,Small,South America,Standard
+80,Spencer-Evans,Healthcare,Azure,Large,Asia Pacific,Standard
+81,Rios-Walker,Healthcare,AWS,Medium,South America,Premium
+82,Powell-Flores,Retail,AWS,Large,Asia Pacific,Enterprise
+83,Lyons-Carlson,Manufacturing,Azure,Large,North America,Standard
+84,Elliott-Lawson,Retail,AWS,Large,North America,Standard
+85,Fleming-Riddle,Manufacturing,Azure,Large,Asia Pacific,Premium
+86,Bowen-Wilson,Manufacturing,Google Cloud,Small,South America,Enterprise
+87,"Anderson, Lee and Guerra",Healthcare,Azure,Small,South America,Standard
+88,Patterson Inc,Manufacturing,Google Cloud,Medium,Asia Pacific,Premium
+89,Conner-Warner,Finance,Google Cloud,Large,Asia Pacific,Enterprise
+90,Ferguson Inc,Finance,Google Cloud,Large,Asia Pacific,Enterprise
+91,Taylor LLC,Technology,Azure,Enterprise,Asia Pacific,Enterprise
+92,"Williams, Brown and Martin",Healthcare,AWS,Enterprise,South America,Enterprise
+93,"Martinez, Cordova and Rogers",Healthcare,Google Cloud,Large,South America,Enterprise
+94,Garcia-Wilson,Finance,Azure,Large,Europe,Premium
+95,"Colon, Park and Brewer",Manufacturing,Google Cloud,Large,South America,Premium
+96,Wilson-Smith,Technology,Google Cloud,Medium,South America,Enterprise
+97,Rich-Richards,Healthcare,Google Cloud,Small,Asia Pacific,Enterprise
+98,Torres-Silva,Manufacturing,Azure,Small,Europe,Enterprise
+99,Cook-Leon,Retail,AWS,Medium,Europe,Standard
+100,"Gordon, Harris and Castro",Finance,AWS,Enterprise,North America,Premium
+101,Lewis-Choi,Technology,Google Cloud,Medium,South America,Premium
+102,"Smith, Cole and Glenn",Technology,AWS,Medium,North America,Standard
+103,Martin-Brennan,Technology,AWS,Medium,South America,Standard
+104,"Cook, Melendez and Pacheco",Manufacturing,AWS,Small,South America,Standard
+105,Russell Inc,Technology,Google Cloud,Large,South America,Enterprise
+106,Bennett Group,Manufacturing,Azure,Enterprise,Europe,Enterprise
+107,Salazar and Sons,Technology,Azure,Large,Europe,Enterprise
+108,"Lara, Deleon and Mosley",Retail,Google Cloud,Enterprise,Europe,Premium
+109,Lopez-Dudley,Technology,AWS,Large,Europe,Premium
+110,"Pratt, Wheeler and Hill",Retail,Azure,Small,Europe,Standard
+111,Wright Group,Healthcare,Azure,Medium,Europe,Standard
+112,Rodriguez-Schmidt,Technology,Azure,Large,South America,Premium
+113,Murphy-Lawrence,Finance,AWS,Enterprise,South America,Enterprise
+114,"Webster, West and Dawson",Finance,Google Cloud,Enterprise,South America,Standard
+115,"Smith, Ferrell and Rose",Retail,Azure,Enterprise,South America,Enterprise
+116,Washington-Woods,Manufacturing,Google Cloud,Medium,South America,Standard
+117,"Lewis, Novak and Mcclain",Retail,Azure,Enterprise,North America,Premium
+118,"Lowe, Gregory and Rivera",Retail,Google Cloud,Enterprise,Europe,Premium
+119,Peterson and Sons,Healthcare,Google Cloud,Small,South America,Enterprise
+120,Riggs PLC,Manufacturing,Google Cloud,Small,North America,Enterprise
+121,Warren-Petty,Technology,AWS,Enterprise,Europe,Standard
+122,"Russell, Mcfarland and Pearson",Retail,Azure,Large,Europe,Premium
+123,Molina LLC,Retail,Azure,Enterprise,Asia Pacific,Premium
+124,Barnett Ltd,Retail,AWS,Enterprise,North America,Enterprise
+125,"Lawson, Moss and Sparks",Manufacturing,AWS,Large,Europe,Enterprise
+126,Woods-Skinner,Finance,Google Cloud,Small,North America,Standard
+127,"Jensen, Bird and Franklin",Healthcare,AWS,Medium,Europe,Standard
+128,Hancock-Melendez,Technology,Google Cloud,Small,Europe,Premium
+129,Rodriguez LLC,Retail,Azure,Medium,North America,Standard
+130,Taylor-Beck,Retail,AWS,Small,Asia Pacific,Enterprise
+131,"Stone, Richards and Torres",Technology,Azure,Medium,North America,Enterprise
+132,"Roberts, Jones and Thompson",Healthcare,AWS,Large,North America,Enterprise
+133,Carr-Shepherd,Finance,Azure,Enterprise,Asia Pacific,Standard
+134,Williams and Sons,Manufacturing,Google Cloud,Large,North America,Premium
+135,Schroeder LLC,Technology,AWS,Enterprise,Asia Pacific,Enterprise
+136,Richards-Sanchez,Technology,Google Cloud,Medium,South America,Standard
+137,"Wood, Ward and Brown",Manufacturing,Google Cloud,Large,South America,Premium
+138,Peterson Ltd,Technology,Google Cloud,Large,Asia Pacific,Standard
+139,"Burgess, Hogan and Schwartz",Finance,Azure,Enterprise,Europe,Premium
+140,Carlson-Murillo,Manufacturing,Google Cloud,Enterprise,Asia Pacific,Standard
+141,Peterson Group,Technology,Azure,Medium,South America,Standard
+142,Burgess-Flores,Retail,Azure,Large,Asia Pacific,Enterprise
+143,Ramsey LLC,Retail,Google Cloud,Small,Europe,Standard
+144,"Martinez, Mahoney and Butler",Healthcare,Google Cloud,Enterprise,South America,Enterprise
+145,Lopez LLC,Healthcare,Google Cloud,Enterprise,South America,Premium
+146,"Torres, Kaiser and Evans",Finance,AWS,Large,Europe,Premium
+147,"Duran, Lopez and Clark",Healthcare,Azure,Large,South America,Enterprise
+148,Ruiz-Evans,Manufacturing,Azure,Enterprise,Asia Pacific,Premium
+149,"Anderson, Rose and Shaw",Technology,Azure,Large,Asia Pacific,Standard
+150,"Garrett, Wells and Hampton",Finance,Google Cloud,Medium,Asia Pacific,Standard
+151,"Ferguson, Atkinson and Silva",Manufacturing,Google Cloud,Medium,Europe,Standard
+152,"Nunez, Rogers and Horne",Technology,Azure,Large,North America,Standard
+153,"Mitchell, Clark and Henderson",Retail,AWS,Large,Europe,Premium
+154,"Foster, Smith and Steele",Finance,Google Cloud,Medium,Asia Pacific,Standard
+155,"Alvarado, Wall and Sanders",Finance,Google Cloud,Large,Europe,Enterprise
+156,"Reed, Hoffman and Walter",Technology,AWS,Small,Asia Pacific,Premium
+157,"Golden, Wise and Johnson",Technology,Azure,Large,Europe,Standard
+158,Hayes Ltd,Retail,Azure,Small,North America,Premium
+159,Johnson Group,Technology,AWS,Small,Europe,Standard
+160,"Norman, Harding and Barker",Manufacturing,Azure,Small,Europe,Standard
+161,Hart-Jones,Manufacturing,Azure,Medium,South America,Premium
+162,Casey PLC,Technology,Azure,Enterprise,Asia Pacific,Enterprise
+163,Freeman and Sons,Manufacturing,AWS,Small,Europe,Enterprise
+164,Smith LLC,Healthcare,Azure,Small,Europe,Standard
+165,Morgan-Todd,Healthcare,Google Cloud,Small,Europe,Standard
+166,Anderson Ltd,Technology,Azure,Enterprise,Asia Pacific,Standard
+167,Barnett PLC,Healthcare,Azure,Large,South America,Standard
+168,Chan Inc,Healthcare,Azure,Medium,South America,Standard
+169,Smith LLC,Manufacturing,AWS,Medium,Asia Pacific,Standard
+170,"Obrien, Ramirez and White",Finance,AWS,Medium,Asia Pacific,Enterprise
+171,Mccarthy-Pierce,Manufacturing,Azure,Enterprise,North America,Premium
+172,Chambers-Spence,Retail,Google Cloud,Enterprise,Asia Pacific,Enterprise
+173,Valdez-Clark,Manufacturing,Azure,Enterprise,North America,Enterprise
+174,Arnold-Scott,Finance,Azure,Large,Asia Pacific,Standard
+175,"Taylor, Moore and Johnson",Finance,AWS,Small,Asia Pacific,Enterprise
+176,Robinson-Ruiz,Finance,AWS,Enterprise,South America,Premium
+177,"Clark, Crosby and Maddox",Healthcare,Google Cloud,Enterprise,South America,Standard
+178,"Sweeney, Nelson and Hughes",Technology,Azure,Enterprise,Asia Pacific,Premium
+179,Campbell-Gregory,Finance,AWS,Large,South America,Enterprise
+180,Greene Ltd,Technology,Azure,Enterprise,North America,Premium
+181,Knight Group,Finance,Azure,Large,Asia Pacific,Standard
+182,"Gardner, Jones and Howell",Technology,Google Cloud,Small,South America,Premium
+183,Cook-Thompson,Finance,AWS,Large,South America,Enterprise
+184,Dominguez-Mitchell,Technology,AWS,Medium,Asia Pacific,Enterprise
+185,"Palmer, Cole and Zimmerman",Healthcare,Azure,Enterprise,South America,Standard
+186,Parker-Sanchez,Finance,Google Cloud,Medium,Europe,Premium
+187,Brewer-Callahan,Manufacturing,AWS,Enterprise,North America,Standard
+188,Ramsey LLC,Finance,Azure,Small,Europe,Premium
+189,"Olsen, Watkins and Anderson",Retail,Google Cloud,Large,South America,Premium
+190,"Strong, Harrison and Knight",Technology,AWS,Enterprise,Europe,Premium
+191,"Thompson, Adams and Leon",Healthcare,Google Cloud,Medium,North America,Premium
+192,"Reyes, Hughes and Warren",Technology,Azure,Large,North America,Premium
+193,Stein Ltd,Retail,Google Cloud,Enterprise,Europe,Premium
+194,"Brown, Smith and Carpenter",Manufacturing,Azure,Large,Asia Pacific,Enterprise
+195,Duran Ltd,Manufacturing,Azure,Enterprise,Asia Pacific,Standard
+196,Schwartz Group,Healthcare,Google Cloud,Enterprise,Europe,Premium
+197,"Murphy, Sherman and Sharp",Finance,Azure,Enterprise,South America,Premium
+198,Bradley-Ward,Healthcare,Azure,Small,Europe,Enterprise
+199,Bradshaw-Lyons,Manufacturing,Azure,Small,South America,Standard
+200,Smith-Lutz,Manufacturing,Azure,Small,Europe,Premium
+201,Simpson-Robinson,Healthcare,AWS,Enterprise,Asia Pacific,Premium
+202,Huynh Group,Manufacturing,Google Cloud,Enterprise,North America,Premium
+203,Lee-Diaz,Manufacturing,Azure,Large,South America,Enterprise
+204,Jacobs-Potts,Finance,Google Cloud,Small,Europe,Enterprise
+205,Bender-Pearson,Retail,AWS,Small,South America,Standard
+206,"Dunn, Melendez and Salazar",Finance,Azure,Medium,Asia Pacific,Standard
+207,"Kim, Young and Lloyd",Finance,Azure,Small,Asia Pacific,Premium
+208,Hoffman-Williams,Retail,Azure,Medium,Europe,Enterprise
+209,"Payne, Smith and Carter",Technology,Google Cloud,Medium,Europe,Standard
+210,"Reynolds, Contreras and Young",Finance,Google Cloud,Enterprise,Europe,Premium
+211,"Singleton, Banks and Walker",Manufacturing,AWS,Medium,South America,Enterprise
+212,Coleman-Brown,Retail,Azure,Large,North America,Premium
+213,"Harrison, Reed and Mathews",Retail,Google Cloud,Medium,North America,Premium
+214,Martinez Group,Retail,Google Cloud,Large,South America,Enterprise
+215,Meyer-Beard,Retail,Azure,Large,Europe,Premium
+216,Gonzalez-Kemp,Technology,AWS,Medium,South America,Enterprise
+217,"Mathews, Robbins and Walker",Retail,Google Cloud,Large,Asia Pacific,Standard
+218,"Brown, Zimmerman and Hardy",Technology,Azure,Small,North America,Enterprise
+219,Wheeler-Stark,Technology,Azure,Medium,Asia Pacific,Standard
+220,Moses PLC,Healthcare,Google Cloud,Large,Europe,Enterprise
+221,"Vega, Costa and Jimenez",Finance,Google Cloud,Small,Asia Pacific,Premium
+222,"Chen, King and Dickerson",Finance,Google Cloud,Large,Europe,Standard
+223,Acosta and Sons,Retail,Azure,Enterprise,Europe,Standard
+224,Schmidt and Sons,Healthcare,Google Cloud,Large,Asia Pacific,Standard
+225,"Brown, Smith and Oliver",Retail,Azure,Large,Asia Pacific,Standard
+226,Davis and Sons,Technology,AWS,Medium,Europe,Enterprise
+227,"Robinson, Hahn and Watkins",Technology,Google Cloud,Large,North America,Premium
+228,Taylor and Sons,Finance,Azure,Small,South America,Premium
+229,Bailey-Perkins,Retail,Google Cloud,Enterprise,Asia Pacific,Standard
+230,Robinson-Leonard,Healthcare,Azure,Small,Asia Pacific,Enterprise
+231,Shah Ltd,Healthcare,Google Cloud,Small,South America,Enterprise
+232,Harris-Calhoun,Retail,Google Cloud,Enterprise,North America,Standard
+233,Kelley-Bowen,Finance,AWS,Large,South America,Standard
+234,Leonard Inc,Finance,AWS,Medium,South America,Premium
+235,Shaw LLC,Retail,Google Cloud,Enterprise,Europe,Premium
+236,Baker PLC,Finance,Azure,Enterprise,Asia Pacific,Standard
+237,Gonzalez PLC,Retail,AWS,Enterprise,South America,Standard
+238,Collins LLC,Retail,AWS,Large,Asia Pacific,Standard
+239,Thomas Group,Technology,Azure,Medium,North America,Premium
+240,Vaughan-Stephens,Finance,Google Cloud,Medium,North America,Standard
+241,Ochoa-Ramsey,Retail,AWS,Medium,Europe,Standard
+242,Clay Group,Manufacturing,AWS,Medium,Europe,Premium
+243,Boone LLC,Healthcare,Google Cloud,Small,Asia Pacific,Standard
+244,"Fletcher, Davis and Guzman",Healthcare,Google Cloud,Large,Europe,Standard
+245,Rodriguez-Alvarez,Finance,AWS,Small,Asia Pacific,Standard
+246,"Perry, Hill and May",Manufacturing,Azure,Small,Europe,Premium
+247,Reid-Roberson,Finance,AWS,Enterprise,North America,Enterprise
+248,Marshall-Hall,Finance,Azure,Enterprise,Asia Pacific,Enterprise
+249,"Stewart, Marquez and Gonzalez",Manufacturing,AWS,Enterprise,Europe,Enterprise
+250,Zamora PLC,Finance,Google Cloud,Large,South America,Enterprise
+251,Kelly and Sons,Finance,AWS,Enterprise,South America,Premium
+252,"Davis, Cole and Stewart",Finance,Azure,Enterprise,North America,Standard
+253,"Nguyen, Scott and Whitaker",Retail,Google Cloud,Medium,North America,Standard
+254,"Wilkerson, Adams and Roy",Retail,Google Cloud,Large,South America,Enterprise
+255,"Rivera, Smith and Wilcox",Manufacturing,Azure,Enterprise,South America,Standard
+256,Hanson Inc,Finance,Google Cloud,Medium,South America,Premium
+257,Bruce-Glover,Healthcare,Azure,Large,South America,Premium
+258,"Romero, Navarro and Clark",Technology,Google Cloud,Small,Asia Pacific,Premium
+259,Hart Inc,Retail,Google Cloud,Large,Asia Pacific,Standard
+260,Padilla Group,Technology,AWS,Small,North America,Standard
+261,Levy Ltd,Technology,AWS,Large,Europe,Enterprise
+262,Baldwin-Rivera,Finance,Google Cloud,Large,North America,Premium
+263,"Garcia, Harper and Fleming",Retail,Google Cloud,Enterprise,North America,Premium
+264,Anderson-Hall,Manufacturing,Azure,Large,North America,Enterprise
+265,Reynolds-Campbell,Manufacturing,AWS,Medium,South America,Standard
+266,Murray-Larson,Finance,Azure,Large,North America,Premium
+267,Smith LLC,Manufacturing,AWS,Enterprise,North America,Enterprise
+268,"Perry, Bennett and Callahan",Retail,AWS,Medium,Asia Pacific,Enterprise
+269,Monroe PLC,Retail,Azure,Large,North America,Standard
+270,"Mcmillan, Barnes and Phillips",Healthcare,Google Cloud,Enterprise,North America,Standard
+271,Jordan-Hill,Finance,AWS,Medium,South America,Premium
+272,Williams Ltd,Technology,Azure,Medium,Asia Pacific,Premium
+273,"Taylor, George and Duncan",Retail,Google Cloud,Small,North America,Standard
+274,Coffey-Roberson,Healthcare,Google Cloud,Small,North America,Premium
+275,"Lester, Stewart and Sandoval",Technology,Google Cloud,Enterprise,South America,Enterprise
+276,Thompson-Schroeder,Technology,Azure,Large,Europe,Enterprise
+277,Johns-Riley,Finance,Azure,Enterprise,North America,Premium
+278,Williams-Meza,Manufacturing,Azure,Large,North America,Standard
+279,Rivera-Willis,Technology,Google Cloud,Small,North America,Standard
+280,Mason and Sons,Retail,AWS,Medium,Asia Pacific,Premium
+281,Pham-Harrison,Retail,AWS,Small,South America,Enterprise
+282,Robinson Inc,Technology,AWS,Medium,South America,Enterprise
+283,Rice-Owens,Healthcare,Google Cloud,Large,North America,Premium
+284,"Collins, Williams and Ward",Finance,Azure,Small,South America,Standard
+285,"Collins, Garcia and Adams",Retail,Google Cloud,Enterprise,South America,Enterprise
+286,Gibson PLC,Technology,Azure,Small,South America,Standard
+287,Cowan-Pruitt,Retail,AWS,Enterprise,Asia Pacific,Standard
+288,"Pope, Mcdaniel and Rodriguez",Technology,AWS,Medium,South America,Enterprise
+289,Rivas and Sons,Technology,Google Cloud,Small,South America,Premium
+290,Scott Ltd,Retail,AWS,Large,Europe,Standard
+291,"Owens, Alvarez and Skinner",Manufacturing,Google Cloud,Small,Europe,Premium
+292,"Mathis, Hansen and Mercado",Retail,Google Cloud,Medium,Europe,Standard
+293,"Larson, Hill and Hicks",Healthcare,Azure,Medium,Europe,Enterprise
+294,Foster-Santiago,Healthcare,Google Cloud,Small,Europe,Enterprise
+295,Smith-Cantu,Technology,Azure,Enterprise,Asia Pacific,Enterprise
+296,Bailey-Fowler,Retail,AWS,Enterprise,North America,Premium
+297,Webb Ltd,Technology,Google Cloud,Large,Asia Pacific,Enterprise
+298,Jacobs-Turner,Finance,Azure,Small,Asia Pacific,Premium
+299,Welch Inc,Technology,AWS,Small,Asia Pacific,Premium
+300,"Walker, Harrington and Roberts",Finance,Google Cloud,Small,South America,Premium
+301,Lopez-Adams,Manufacturing,Google Cloud,Small,South America,Enterprise
+302,Diaz Ltd,Healthcare,Azure,Enterprise,Europe,Standard
+303,English and Sons,Technology,AWS,Large,North America,Enterprise
+304,Hawkins-Holmes,Healthcare,AWS,Medium,South America,Premium
+305,"Curtis, Fletcher and Buckley",Manufacturing,Google Cloud,Medium,Asia Pacific,Premium
+306,"Brown, Murphy and Robertson",Retail,Azure,Enterprise,Asia Pacific,Enterprise
+307,Marshall-Leach,Manufacturing,AWS,Large,North America,Premium
+308,Henderson-Gonzalez,Finance,Google Cloud,Enterprise,Asia Pacific,Premium
+309,Hall-Garrison,Manufacturing,AWS,Large,North America,Enterprise
+310,Smith-James,Healthcare,Azure,Large,South America,Standard
+311,Shaw-Anderson,Manufacturing,Google Cloud,Small,Asia Pacific,Enterprise
+312,"Moore, Sandoval and Bailey",Technology,Google Cloud,Large,Europe,Enterprise
+313,Curtis-Castillo,Manufacturing,AWS,Enterprise,Asia Pacific,Standard
+314,Jones Ltd,Retail,Azure,Medium,Europe,Premium
+315,"Molina, Greer and Jackson",Technology,AWS,Medium,Europe,Standard
+316,"Bowman, Cox and Hebert",Finance,Azure,Small,North America,Enterprise
+317,"Reyes, Mathews and Orozco",Retail,Google Cloud,Medium,South America,Standard
+318,Garner PLC,Healthcare,AWS,Medium,South America,Standard
+319,"Jarvis, Harrison and Simpson",Technology,Azure,Medium,South America,Enterprise
+320,Graham-Hall,Retail,Google Cloud,Enterprise,Europe,Enterprise
+321,Day Inc,Healthcare,Azure,Enterprise,Europe,Premium
+322,"Hoffman, Ramos and Smith",Manufacturing,Azure,Enterprise,Asia Pacific,Premium
+323,Proctor and Sons,Manufacturing,Google Cloud,Enterprise,Europe,Standard
+324,"Blackwell, Kennedy and Romero",Manufacturing,AWS,Large,North America,Enterprise
+325,"Johnson, Carter and Wong",Technology,Azure,Small,North America,Premium
+326,Bowen and Sons,Finance,AWS,Large,South America,Enterprise
+327,Johnson-Wilkerson,Healthcare,Azure,Small,Europe,Premium
+328,Johnston-Quinn,Retail,AWS,Enterprise,North America,Premium
+329,"Hernandez, Smith and Carroll",Manufacturing,Azure,Medium,South America,Standard
+330,Carroll-Espinoza,Retail,AWS,Small,Asia Pacific,Standard
+331,Johnson and Sons,Retail,AWS,Medium,North America,Premium
+332,"White, Oliver and Andrews",Technology,Google Cloud,Medium,South America,Premium
+333,Williams PLC,Manufacturing,AWS,Small,North America,Premium
+334,Benjamin-Santos,Healthcare,AWS,Enterprise,North America,Premium
+335,Nicholson PLC,Healthcare,Azure,Small,North America,Standard
+336,"Johnson, Shelton and Reed",Technology,Google Cloud,Enterprise,North America,Standard
+337,Miller-Webb,Technology,Google Cloud,Small,Europe,Enterprise
+338,Reed Group,Healthcare,Azure,Enterprise,North America,Enterprise
+339,Johnson-Bryant,Retail,AWS,Enterprise,Europe,Enterprise
+340,Kirby-Richard,Finance,Google Cloud,Large,North America,Enterprise
+341,Doyle-Wilson,Manufacturing,Google Cloud,Small,South America,Premium
+342,"Lane, Adams and Wells",Finance,Google Cloud,Enterprise,Asia Pacific,Premium
+343,"Winters, Pierce and Mcdaniel",Finance,Azure,Small,Asia Pacific,Standard
+344,"Stewart, Mcguire and Nicholson",Finance,Google Cloud,Large,Europe,Standard
+345,Mejia LLC,Retail,Google Cloud,Large,Europe,Enterprise
+346,Brown LLC,Technology,Google Cloud,Enterprise,Europe,Standard
+347,Hunt PLC,Finance,Google Cloud,Enterprise,North America,Premium
+348,Wallace-Atkins,Healthcare,AWS,Medium,North America,Premium
+349,"Mendoza, Torres and Church",Retail,Google Cloud,Enterprise,South America,Premium
+350,Madden Group,Finance,Google Cloud,Medium,Asia Pacific,Premium
+351,"Evans, Nunez and Brown",Finance,Google Cloud,Large,Asia Pacific,Standard
+352,Weaver Inc,Retail,Azure,Enterprise,South America,Premium
+353,Brown-Adkins,Retail,AWS,Enterprise,South America,Premium
+354,Bennett LLC,Manufacturing,Azure,Small,South America,Standard
+355,"Garcia, Anderson and Humphrey",Technology,Google Cloud,Medium,Asia Pacific,Premium
+356,Lucas-Bryant,Finance,AWS,Large,Asia Pacific,Premium
+357,Crawford-Davis,Technology,Google Cloud,Enterprise,Europe,Enterprise
+358,"Oneill, Thompson and Wilson",Technology,Azure,Enterprise,North America,Enterprise
+359,"Rice, Gardner and Murphy",Retail,Google Cloud,Enterprise,Asia Pacific,Enterprise
+360,Johnson-Peterson,Finance,AWS,Enterprise,Asia Pacific,Enterprise
+361,Miller Ltd,Healthcare,AWS,Medium,South America,Standard
+362,"Parks, Smith and Terrell",Healthcare,AWS,Medium,Asia Pacific,Premium
+363,"Wood, White and Lopez",Technology,Google Cloud,Small,Europe,Enterprise
+364,Sanchez Ltd,Technology,Azure,Large,South America,Standard
+365,Campbell and Sons,Manufacturing,AWS,Large,South America,Premium
+366,Nguyen-Small,Retail,AWS,Small,North America,Enterprise
+367,Warren-Munoz,Healthcare,Azure,Enterprise,North America,Premium
+368,Torres-Simmons,Retail,Google Cloud,Enterprise,Europe,Enterprise
+369,Williams-Miller,Retail,Google Cloud,Enterprise,Europe,Standard
+370,Blake Group,Healthcare,AWS,Enterprise,Europe,Enterprise
+371,"Graham, Walters and Alvarado",Technology,AWS,Large,Asia Pacific,Enterprise
+372,Williams-Lawson,Finance,Google Cloud,Large,Asia Pacific,Standard
+373,Gaines PLC,Healthcare,Azure,Medium,North America,Standard
+374,"Peterson, King and Miller",Healthcare,AWS,Enterprise,North America,Premium
+375,Green-Baxter,Manufacturing,Google Cloud,Large,South America,Enterprise
+376,Davis Group,Healthcare,Google Cloud,Small,North America,Premium
+377,Myers-Mays,Technology,Google Cloud,Enterprise,South America,Premium
+378,Smith Inc,Manufacturing,AWS,Medium,Asia Pacific,Enterprise
+379,Marshall LLC,Finance,Azure,Enterprise,Asia Pacific,Standard
+380,Woodard-Wright,Manufacturing,Google Cloud,Medium,Europe,Premium
+381,"Todd, Lewis and Andrews",Manufacturing,AWS,Small,Europe,Premium
+382,Rodriguez LLC,Healthcare,AWS,Large,Europe,Premium
+383,Taylor-Kelly,Manufacturing,Azure,Small,Asia Pacific,Standard
+384,Baker Inc,Manufacturing,Azure,Medium,Asia Pacific,Enterprise
+385,Medina-Lucas,Manufacturing,AWS,Medium,Europe,Standard
+386,Mckee Group,Manufacturing,Google Cloud,Large,North America,Standard
+387,"Mullen, Wright and Brown",Finance,AWS,Large,Europe,Enterprise
+388,Potter LLC,Technology,Google Cloud,Small,South America,Enterprise
+389,Curry-Mccormick,Manufacturing,Azure,Large,South America,Standard
+390,"Ruiz, Moss and Cannon",Technology,Azure,Enterprise,North America,Enterprise
+391,Sheppard-Smith,Finance,AWS,Enterprise,South America,Premium
+392,Davis-Murphy,Technology,AWS,Large,Europe,Premium
+393,Stephens-Sampson,Retail,Google Cloud,Large,South America,Standard
+394,Fletcher Ltd,Retail,Google Cloud,Small,Asia Pacific,Standard
+395,"Lopez, Peterson and Key",Technology,AWS,Large,South America,Standard
+396,Perkins LLC,Healthcare,AWS,Small,Asia Pacific,Premium
+397,"Parsons, Young and Mitchell",Manufacturing,Azure,Medium,Europe,Premium
+398,"Wright, Williams and Perkins",Manufacturing,Google Cloud,Large,Europe,Standard
+399,"Rose, Duke and Murray",Technology,Google Cloud,Enterprise,South America,Premium
+400,Lewis Ltd,Technology,AWS,Small,South America,Enterprise
+401,Ramirez Inc,Technology,AWS,Medium,Asia Pacific,Standard
+402,"Wu, Bridges and Martin",Finance,Azure,Enterprise,South America,Premium
+403,"Phillips, Conner and Mcneil",Manufacturing,AWS,Small,South America,Standard
+404,Turner Group,Retail,Google Cloud,Large,South America,Premium
+405,"Horton, Hays and Gates",Finance,Azure,Small,Europe,Premium
+406,Barnett-Crawford,Manufacturing,Azure,Small,South America,Enterprise
+407,Hill LLC,Technology,Google Cloud,Large,North America,Standard
+408,Williams and Sons,Finance,Azure,Large,Asia Pacific,Enterprise
+409,Hoffman Inc,Retail,AWS,Medium,South America,Enterprise
+410,Hughes LLC,Finance,AWS,Small,Europe,Enterprise
+411,"George, King and Michael",Retail,Azure,Enterprise,Europe,Enterprise
+412,Carter-Hall,Manufacturing,AWS,Large,Asia Pacific,Standard
+413,Smith-Barry,Technology,Google Cloud,Large,Asia Pacific,Enterprise
+414,Russell Group,Manufacturing,Google Cloud,Enterprise,Asia Pacific,Premium
+415,"Tanner, Johnson and Cortez",Finance,Azure,Large,North America,Premium
+416,Gomez-Martin,Manufacturing,Azure,Small,South America,Premium
+417,"Aguilar, White and Garcia",Manufacturing,Google Cloud,Medium,North America,Enterprise
+418,"Dunn, Baker and Brooks",Technology,AWS,Enterprise,Europe,Enterprise
+419,Powers Group,Healthcare,AWS,Small,Europe,Standard
+420,"James, Marshall and Warren",Technology,Azure,Enterprise,Europe,Premium
+421,Carroll LLC,Healthcare,Azure,Enterprise,North America,Enterprise
+422,Knox and Sons,Healthcare,Google Cloud,Medium,Asia Pacific,Enterprise
+423,"Bowman, Benitez and Spencer",Technology,Google Cloud,Enterprise,Asia Pacific,Standard
+424,Odonnell-Best,Technology,Google Cloud,Large,Asia Pacific,Enterprise
+425,"Jacobs, Montgomery and Parker",Retail,Google Cloud,Enterprise,Europe,Standard
+426,Duran-Adkins,Retail,Google Cloud,Large,Europe,Premium
+427,Valdez-Khan,Retail,Google Cloud,Medium,South America,Premium
+428,"White, Walters and Thomas",Technology,Azure,Large,Asia Pacific,Standard
+429,"Valencia, Barnes and Roberts",Manufacturing,Google Cloud,Enterprise,South America,Premium
+430,"Beasley, Jones and Rasmussen",Healthcare,Azure,Small,Asia Pacific,Enterprise
+431,"Williams, Singleton and Lopez",Finance,Azure,Enterprise,Asia Pacific,Enterprise
+432,Lopez-Mills,Technology,AWS,Medium,Asia Pacific,Enterprise
+433,George-Ramos,Retail,AWS,Small,Europe,Standard
+434,Adams-Haley,Finance,Google Cloud,Medium,Europe,Standard
+435,Ward-Ramirez,Finance,Azure,Large,South America,Standard
+436,"Matthews, Peters and Holloway",Healthcare,AWS,Medium,South America,Enterprise
+437,Evans Inc,Technology,Azure,Medium,Asia Pacific,Premium
+438,Farley-Johnson,Retail,Google Cloud,Small,North America,Enterprise
+439,"Cook, Morgan and Pittman",Manufacturing,AWS,Small,Europe,Premium
+440,Haynes LLC,Healthcare,AWS,Enterprise,South America,Standard
+441,Porter Ltd,Retail,AWS,Small,Asia Pacific,Enterprise
+442,"Randall, Rogers and Baker",Manufacturing,AWS,Large,Asia Pacific,Premium
+443,Cobb and Sons,Manufacturing,Google Cloud,Enterprise,Europe,Enterprise
+444,Keith Ltd,Technology,Azure,Medium,North America,Premium
+445,White-Murray,Healthcare,Google Cloud,Enterprise,Asia Pacific,Enterprise
+446,Lewis-Miles,Healthcare,AWS,Large,Asia Pacific,Enterprise
+447,Greene-Schroeder,Healthcare,AWS,Enterprise,South America,Enterprise
+448,Stewart-Sanders,Retail,AWS,Enterprise,North America,Standard
+449,Lane-Sanchez,Healthcare,Azure,Large,Europe,Standard
+450,Kim-Hester,Retail,Azure,Medium,South America,Premium
+451,Caldwell Ltd,Retail,Azure,Small,Asia Pacific,Enterprise
+452,Smith LLC,Retail,Google Cloud,Medium,North America,Enterprise
+453,Rasmussen-Lane,Finance,Azure,Large,Europe,Premium
+454,Neal LLC,Manufacturing,Google Cloud,Large,North America,Enterprise
+455,Ortiz and Sons,Retail,Azure,Medium,Europe,Standard
+456,Freeman LLC,Technology,AWS,Enterprise,Asia Pacific,Premium
+457,"Hernandez, Jackson and Cisneros",Manufacturing,Azure,Medium,Europe,Enterprise
+458,Stevens Ltd,Manufacturing,AWS,Enterprise,Asia Pacific,Standard
+459,Morrow Group,Manufacturing,AWS,Small,Europe,Enterprise
+460,Smith LLC,Manufacturing,AWS,Medium,Asia Pacific,Enterprise
+461,"Alexander, Nguyen and Evans",Technology,AWS,Medium,South America,Standard
+462,"Francis, Flores and Ward",Manufacturing,Azure,Small,South America,Standard
+463,Gomez-Watson,Manufacturing,Azure,Enterprise,North America,Enterprise
+464,Baldwin Inc,Technology,Google Cloud,Large,North America,Premium
+465,George-Faulkner,Retail,AWS,Medium,North America,Standard
+466,Hernandez LLC,Technology,Azure,Small,North America,Standard
+467,"Sanchez, Kline and Martin",Technology,AWS,Large,South America,Standard
+468,Macias-Moore,Healthcare,Google Cloud,Enterprise,Asia Pacific,Premium
+469,"Silva, Donaldson and Gonzalez",Technology,Azure,Enterprise,North America,Enterprise
+470,Lester-Charles,Manufacturing,AWS,Large,North America,Standard
+471,"Miller, Miller and Ochoa",Manufacturing,Azure,Medium,Europe,Standard
+472,Hall PLC,Finance,Azure,Enterprise,South America,Enterprise
+473,Robinson Ltd,Technology,AWS,Medium,South America,Premium
+474,"Taylor, Daniels and Mitchell",Healthcare,Azure,Medium,North America,Standard
+475,"Hamilton, Reyes and Jackson",Technology,Google Cloud,Small,Europe,Standard
+476,Chang Ltd,Finance,AWS,Small,South America,Enterprise
+477,Lee PLC,Finance,AWS,Small,South America,Premium
+478,Jones-Hansen,Healthcare,Google Cloud,Medium,North America,Standard
+479,"Harmon, Wise and Elliott",Manufacturing,Azure,Medium,Asia Pacific,Enterprise
+480,"Bishop, Parks and Brandt",Manufacturing,Google Cloud,Large,Europe,Premium
+481,Gomez-Owens,Healthcare,Google Cloud,Medium,South America,Premium
+482,"King, Johnson and Morris",Retail,AWS,Medium,South America,Enterprise
+483,Wilson-Williams,Technology,AWS,Large,South America,Enterprise
+484,"Horne, Hayden and Mayo",Retail,Google Cloud,Enterprise,South America,Standard
+485,Morse-Singh,Retail,Azure,Medium,South America,Standard
+486,"Ramos, Freeman and Garcia",Healthcare,Azure,Medium,South America,Standard
+487,Stewart-Lopez,Manufacturing,Azure,Enterprise,Europe,Premium
+488,Velazquez Inc,Healthcare,Azure,Medium,Asia Pacific,Enterprise
+489,Lawson Inc,Finance,Azure,Large,North America,Enterprise
+490,Snyder-Johnston,Healthcare,AWS,Large,South America,Enterprise
+491,"Zavala, Cohen and Brown",Manufacturing,Google Cloud,Small,North America,Standard
+492,Jones-Bishop,Manufacturing,Google Cloud,Medium,South America,Standard
+493,Reeves and Sons,Retail,Azure,Small,Europe,Standard
+494,"Kelly, Kim and Holmes",Finance,Google Cloud,Enterprise,Europe,Enterprise
+495,Solis and Sons,Manufacturing,Google Cloud,Medium,South America,Standard
+496,"Griffin, Hopkins and Flores",Manufacturing,Azure,Large,South America,Premium
+497,Rice-Richardson,Manufacturing,Google Cloud,Large,Asia Pacific,Premium
+498,"Murphy, Hernandez and Smith",Retail,Google Cloud,Enterprise,South America,Standard
+499,"King, Brown and Mccall",Technology,Azure,Medium,Asia Pacific,Premium
+500,Mathis-Singh,Technology,AWS,Medium,Europe,Standard
+501,Castillo Group,Retail,Google Cloud,Enterprise,Asia Pacific,Standard
+502,"Johnson, Cox and Mcintosh",Healthcare,Azure,Medium,South America,Enterprise
+503,"Martin, Williams and Combs",Healthcare,Azure,Large,Asia Pacific,Premium
+504,Johnson-Dyer,Technology,Azure,Medium,Asia Pacific,Standard
+505,Wilkins PLC,Healthcare,Google Cloud,Enterprise,Europe,Enterprise
+506,Silva Ltd,Finance,Google Cloud,Small,North America,Enterprise
+507,Lawson-Morrow,Finance,AWS,Enterprise,Europe,Enterprise
+508,Pierce LLC,Healthcare,AWS,Medium,North America,Standard
+509,"Tanner, Thompson and Adams",Manufacturing,Azure,Large,North America,Enterprise
+510,"Taylor, Tate and James",Manufacturing,Azure,Enterprise,North America,Standard
+511,Harris-Taylor,Manufacturing,Google Cloud,Enterprise,North America,Standard
+512,Richardson LLC,Manufacturing,Google Cloud,Large,Asia Pacific,Standard
+513,"Prince, Young and Armstrong",Manufacturing,Google Cloud,Enterprise,Europe,Standard
+514,Young-Savage,Finance,Google Cloud,Medium,Europe,Standard
+515,Davila and Sons,Manufacturing,Google Cloud,Large,Asia Pacific,Premium
+516,"Jordan, Nelson and White",Technology,AWS,Large,South America,Premium
+517,"Mcmahon, Moreno and Carroll",Manufacturing,AWS,Medium,Asia Pacific,Enterprise
+518,Combs and Sons,Finance,Google Cloud,Small,North America,Premium
+519,Simpson-Peters,Technology,Azure,Enterprise,North America,Enterprise
+520,Walsh and Sons,Finance,Google Cloud,Medium,North America,Premium
+521,Quinn LLC,Technology,Google Cloud,Large,North America,Enterprise
+522,Horne Group,Finance,AWS,Medium,South America,Premium
+523,"Hartman, Nguyen and Arnold",Finance,AWS,Large,North America,Standard
+524,Smith and Sons,Retail,AWS,Medium,Europe,Enterprise
+525,Graham Ltd,Technology,AWS,Large,Europe,Enterprise
+526,Rowland PLC,Healthcare,Google Cloud,Enterprise,Asia Pacific,Premium
+527,Sanchez LLC,Healthcare,Google Cloud,Small,Asia Pacific,Standard
+528,Savage-Taylor,Finance,Azure,Medium,North America,Premium
+529,"Henderson, Lee and Conway",Manufacturing,Google Cloud,Enterprise,Asia Pacific,Standard
+530,Nelson-Moses,Retail,Azure,Enterprise,Europe,Premium
+531,Morgan Group,Manufacturing,Azure,Enterprise,Europe,Enterprise
+532,Brown Inc,Manufacturing,Google Cloud,Enterprise,North America,Enterprise
+533,Wilkins-Galvan,Retail,AWS,Small,North America,Premium
+534,Carr-Byrd,Healthcare,Azure,Medium,South America,Premium
+535,Oconnor-Martin,Retail,AWS,Small,North America,Premium
+536,"Bell, Foster and Matthews",Technology,Azure,Large,North America,Standard
+537,Jackson Group,Finance,AWS,Enterprise,South America,Enterprise
+538,Khan PLC,Manufacturing,Google Cloud,Enterprise,North America,Standard
+539,"Delgado, Sanders and Scott",Finance,Azure,Small,Asia Pacific,Premium
+540,Wood LLC,Finance,Azure,Enterprise,South America,Standard
+541,"Santiago, Myers and Waller",Manufacturing,AWS,Medium,South America,Standard
+542,"Wilson, Anderson and Guerra",Healthcare,Azure,Large,Asia Pacific,Premium
+543,Hall Ltd,Healthcare,AWS,Medium,South America,Premium
+544,Harper-Thompson,Technology,Azure,Enterprise,North America,Premium
+545,Brown-Herrera,Retail,AWS,Enterprise,Europe,Premium
+546,Roberts-Vance,Finance,AWS,Large,North America,Premium
+547,Downs-Miller,Retail,Google Cloud,Enterprise,Asia Pacific,Premium
+548,"Dickerson, Hall and Freeman",Retail,Azure,Medium,Asia Pacific,Premium
+549,Hughes LLC,Manufacturing,Google Cloud,Medium,South America,Premium
+550,Peterson and Sons,Healthcare,Azure,Large,Asia Pacific,Enterprise
+551,Poole-Wright,Technology,Google Cloud,Medium,Asia Pacific,Premium
+552,Schmidt-Brown,Retail,Azure,Large,North America,Enterprise
+553,Wilson Ltd,Healthcare,Google Cloud,Medium,North America,Enterprise
+554,"Reyes, Abbott and Christian",Technology,Google Cloud,Medium,South America,Premium
+555,Leach-Jones,Finance,Azure,Enterprise,Europe,Enterprise
+556,"Figueroa, Jones and Butler",Retail,AWS,Large,Europe,Enterprise
+557,Richards-Richards,Technology,Azure,Small,South America,Enterprise
+558,Johnson Group,Technology,Google Cloud,Enterprise,South America,Enterprise
+559,Ayers-Welch,Finance,Azure,Small,North America,Standard
+560,Huang-Johnson,Retail,AWS,Small,South America,Premium
+561,Rodriguez-Jones,Technology,AWS,Small,North America,Premium
+562,Mcdowell-Martinez,Healthcare,Google Cloud,Medium,South America,Premium
+563,Kennedy-Swanson,Technology,Azure,Medium,Asia Pacific,Standard
+564,Schwartz-Johnson,Technology,AWS,Large,South America,Standard
+565,Hughes Ltd,Finance,Google Cloud,Medium,Asia Pacific,Premium
+566,Conner Group,Retail,Azure,Medium,South America,Premium
+567,Finley-White,Technology,AWS,Enterprise,South America,Premium
+568,Wilson Group,Finance,Azure,Small,North America,Standard
+569,"Freeman, Meyer and Johnson",Retail,Google Cloud,Small,Europe,Enterprise
+570,Romero-Nichols,Healthcare,Google Cloud,Medium,Europe,Premium
+571,"Reese, Spencer and Anderson",Manufacturing,Azure,Enterprise,Europe,Premium
+572,Allen Group,Healthcare,AWS,Enterprise,South America,Standard
+573,"Carpenter, Collier and Lee",Manufacturing,AWS,Enterprise,South America,Premium
+574,Gray-Green,Finance,Google Cloud,Medium,Europe,Premium
+575,"Thomas, Johnson and Franklin",Finance,Google Cloud,Small,Europe,Premium
+576,"Newman, Smith and Hall",Retail,AWS,Enterprise,North America,Premium
+577,Weber-Wood,Technology,Google Cloud,Large,South America,Enterprise
+578,"Perez, Hale and Adams",Technology,Google Cloud,Small,Asia Pacific,Premium
+579,Simmons-Walton,Technology,Google Cloud,Medium,Asia Pacific,Enterprise
+580,"Mitchell, Roberts and Bates",Manufacturing,AWS,Medium,Asia Pacific,Standard
+581,Butler Group,Healthcare,Azure,Small,Europe,Premium
+582,Flores-Stuart,Healthcare,Google Cloud,Enterprise,South America,Enterprise
+583,"Watson, Valdez and Barrera",Healthcare,Google Cloud,Enterprise,South America,Standard
+584,"Webb, Hernandez and Ramirez",Technology,Google Cloud,Medium,Europe,Premium
+585,Dean PLC,Retail,AWS,Medium,Asia Pacific,Premium
+586,"Reynolds, Ruiz and Harrison",Manufacturing,AWS,Large,North America,Premium
+587,Johnson Inc,Healthcare,AWS,Enterprise,South America,Premium
+588,Randall LLC,Technology,Azure,Enterprise,South America,Standard
+589,Stuart Group,Finance,Google Cloud,Small,Europe,Premium
+590,"Johnson, Blackwell and Reed",Finance,Azure,Medium,Asia Pacific,Standard
+591,Hale Inc,Technology,Google Cloud,Enterprise,North America,Enterprise
+592,Garcia-Smith,Finance,Azure,Large,North America,Enterprise
+593,Jensen LLC,Technology,Google Cloud,Medium,South America,Standard
+594,Mora-Thompson,Healthcare,Azure,Small,South America,Premium
+595,Hurst and Sons,Retail,AWS,Enterprise,North America,Standard
+596,Davis Inc,Healthcare,Google Cloud,Large,South America,Standard
+597,Nguyen LLC,Manufacturing,AWS,Medium,Europe,Standard
+598,"Villa, Estrada and Carrillo",Manufacturing,Azure,Large,Europe,Premium
+599,Evans Ltd,Retail,Azure,Large,North America,Standard
+600,"Rodriguez, Cole and Fox",Technology,AWS,Large,Europe,Enterprise
+601,"Marquez, Johnson and Park",Healthcare,AWS,Medium,Asia Pacific,Standard
+602,Sanchez Group,Technology,Azure,Medium,Asia Pacific,Enterprise
+603,"Ayers, Harrington and Ramirez",Technology,Azure,Enterprise,North America,Enterprise
+604,"Marshall, Salazar and Williams",Finance,Azure,Large,Asia Pacific,Premium
+605,"Gray, Guerrero and Ho",Technology,Azure,Small,North America,Enterprise
+606,Sullivan-Ford,Technology,Google Cloud,Large,North America,Enterprise
+607,"Scott, Norton and Scott",Technology,AWS,Enterprise,Europe,Premium
+608,Miller-House,Retail,Azure,Large,Asia Pacific,Enterprise
+609,Gibson Inc,Manufacturing,AWS,Enterprise,Asia Pacific,Enterprise
+610,"Scott, Perez and Nguyen",Finance,AWS,Small,South America,Standard
+611,Khan PLC,Finance,AWS,Enterprise,South America,Standard
+612,Lewis-Reed,Technology,AWS,Medium,Asia Pacific,Standard
+613,"Martinez, Pollard and Wright",Retail,AWS,Large,Asia Pacific,Standard
+614,Elliott Inc,Retail,Google Cloud,Medium,North America,Premium
+615,Williams-Hayes,Retail,Google Cloud,Medium,South America,Enterprise
+616,"Bennett, Perkins and Walters",Finance,Google Cloud,Small,North America,Standard
+617,"Huffman, Johnson and Hernandez",Technology,AWS,Medium,Europe,Enterprise
+618,"Walton, Mathews and Mckay",Technology,AWS,Small,Asia Pacific,Standard
+619,"Morgan, Davis and Lowe",Technology,Google Cloud,Medium,South America,Standard
+620,"Garcia, Graves and Wolf",Healthcare,Azure,Small,North America,Standard
+621,"Jones, Campbell and Spears",Retail,Azure,Large,Europe,Premium
+622,Yang-Williams,Healthcare,Google Cloud,Medium,North America,Enterprise
+623,Velazquez-Taylor,Manufacturing,AWS,Medium,South America,Premium
+624,"Powell, Hughes and Mccullough",Healthcare,Google Cloud,Medium,South America,Enterprise
+625,"Parker, Herman and Campbell",Technology,AWS,Small,North America,Standard
+626,Wright Inc,Finance,Google Cloud,Enterprise,Asia Pacific,Premium
+627,Pierce Ltd,Retail,AWS,Medium,Asia Pacific,Enterprise
+628,Evans-Howard,Finance,AWS,Large,North America,Enterprise
+629,Sloan Group,Retail,AWS,Medium,South America,Premium
+630,Odom Group,Finance,AWS,Enterprise,South America,Standard
+631,Jones LLC,Healthcare,Azure,Small,North America,Premium
+632,"Cook, Snow and Aguirre",Retail,AWS,Enterprise,South America,Premium
+633,Morris Ltd,Manufacturing,Google Cloud,Medium,South America,Standard
+634,"Beasley, Page and Meyers",Finance,Google Cloud,Small,North America,Premium
+635,"Burton, Woods and Lee",Healthcare,AWS,Small,South America,Enterprise
+636,"Taylor, Irwin and French",Retail,Google Cloud,Enterprise,South America,Enterprise
+637,Hall PLC,Technology,AWS,Medium,Asia Pacific,Standard
+638,Grant-Sanchez,Retail,AWS,Medium,Europe,Enterprise
+639,Montoya-Dunn,Retail,Azure,Small,Asia Pacific,Enterprise
+640,Brown-Wright,Technology,Google Cloud,Medium,North America,Standard
+641,Campbell Group,Finance,Azure,Small,South America,Enterprise
+642,Orr Ltd,Manufacturing,AWS,Large,Europe,Standard
+643,White LLC,Finance,Google Cloud,Medium,North America,Standard
+644,Williams-Wallace,Technology,Azure,Large,Europe,Premium
+645,Wiggins-White,Healthcare,Google Cloud,Large,North America,Standard
+646,"Wilkins, Sheppard and Boone",Retail,Azure,Large,North America,Premium
+647,Wright and Sons,Manufacturing,Google Cloud,Small,South America,Premium
+648,Brown PLC,Manufacturing,Azure,Small,South America,Enterprise
+649,"Rivera, Barrett and Martin",Healthcare,Azure,Medium,Asia Pacific,Standard
+650,Bruce-King,Manufacturing,Google Cloud,Small,Europe,Enterprise
+651,"Smith, Carrillo and Kaiser",Manufacturing,AWS,Small,North America,Standard
+652,Willis-Griffith,Finance,Azure,Large,South America,Standard
+653,Harmon-Kelly,Healthcare,AWS,Enterprise,Europe,Premium
+654,Rogers Ltd,Healthcare,Azure,Large,Asia Pacific,Standard
+655,"Martinez, Hernandez and Richardson",Manufacturing,Azure,Small,North America,Standard
+656,Shaw-Johnson,Healthcare,Google Cloud,Small,South America,Standard
+657,Miller-Young,Technology,Azure,Large,Asia Pacific,Standard
+658,"Bennett, Castro and Hart",Manufacturing,Azure,Small,Asia Pacific,Standard
+659,Daniels-Lawson,Retail,Google Cloud,Large,Europe,Premium
+660,"Cooper, Jackson and Hayes",Retail,Google Cloud,Enterprise,Europe,Enterprise
+661,"Martin, Hardy and Foster",Manufacturing,AWS,Medium,North America,Premium
+662,Moore PLC,Finance,AWS,Large,North America,Premium
+663,Thomas-Douglas,Finance,Google Cloud,Enterprise,Asia Pacific,Standard
+664,Cummings Inc,Healthcare,Google Cloud,Medium,South America,Premium
+665,"Mcdonald, Davis and Mathews",Finance,AWS,Large,North America,Standard
+666,Kline Group,Healthcare,Google Cloud,Enterprise,Asia Pacific,Premium
+667,Stewart PLC,Finance,Google Cloud,Small,Europe,Enterprise
+668,"Clark, Miller and Avila",Technology,AWS,Small,South America,Enterprise
+669,"Brown, Castillo and Martinez",Healthcare,AWS,Large,Asia Pacific,Premium
+670,Mcguire-Robinson,Technology,Google Cloud,Large,Asia Pacific,Premium
+671,Davis Inc,Retail,AWS,Small,Europe,Standard
+672,"Molina, Camacho and Roy",Manufacturing,AWS,Medium,North America,Standard
+673,Mcgee-Levy,Technology,Azure,Large,South America,Standard
+674,"Hampton, Barnes and Sanford",Manufacturing,Azure,Medium,South America,Premium
+675,"Mathis, Brown and Reynolds",Technology,Azure,Small,North America,Standard
+676,"Perkins, Hicks and Vincent",Retail,Google Cloud,Small,Europe,Premium
+677,"Espinoza, Cervantes and Smith",Healthcare,AWS,Medium,Asia Pacific,Premium
+678,Russell Ltd,Manufacturing,AWS,Large,Asia Pacific,Standard
+679,"Burton, Turner and Snyder",Finance,Azure,Enterprise,Europe,Standard
+680,"Williamson, Pennington and Rhodes",Technology,AWS,Medium,North America,Standard
+681,"Perkins, Evans and Martinez",Finance,AWS,Medium,Europe,Premium
+682,Grant Inc,Retail,Google Cloud,Small,Asia Pacific,Standard
+683,"Manning, Howard and Ortiz",Finance,AWS,Medium,South America,Standard
+684,"Williams, Brown and Green",Finance,Azure,Small,North America,Premium
+685,Rogers Group,Finance,AWS,Enterprise,South America,Premium
+686,Davis and Sons,Finance,Azure,Enterprise,Europe,Premium
+687,Taylor-Ryan,Healthcare,AWS,Large,Asia Pacific,Premium
+688,"Copeland, Ballard and Wright",Healthcare,AWS,Medium,Asia Pacific,Premium
+689,Walton LLC,Technology,Google Cloud,Enterprise,North America,Standard
+690,Jarvis-Wolfe,Retail,Azure,Medium,South America,Standard
+691,Fischer-Myers,Manufacturing,AWS,Small,South America,Enterprise
+692,Davis LLC,Retail,Azure,Enterprise,Asia Pacific,Enterprise
+693,Burns-Howard,Manufacturing,Azure,Enterprise,Asia Pacific,Standard
+694,Taylor Inc,Finance,Azure,Medium,North America,Premium
+695,Powers Inc,Finance,Azure,Large,Europe,Standard
+696,Dunlap-Martinez,Finance,AWS,Medium,Asia Pacific,Enterprise
+697,"Mills, Davis and Sandoval",Finance,AWS,Enterprise,Asia Pacific,Standard
+698,Smith PLC,Healthcare,AWS,Large,Asia Pacific,Enterprise
+699,Parsons-Mcintosh,Finance,Google Cloud,Large,Europe,Enterprise
+700,Hernandez Inc,Healthcare,Azure,Large,Europe,Premium
+701,"Brown, Fischer and Hudson",Finance,AWS,Small,Europe,Enterprise
+702,Jones-Ramirez,Healthcare,AWS,Enterprise,North America,Premium
+703,Nguyen PLC,Manufacturing,AWS,Medium,Asia Pacific,Enterprise
+704,Avila-Palmer,Healthcare,Azure,Small,North America,Standard
+705,"Blevins, Rhodes and Zavala",Manufacturing,Google Cloud,Medium,North America,Enterprise
+706,Hunter and Sons,Retail,AWS,Large,South America,Enterprise
+707,Brady-Bartlett,Finance,Azure,Large,Asia Pacific,Standard
+708,Phillips Inc,Healthcare,Google Cloud,Enterprise,South America,Enterprise
+709,Porter and Sons,Retail,AWS,Large,Europe,Enterprise
+710,Williams Group,Manufacturing,AWS,Enterprise,Asia Pacific,Enterprise
+711,Johnson and Sons,Retail,AWS,Medium,North America,Enterprise
+712,"Jackson, Payne and Brown",Manufacturing,Azure,Small,Europe,Enterprise
+713,"Sweeney, Hamilton and Mitchell",Retail,Google Cloud,Medium,North America,Premium
+714,Santos-Saunders,Healthcare,Azure,Small,Europe,Premium
+715,Clements-Richardson,Retail,AWS,Small,Asia Pacific,Premium
+716,"Jones, Maddox and Stewart",Finance,Azure,Medium,Europe,Enterprise
+717,"Jackson, Reed and Guerrero",Finance,Azure,Large,North America,Enterprise
+718,Schneider-Bolton,Finance,AWS,Enterprise,South America,Enterprise
+719,Byrd-Martinez,Technology,AWS,Enterprise,South America,Premium
+720,Hernandez Ltd,Retail,Google Cloud,Enterprise,North America,Premium
+721,"Williams, Leon and Silva",Manufacturing,Google Cloud,Medium,Europe,Premium
+722,"Mason, Robinson and Smith",Finance,AWS,Large,North America,Premium
+723,Hartman-Brady,Retail,AWS,Small,Asia Pacific,Standard
+724,Russell-Bennett,Technology,AWS,Small,North America,Premium
+725,Williams-Harrell,Manufacturing,Google Cloud,Enterprise,North America,Premium
+726,Clayton PLC,Healthcare,Google Cloud,Enterprise,Europe,Standard
+727,"Neal, Patterson and Phelps",Finance,Azure,Medium,Europe,Premium
+728,Cain Inc,Manufacturing,Google Cloud,Large,Asia Pacific,Premium
+729,Li-Lee,Healthcare,AWS,Small,South America,Enterprise
+730,Spencer-Cameron,Manufacturing,Azure,Medium,North America,Premium
+731,Buchanan-Perez,Finance,Azure,Small,Asia Pacific,Enterprise
+732,Brown Inc,Manufacturing,Azure,Medium,North America,Standard
+733,Delacruz-Davis,Healthcare,AWS,Large,North America,Premium
+734,Murphy Inc,Finance,Azure,Enterprise,South America,Premium
+735,"Suarez, Snyder and Rogers",Retail,AWS,Enterprise,Europe,Premium
+736,Brooks-Estes,Technology,Azure,Medium,South America,Standard
+737,"Clark, Haynes and Alvarez",Retail,Azure,Enterprise,Asia Pacific,Standard
+738,"Robertson, Jones and Chandler",Retail,Google Cloud,Small,Europe,Enterprise
+739,Blair-Monroe,Finance,AWS,Large,South America,Enterprise
+740,Hall-Crawford,Healthcare,Google Cloud,Small,South America,Enterprise
+741,Curry-Gallegos,Technology,Google Cloud,Enterprise,Europe,Premium
+742,Williams LLC,Retail,AWS,Enterprise,North America,Enterprise
+743,Winters-Davis,Manufacturing,Google Cloud,Medium,North America,Premium
+744,Figueroa Ltd,Healthcare,AWS,Medium,Europe,Standard
+745,Johnson-Mcgee,Finance,Azure,Small,South America,Standard
+746,"Beltran, Davis and Wright",Healthcare,Google Cloud,Large,Asia Pacific,Enterprise
+747,Rojas Ltd,Finance,AWS,Enterprise,South America,Enterprise
+748,"Burke, Duffy and Mckay",Retail,Azure,Enterprise,North America,Enterprise
+749,"Marshall, Valdez and Thomas",Manufacturing,Google Cloud,Enterprise,North America,Premium
+750,"Hale, Salinas and Choi",Healthcare,AWS,Small,North America,Enterprise
+751,Jordan-Riley,Finance,Azure,Large,South America,Premium
+752,Morrison-Mcbride,Technology,Google Cloud,Enterprise,South America,Standard
+753,"Dickson, Brown and Morales",Healthcare,Azure,Enterprise,Europe,Enterprise
+754,Spears-Weber,Manufacturing,Google Cloud,Enterprise,North America,Premium
+755,"Mccarthy, Holloway and Mercado",Retail,Google Cloud,Medium,North America,Enterprise
+756,Jimenez and Sons,Technology,Azure,Large,North America,Premium
+757,"Salazar, Collins and Peters",Retail,Azure,Large,South America,Enterprise
+758,"Arnold, Castaneda and Miller",Finance,AWS,Medium,Asia Pacific,Enterprise
+759,"Clark, Rodriguez and Hicks",Technology,Azure,Large,South America,Enterprise
+760,"Martinez, Hale and Valencia",Finance,AWS,Enterprise,Europe,Premium
+761,Frost Inc,Technology,Google Cloud,Large,North America,Enterprise
+762,Brown Inc,Healthcare,AWS,Large,South America,Standard
+763,"Jenkins, Spence and Davis",Manufacturing,Google Cloud,Small,Europe,Standard
+764,Mcdonald PLC,Healthcare,AWS,Medium,North America,Premium
+765,"Snyder, Hernandez and Hardy",Finance,Azure,Medium,Asia Pacific,Premium
+766,Brooks-Payne,Technology,Google Cloud,Enterprise,North America,Enterprise
+767,Finley PLC,Finance,AWS,Large,South America,Enterprise
+768,Marshall LLC,Technology,AWS,Enterprise,Asia Pacific,Premium
+769,Mcgrath Group,Healthcare,Azure,Small,Asia Pacific,Standard
+770,Hunt PLC,Technology,AWS,Medium,Europe,Standard
+771,"Davis, Brandt and Hill",Healthcare,Google Cloud,Medium,Asia Pacific,Enterprise
+772,"Jackson, Meyers and Hoffman",Technology,Google Cloud,Small,North America,Premium
+773,Rivera-Burnett,Healthcare,Google Cloud,Medium,North America,Standard
+774,Miller Ltd,Retail,Google Cloud,Large,Asia Pacific,Premium
+775,"Holt, Robinson and Gilbert",Technology,Azure,Enterprise,Asia Pacific,Standard
+776,Lewis Ltd,Technology,Azure,Enterprise,North America,Standard
+777,Bishop-Fitzpatrick,Manufacturing,Google Cloud,Large,Asia Pacific,Premium
+778,Shaw Inc,Finance,Azure,Small,Asia Pacific,Premium
+779,Mora Ltd,Retail,Azure,Large,Asia Pacific,Standard
+780,Tyler Ltd,Healthcare,Google Cloud,Medium,North America,Enterprise
+781,"Blackwell, Kent and Nguyen",Technology,Google Cloud,Large,Europe,Enterprise
+782,Ross and Sons,Finance,Google Cloud,Enterprise,Asia Pacific,Premium
+783,Williams-Zimmerman,Technology,Azure,Enterprise,North America,Enterprise
+784,Hudson-Sanders,Manufacturing,AWS,Large,Europe,Enterprise
+785,Myers Inc,Manufacturing,Google Cloud,Enterprise,Asia Pacific,Enterprise
+786,Mata Group,Retail,AWS,Medium,Asia Pacific,Standard
+787,"David, Vance and Allen",Technology,AWS,Large,Europe,Enterprise
+788,Bean PLC,Retail,Google Cloud,Small,Europe,Premium
+789,"Hensley, Moore and Perez",Healthcare,Google Cloud,Large,South America,Premium
+790,Ayala Group,Retail,Azure,Large,South America,Standard
+791,Jones and Sons,Technology,AWS,Small,South America,Standard
+792,Anderson Inc,Manufacturing,AWS,Enterprise,Asia Pacific,Premium
+793,"Johnson, Contreras and Thomas",Finance,AWS,Medium,Europe,Premium
+794,"Murray, Hughes and Pennington",Technology,Google Cloud,Enterprise,Europe,Premium
+795,Hamilton Group,Healthcare,AWS,Enterprise,Asia Pacific,Enterprise
+796,"Porter, Harris and Chang",Healthcare,Azure,Small,North America,Premium
+797,Strickland LLC,Retail,AWS,Medium,Europe,Premium
+798,Phillips-Myers,Finance,AWS,Enterprise,South America,Premium
+799,"Cunningham, Nixon and Gallagher",Technology,Azure,Enterprise,North America,Standard
+800,Sanchez Ltd,Manufacturing,AWS,Large,North America,Premium
+801,Salazar-Rice,Manufacturing,AWS,Small,North America,Enterprise
+802,"Rush, Long and Stafford",Healthcare,AWS,Large,Asia Pacific,Standard
+803,"Johnson, Nolan and Allen",Finance,Azure,Large,Europe,Standard
+804,Marshall-Gardner,Finance,Azure,Large,South America,Enterprise
+805,"Holt, Tate and Rodriguez",Manufacturing,Google Cloud,Large,South America,Enterprise
+806,Wallace-Jimenez,Healthcare,Azure,Enterprise,Asia Pacific,Standard
+807,"Pittman, Williams and Phelps",Healthcare,Azure,Small,Europe,Standard
+808,Reed-Cooper,Healthcare,AWS,Small,Europe,Standard
+809,"Spears, White and Lawson",Retail,Google Cloud,Small,South America,Enterprise
+810,Stanley-Harrison,Retail,Google Cloud,Small,North America,Enterprise
+811,Torres-Leonard,Finance,Google Cloud,Small,North America,Enterprise
+812,"Stephens, Walton and Hutchinson",Finance,Azure,Enterprise,South America,Standard
+813,Smith-Clarke,Manufacturing,Azure,Enterprise,Europe,Standard
+814,"Richard, Barron and Casey",Finance,Azure,Enterprise,North America,Enterprise
+815,"Moore, Gonzales and Everett",Manufacturing,Azure,Medium,South America,Standard
+816,Ryan PLC,Manufacturing,Google Cloud,Small,Asia Pacific,Standard
+817,"Benson, Camacho and Solis",Finance,Azure,Medium,Europe,Premium
+818,Brandt PLC,Manufacturing,AWS,Large,South America,Premium
+819,Kent-Smith,Healthcare,AWS,Enterprise,Europe,Enterprise
+820,Jackson-Edwards,Technology,Azure,Medium,North America,Standard
+821,Zamora-Lyons,Finance,AWS,Enterprise,Europe,Standard
+822,"Simmons, Stone and Thompson",Manufacturing,AWS,Small,Asia Pacific,Enterprise
+823,"Lee, Evans and Garcia",Healthcare,Azure,Large,Asia Pacific,Premium
+824,Miller Inc,Finance,AWS,Medium,North America,Premium
+825,Hill LLC,Retail,Google Cloud,Large,South America,Enterprise
+826,Jones Inc,Finance,AWS,Small,North America,Standard
+827,Perkins PLC,Healthcare,Azure,Large,South America,Enterprise
+828,Tapia PLC,Retail,Google Cloud,Small,Asia Pacific,Premium
+829,"Bishop, Hernandez and Ashley",Healthcare,AWS,Enterprise,South America,Premium
+830,Green-Bernard,Retail,Azure,Enterprise,South America,Enterprise
+831,Paul-Blevins,Healthcare,AWS,Medium,North America,Standard
+832,Allen-Lee,Finance,Azure,Enterprise,South America,Standard
+833,"Tran, Booth and Jones",Manufacturing,Azure,Large,North America,Enterprise
+834,Long LLC,Healthcare,Azure,Enterprise,North America,Premium
+835,"Jacobs, Higgins and Lee",Technology,AWS,Small,Asia Pacific,Enterprise
+836,Garcia and Sons,Retail,AWS,Medium,Asia Pacific,Enterprise
+837,Wilkinson-Stephens,Manufacturing,Google Cloud,Small,South America,Enterprise
+838,"Jones, Mccormick and Harrington",Healthcare,Azure,Large,South America,Standard
+839,"Savage, Johnson and Benson",Manufacturing,Google Cloud,Small,North America,Enterprise
+840,Hunt-Hawkins,Healthcare,Google Cloud,Enterprise,South America,Standard
+841,Bowman-Hill,Finance,Azure,Large,Europe,Premium
+842,"Velasquez, Lynch and Shaw",Retail,AWS,Medium,South America,Premium
+843,Peters-Gregory,Healthcare,AWS,Enterprise,South America,Enterprise
+844,"Tyler, Paul and Ware",Technology,AWS,Enterprise,South America,Premium
+845,Doyle-Russell,Finance,Azure,Small,North America,Premium
+846,Thompson LLC,Technology,AWS,Small,North America,Enterprise
+847,Owen Group,Manufacturing,Google Cloud,Large,Europe,Enterprise
+848,Arias-Rubio,Technology,Azure,Large,North America,Standard
+849,Smith PLC,Technology,Azure,Enterprise,Asia Pacific,Enterprise
+850,"Willis, Erickson and Jones",Technology,AWS,Small,Europe,Standard
+851,Mcpherson-Prince,Retail,Azure,Large,Asia Pacific,Enterprise
+852,Reyes Ltd,Finance,AWS,Medium,South America,Standard
+853,"Castaneda, Dunn and Hernandez",Technology,AWS,Large,Europe,Standard
+854,Williams-Peters,Finance,Azure,Medium,South America,Standard
+855,Reed-Howard,Retail,AWS,Enterprise,North America,Enterprise
+856,Olson-Moore,Manufacturing,AWS,Enterprise,South America,Enterprise
+857,Brown-Ball,Manufacturing,Google Cloud,Medium,South America,Standard
+858,Taylor-Johnson,Manufacturing,Google Cloud,Small,South America,Enterprise
+859,Guerrero-Johnson,Technology,Google Cloud,Medium,Europe,Enterprise
+860,Pierce-Collins,Healthcare,AWS,Enterprise,Asia Pacific,Enterprise
+861,"Keith, Taylor and Miller",Technology,Azure,Medium,Asia Pacific,Premium
+862,"Hunter, Haney and Garcia",Retail,Azure,Enterprise,Europe,Standard
+863,Gonzalez-Scott,Technology,Google Cloud,Large,Asia Pacific,Enterprise
+864,"Ford, Fisher and Bell",Manufacturing,Google Cloud,Medium,Europe,Standard
+865,Herman-Leach,Manufacturing,Google Cloud,Large,Asia Pacific,Enterprise
+866,"Edwards, Mccormick and Li",Healthcare,Google Cloud,Medium,Asia Pacific,Enterprise
+867,"Bray, Davis and Johnson",Finance,Azure,Enterprise,South America,Enterprise
+868,"Hart, Carter and Lindsey",Manufacturing,Azure,Enterprise,North America,Enterprise
+869,Watts Inc,Finance,AWS,Enterprise,Europe,Standard
+870,Escobar-Austin,Finance,AWS,Large,Europe,Premium
+871,"Morales, Mcdonald and Ford",Retail,AWS,Small,Asia Pacific,Standard
+872,Cisneros Group,Manufacturing,AWS,Large,South America,Standard
+873,"Mitchell, Mullins and Vazquez",Manufacturing,Google Cloud,Medium,South America,Standard
+874,Vaughn PLC,Manufacturing,Google Cloud,Large,North America,Premium
+875,Cordova Inc,Technology,Azure,Large,North America,Standard
+876,Goodwin-Austin,Retail,AWS,Enterprise,Europe,Enterprise
+877,Melton-Bennett,Retail,Google Cloud,Medium,Europe,Premium
+878,Hunt Group,Technology,AWS,Small,Europe,Standard
+879,"Buck, Powell and Holt",Manufacturing,AWS,Enterprise,North America,Premium
+880,Cohen Group,Retail,Google Cloud,Large,Europe,Standard
+881,Taylor LLC,Manufacturing,Azure,Small,Asia Pacific,Premium
+882,Guerrero-Watson,Healthcare,AWS,Medium,Asia Pacific,Enterprise
+883,"Christian, Foley and Stark",Finance,Google Cloud,Large,South America,Enterprise
+884,Lee-Thomas,Manufacturing,Azure,Small,Asia Pacific,Enterprise
+885,"Martinez, Gonzalez and Barnes",Healthcare,AWS,Small,Europe,Premium
+886,"Williams, Nelson and Cain",Manufacturing,Google Cloud,Enterprise,North America,Premium
+887,Reyes Inc,Healthcare,AWS,Large,Asia Pacific,Premium
+888,Kelley LLC,Retail,AWS,Enterprise,North America,Standard
+889,Gibbs-Ruiz,Retail,Azure,Medium,Europe,Standard
+890,Johnson and Sons,Retail,Azure,Small,South America,Premium
+891,Dixon Inc,Manufacturing,Google Cloud,Large,North America,Enterprise
+892,West LLC,Retail,Google Cloud,Enterprise,South America,Standard
+893,"Greene, Johnson and Cherry",Retail,Google Cloud,Medium,Asia Pacific,Enterprise
+894,Mcintyre Ltd,Finance,AWS,Medium,North America,Enterprise
+895,Proctor-Stevens,Finance,AWS,Medium,South America,Standard
+896,Horton-Alexander,Healthcare,Google Cloud,Enterprise,North America,Enterprise
+897,"Duke, Stewart and French",Healthcare,AWS,Enterprise,Asia Pacific,Standard
+898,Rodriguez Group,Finance,AWS,Small,Europe,Premium
+899,Rodriguez-Wallace,Manufacturing,AWS,Medium,Asia Pacific,Premium
+900,Williams Group,Technology,Azure,Enterprise,South America,Premium
+901,"Parker, Holmes and Cox",Finance,Azure,Small,North America,Enterprise
+902,Weber-Davis,Manufacturing,AWS,Small,North America,Premium
+903,Nash and Sons,Manufacturing,AWS,Large,Asia Pacific,Enterprise
+904,"Romero, Proctor and Castillo",Finance,Azure,Enterprise,South America,Premium
+905,Vasquez Inc,Finance,Azure,Medium,Europe,Standard
+906,Lopez Ltd,Technology,Google Cloud,Large,Europe,Premium
+907,Greer-Coleman,Retail,AWS,Medium,North America,Standard
+908,Solis-Harris,Finance,Google Cloud,Enterprise,North America,Premium
+909,Jones Inc,Healthcare,Google Cloud,Large,Europe,Premium
+910,Wright-Pearson,Manufacturing,AWS,Medium,Europe,Standard
+911,Tapia Group,Manufacturing,Azure,Medium,North America,Standard
+912,"Odom, Johnson and Taylor",Manufacturing,AWS,Enterprise,North America,Premium
+913,Ray Group,Finance,Azure,Small,Europe,Enterprise
+914,Allen PLC,Manufacturing,Azure,Large,Asia Pacific,Standard
+915,"Clayton, Foley and Johnson",Healthcare,AWS,Large,North America,Standard
+916,Shepard and Sons,Retail,Azure,Enterprise,Asia Pacific,Enterprise
+917,Clark LLC,Retail,Google Cloud,Medium,Asia Pacific,Premium
+918,Taylor-Shepherd,Technology,AWS,Small,Asia Pacific,Standard
+919,Chung-Acevedo,Healthcare,Google Cloud,Enterprise,Asia Pacific,Premium
+920,Massey-Jones,Healthcare,Google Cloud,Large,South America,Premium
+921,"Davidson, Dyer and Barton",Technology,Azure,Large,South America,Enterprise
+922,Page-Fox,Finance,AWS,Small,Asia Pacific,Standard
+923,Miles-Myers,Manufacturing,AWS,Large,North America,Enterprise
+924,Mcmillan Inc,Finance,AWS,Small,South America,Enterprise
+925,"Smith, Williams and Johnson",Healthcare,AWS,Large,South America,Enterprise
+926,"Mcintosh, Sims and Alexander",Healthcare,Azure,Enterprise,Europe,Enterprise
+927,Murphy Ltd,Retail,AWS,Enterprise,North America,Premium
+928,Yu LLC,Retail,Google Cloud,Small,Europe,Enterprise
+929,Davies-Moore,Healthcare,Google Cloud,Medium,South America,Standard
+930,Bean-Martin,Healthcare,Google Cloud,Medium,South America,Premium
+931,Olsen-Hudson,Finance,AWS,Enterprise,Europe,Standard
+932,"Ruiz, Gonzalez and Brown",Retail,Azure,Medium,North America,Enterprise
+933,Page-Smith,Healthcare,Google Cloud,Large,South America,Premium
+934,White Inc,Technology,AWS,Small,Asia Pacific,Standard
+935,Miller Ltd,Manufacturing,Google Cloud,Large,Asia Pacific,Enterprise
+936,Brown-Rodriguez,Manufacturing,Google Cloud,Medium,South America,Enterprise
+937,Brandt-Walker,Technology,Azure,Small,Asia Pacific,Premium
+938,"Barber, Sherman and Black",Healthcare,Google Cloud,Enterprise,Asia Pacific,Premium
+939,Edwards and Sons,Technology,Azure,Small,Europe,Premium
+940,"Stewart, Jenkins and Herring",Healthcare,AWS,Small,Asia Pacific,Standard
+941,Hernandez-Smith,Healthcare,AWS,Medium,Asia Pacific,Enterprise
+942,"Brown, Ortiz and Wilson",Finance,Google Cloud,Medium,South America,Premium
+943,"Davis, Powell and Miles",Finance,Azure,Enterprise,South America,Standard
+944,Bailey-Carr,Manufacturing,AWS,Enterprise,North America,Standard
+945,"Beard, Harris and Rowe",Finance,AWS,Medium,Europe,Enterprise
+946,Jacobs-Sawyer,Manufacturing,AWS,Medium,North America,Standard
+947,Evans-Robinson,Retail,AWS,Enterprise,North America,Enterprise
+948,"Jones, Quinn and King",Retail,AWS,Medium,South America,Enterprise
+949,Lopez-Reynolds,Technology,Azure,Medium,Europe,Premium
+950,"Sanders, Barnes and Brown",Manufacturing,AWS,Medium,Asia Pacific,Standard
+951,"Webb, Hamilton and Sherman",Retail,Azure,Small,Europe,Premium
+952,Estrada and Sons,Technology,AWS,Small,North America,Standard
+953,Allen-Davis,Manufacturing,Google Cloud,Enterprise,Europe,Enterprise
+954,Carey-Jones,Finance,AWS,Enterprise,North America,Enterprise
+955,Adams-Reid,Manufacturing,AWS,Small,South America,Enterprise
+956,Perez-Moreno,Healthcare,Google Cloud,Small,South America,Enterprise
+957,"Peck, Murphy and Henderson",Technology,Azure,Small,South America,Standard
+958,Butler Group,Technology,Azure,Large,North America,Premium
+959,Jones-Clark,Healthcare,Azure,Enterprise,Europe,Standard
+960,"Calderon, Smith and Kemp",Retail,Google Cloud,Enterprise,Asia Pacific,Standard
+961,Morris-Lucas,Finance,Google Cloud,Small,North America,Enterprise
+962,"Anderson, Kennedy and Smith",Finance,Azure,Medium,Asia Pacific,Premium
+963,"Mckinney, Ferguson and Russo",Retail,AWS,Medium,South America,Enterprise
+964,Moore Inc,Manufacturing,Azure,Large,South America,Enterprise
+965,Rocha Ltd,Retail,Google Cloud,Large,South America,Standard
+966,Barnes Group,Technology,Google Cloud,Enterprise,Europe,Premium
+967,"Stanley, Woods and Cameron",Manufacturing,Google Cloud,Enterprise,Asia Pacific,Premium
+968,Costa-Smith,Manufacturing,Azure,Enterprise,Europe,Enterprise
+969,"Carlson, Kent and Petersen",Finance,Google Cloud,Medium,South America,Enterprise
+970,Flores-Foster,Healthcare,AWS,Medium,South America,Premium
+971,Bowman-Wilson,Manufacturing,Google Cloud,Small,Europe,Premium
+972,Fischer-Mack,Finance,AWS,Medium,South America,Enterprise
+973,Garza PLC,Technology,AWS,Small,Asia Pacific,Standard
+974,Gallagher Inc,Retail,AWS,Small,South America,Premium
+975,"Singh, Young and Francis",Manufacturing,Google Cloud,Large,North America,Standard
+976,Erickson-Warner,Technology,Azure,Small,Europe,Enterprise
+977,Reyes-Serrano,Manufacturing,Azure,Medium,North America,Enterprise
+978,Washington-Lewis,Manufacturing,Google Cloud,Medium,Europe,Enterprise
+979,Cook Inc,Finance,Azure,Medium,North America,Standard
+980,"Davis, Mcgee and Acevedo",Finance,Azure,Enterprise,Asia Pacific,Enterprise
+981,Spence-Harding,Technology,Azure,Medium,North America,Enterprise
+982,Chavez-Graham,Finance,AWS,Large,Asia Pacific,Premium
+983,Williams-Grimes,Retail,AWS,Medium,South America,Premium
+984,"Gomez, Lopez and Williams",Manufacturing,AWS,Large,Europe,Premium
+985,"Pittman, Wright and Quinn",Manufacturing,AWS,Small,Asia Pacific,Premium
+986,Ortiz Ltd,Finance,Google Cloud,Large,Asia Pacific,Enterprise
+987,Bell-Esparza,Technology,Azure,Enterprise,Europe,Premium
+988,"Wolfe, Campbell and Flynn",Technology,Google Cloud,Enterprise,North America,Premium
+989,"Luna, Wiley and Sellers",Finance,Azure,Small,South America,Enterprise
+990,Arnold-Allen,Healthcare,Google Cloud,Medium,Asia Pacific,Premium
+991,Sims Group,Retail,Google Cloud,Small,Asia Pacific,Standard
+992,Lloyd and Sons,Retail,AWS,Enterprise,Asia Pacific,Standard
+993,Stewart Inc,Manufacturing,AWS,Enterprise,Asia Pacific,Premium
+994,Soto Ltd,Healthcare,Google Cloud,Large,Europe,Enterprise
+995,"White, Hunter and Becker",Healthcare,Azure,Medium,Europe,Enterprise
+996,"Hensley, Christian and Torres",Healthcare,Azure,Medium,Europe,Standard
+997,"Smith, Oneill and Gonzalez",Healthcare,Google Cloud,Large,Europe,Standard
+998,Williams and Sons,Finance,AWS,Enterprise,North America,Enterprise
+999,King-Chung,Finance,Azure,Large,Asia Pacific,Premium
+1000,Powell Ltd,Manufacturing,Azure,Enterprise,Europe,Enterprise
